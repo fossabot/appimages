@@ -1,15 +1,15 @@
 {
   "site": {
     "title": "appimages",
-    "base_url": "",
-    "base_path": "/",
+    "base_url": "https://drsheppard01.github.io/appimages",
+    "base_path": "/appimages",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "Appimages"
   },
 
   "settings": {
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Dr.Sheppard"
   },
 
   "navigation_button": {
