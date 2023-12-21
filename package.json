@@ -6,12 +6,12 @@
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
-    "dev": "yarn generate-json && astro dev",
-    "build": "yarn generate-json && astro build",
+    "dev": "bun generate-json && astro dev",
+    "build": "bun generate-json && astro build",
     "preview": "astro preview",
     "format": "prettier -w ./src",
     "generate-json": "node scripts/jsonGenerator.js",
-    "remove-darkmode": "node scripts/removeDarkmode.js && yarn format"
+    "remove-darkmode": "node scripts/removeDarkmode.js && bun format"
   },
   "dependencies": {
     "@astrojs/mdx": "^2.0.1",
@@ -50,8 +50,6 @@
     "eslint": "^8.56.0",
     "postcss": "^8.4.32",
     "prettier": "^3.1.1",
-    "prettier-plugin-astro": "^0.12.2",
-    "prettier-plugin-tailwindcss": "^0.5.9",
     "sass": "^1.69.5",
     "tailwindcss": "^3.3.7",
     "tailwind-bootstrap-grid": "^5.1.0",
