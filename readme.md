@@ -13,15 +13,8 @@
   <a href="https://github.com/withastro/astro/releases/tag/astro%404.0.0" alt="Contributors">
     <img src="https://img.shields.io/static/v1?label=ASTRO&message=4.0&color=000&logo=astro" />
   </a>
+  <img src="https://img.shields.io/github/languages/code-size/Drsheppard01/appimages" alt="code size">
 
-  <a href="https://github.com/zeon-studio/astroplate/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zeon-studio/astroplate" alt="license"></a>
-
-  <img src="https://img.shields.io/github/languages/code-size/zeon-studio/astroplate" alt="code size">
-
-  <a href="https://github.com/zeon-studio/astroplate/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/zeon-studio/astroplate" alt="contributors"></a>
-</p>
 
 ## 📌 Key Features
 
@@ -30,11 +23,9 @@
 - 🔍 Search Functionality
 - 🌑 Dark Mode
 - 🏷️ Tags & Categories
-- 🔗 Netlify setting pre-configured
 - 📞 Support contact form
 - 📱 Fully responsive
 - 📝 Write and update content in Markdown / MDX
-- 💬 Disqus Comment
 - 🔳 Syntax Highlighting
 
 ### 📄 15+ Pre-designed Pages
@@ -56,73 +47,8 @@
 - 🔍 Search
 
 ## 🔗 Integrations
-
 - astro/react
 - astro/sitemap
 - astro/tailwind
 
-## 🚀 Getting Started
-
-### 📦 Dependencies
-
-- astro 4.0+
-- node v20.10+
-- npm v10.2+
-- tailwind v3.3+
-
-### 👉 Install Dependencies
-
-```bash
-npm install
-```
-
-### 👉 Development Command
-
-```bash
-npm run dev
-```
-
-### 👉 Build Command
-
-```bash
-npm run build
-```
-
-### 👉 Build and Run With Docker
-
-```bash
-docker build -t astroplate .
-# or
-# docker --build-arg INSTALLER=npm build -t astroplate .
-# or
-# docker --build-arg INSTALLER=pnpm build -t astroplate .
-
-docker run -p 3000:80 astroplate
-# or
-# docker run --rm -p 3000:80 astroplate
-```
-
-To access the shell within the container:
-
-```bash
-docker run -it --rm astroplate ash
-```
-
-<!-- reporting issue -->
-## 🐞 Reporting Issues
-
-We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/zeon-studio/astroplate/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/zeon-studio/astroplate/issues).
-
-<!-- licence -->
-## 📝 License
-
-Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
-
-**Code License:** Released under the [MIT](https://github.comzeon-studio/astroplate/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
-## 💻 Need Custom Development Services?
-
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/).
+That project used https://github.com/zeon-studio/astroplate
