@@ -1,10 +1,10 @@
 {
-  "name": "astroplate",
-  "version": "3.0.1",
-  "description": "Astro and Tailwindcss boilerplate",
-  "author": "zeon.studio",
+  "name": "appimages",
+  "version": "0.0.1",
+  "description": "built atop astroplate by zeon studio",
+  "author": "drsheppard01",
   "license": "MIT",
-  "packageManager": "yarn@1.22.19",
+  "packageManager": "bun@latest",
   "scripts": {
     "dev": "bun generate-json && astro dev",
     "build": "bun generate-json && astro build",
@@ -23,7 +23,6 @@
     "astro-auto-import": "^0.4.2",
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.0",
-    "disqus-react": "^1.1.5",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
     "marked": "^11.1.0",
