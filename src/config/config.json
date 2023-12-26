@@ -1,8 +1,7 @@
 {
   "site": {
     "title": "appimages",
-    "base_url": "https://drsheppard01.github.io",
-    "base_path": "/appimages",
+    "base_url": "https://drsheppard01.github.io/appimages",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
