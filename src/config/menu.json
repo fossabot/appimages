@@ -22,19 +22,19 @@
         },
         {
           "name": "Blog",
-          "url": "/blog"
+          "url": "blog"
         },
         {
           "name": "Authors",
-          "url": "/authors"
+          "url": "authors"
         },
         {
           "name": "Categories",
-          "url": "/categories"
+          "url": "categories"
         },
         {
           "name": "Tags",
-          "url": "/tags"
+          "url": "tags"
         }
       ]
     }
