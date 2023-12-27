@@ -6,11 +6,11 @@
     },
     {
       "name": "About",
-      "url": "/about"
+      "url": "appimages/about"
     },
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "appimages/elements"
     },
     {
       "name": "Pages",
@@ -18,27 +18,23 @@
       "children": [
         {
           "name": "Contact",
-          "url": "/contact"
+          "url": "appimages/contact"
         },
         {
           "name": "Blog",
-          "url": "/blog"
+          "url": "appimages/blog"
         },
         {
           "name": "Authors",
-          "url": "/authors"
+          "url": "appimages/authors"
         },
         {
           "name": "Categories",
-          "url": "/categories"
+          "url": "appimages/categories"
         },
         {
           "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
+          "url": "appimages/tags"
         }
       ]
     }
@@ -46,11 +42,11 @@
   "footer": [
     {
       "name": "Elements",
-      "url": "/elements"
+      "url": "appimages/elements"
     },
     {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "appimages/privacy-policy"
     }
   ]
 }
