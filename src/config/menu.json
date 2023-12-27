@@ -6,11 +6,11 @@
     },
     {
       "name": "About",
-      "url": "appimages/about"
+      "url": "about"
     },
     {
       "name": "Elements",
-      "url": "appimages/elements"
+      "url": "elements"
     },
     {
       "name": "Pages",
@@ -42,11 +42,11 @@
   "footer": [
     {
       "name": "Elements",
-      "url": "appimages/elements"
+      "url": "elements"
     },
     {
       "name": "Privacy Policy",
-      "url": "appimages/privacy-policy"
+      "url": "privacy-policy"
     }
   ]
 }
