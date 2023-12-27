@@ -18,23 +18,23 @@
       "children": [
         {
           "name": "Contact",
-          "url": "appimages/contact"
+          "url": "contact"
         },
         {
           "name": "Blog",
-          "url": "appimages/blog"
+          "url": "/blog"
         },
         {
           "name": "Authors",
-          "url": "appimages/authors"
+          "url": "/authors"
         },
         {
           "name": "Categories",
-          "url": "appimages/categories"
+          "url": "/categories"
         },
         {
           "name": "Tags",
-          "url": "appimages/tags"
+          "url": "/tags"
         }
       ]
     }
