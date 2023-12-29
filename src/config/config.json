@@ -4,8 +4,8 @@
     "base_url": "https://drsheppard01.github.io",
     "base_path": "/appimages",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/appimages//images/favicon.png",
+    "logo": "/appimages//images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
@@ -35,7 +35,7 @@
 
   "metadata": {
     "meta_author": "drsheppard01",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/appimages//images/og-image.png",
     "meta_description": "App which store Appimage applications for Linux"
   }
 }
