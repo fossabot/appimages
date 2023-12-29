@@ -5,41 +5,61 @@
       "url": "/appimages"
     },
     {
-      "name": "About",
-      "url": "about"
-    },
-    {
       "name": "Elements",
       "url": "elements"
     },
     {
-      "name": "Pages",
+      "name": "Categories",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
-          "url": "contact"
+          "name": "Audio & Video",
+          "url": "/categories/audiovideo"
         },
         {
-          "name": "Blog",
-          "url": "blog"
+          "name": "Development",
+          "url": "/categories/development"
         },
         {
-          "name": "Authors",
-          "url": "authors"
+          "name": "Education",
+          "url": "/categories/education"
         },
         {
-          "name": "Categories",
-          "url": "categories"
+          "name": "Games",
+          "url": "/categories/games"
         },
         {
-          "name": "Tags",
-          "url": "tags"
+          "name": "Graphics",
+          "url": "/categories/graphics"
+        },
+        {
+          "name": "Network",
+          "url": "/categories/network"
+        },
+        {
+          "name": "Productivity",
+          "url": "/categories/productivity"
+        },
+        {
+          "name": "Science",
+          "url": "/categories/science"
+        },
+        {  
+          "name": "System",
+          "url": "/categories/system"
+        },
+        {
+          "name": "Utilities",
+          "url": "/categories/utilities"
         }
       ]
-    }
+    } 
   ],
   "footer": [
+    {
+      "name": "About",
+      "url": "about"
+    },
     {
       "name": "Elements",
       "url": "elements"
