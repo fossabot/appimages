@@ -21,7 +21,7 @@ export async function getStaticPaths() {
 const { category } = Astro.params;
 
 // get posts by category
-const BLOG_FOLDER = "/appimages/blog";
+const BLOG_FOLDER = "appimages/blog";
 const posts = await getSinglePage(BLOG_FOLDER);
 const filterByCategories = taxonomyFilter(posts, "categories", category!);
 ---
