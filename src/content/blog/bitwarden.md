@@ -2,9 +2,9 @@
 title: "bitwarden"
 meta_title: ""
 description: "Open source password management solutions for individuals, teams, and business organizations."
-date: 2023-10-22T16:46:00Z
+date: 2023-12-21T19:02:00Z
 image: "/images/image-placeholder.png"
-categories: ["Network"]
+categories: ["Productivity"]
 author: "BitWarden"
 tags: ["official"]
 draft: false

@@ -1,13 +1,13 @@
 ---
-title: ""
+title: "Flycast"
 meta_title: ""
-description: ""
-date: 2023-10-16T22:52:00Z
+description: "Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast"
+date: 2023-10-28T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "86box Authors"
+author: "Flyinghead"
 tags: ["official"]
 draft: false
 ---
 
-Download: 
+Download: https://github.com/flyinghead/flycast/releases/download/v2.2/flycast-x86_64.AppImage

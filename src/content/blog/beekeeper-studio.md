@@ -1,13 +1,13 @@
 ---
-title: ""
+title: "Beekeeper Studio"
 meta_title: ""
-description: ""
-date: 2023-10-16T22:52:00Z
+description: "Beekeeper Studio is a cross-platform SQL editor and database manager"
+date: 2023-09-30T02:19:00Z
 image: "/images/image-placeholder.png"
-categories: ["Games"]
-author: "86box Authors"
+categories: ["Development"]
+author: "Matthew Rathbone"
 tags: ["official"]
 draft: false
 ---
 
-Download: 
+Download:https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.0.3/Beekeeper-Studio-4.0.3.AppImage
