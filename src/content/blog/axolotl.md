@@ -1,13 +1,13 @@
 ---
-title: ""
+title: "Axolotl"
 meta_title: ""
-description: ""
-date: 2023-10-16T22:52:00Z
-image: "/images/image-placeholder.png"
-categories: ["Games"]
-author: "86box Authors"
+description: "Complete cross-platform Signal client"
+date: 2023-10-27T23:04:00Z
+image: "appimages/images/image-placeholder.png"
+categories: ["Network"]
+author: "Aaron Kimmig"
 tags: ["official"]
 draft: false
 ---
 
-Download:
+Download:https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage

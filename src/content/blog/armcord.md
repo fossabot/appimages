@@ -3,7 +3,7 @@ title: "ArmCord"
 meta_title: ""
 description: "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight"
 date: 2023-10-22T16:46:00Z
-image: "/images/image-placeholder.png"
+image: "appimages/images/image-placeholder.png"
 categories: ["Network"]
 author: "ArmCord"
 tags: ["official"]

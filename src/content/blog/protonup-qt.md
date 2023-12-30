@@ -3,7 +3,7 @@ title: "ProtonUp-Qt"
 meta_title: ""
 description: "Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface"
 date: 2023-08-10T17:00:00Z
-image: "/images/image-placeholder.png"
+image: "appimages/images/image-placeholder.png"
 categories: ["Games"]
 author: "DavidoTek"
 tags: ["official"]
