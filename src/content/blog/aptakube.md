@@ -3,7 +3,7 @@ title: "Aptakube"
 meta_title: ""
 description: "Modern, lightweight and multi-cluster Kubernetes GUI"
 date: 2023-12-11T20:29:00Z
-image: "appimagesimages/image-placeholder.png"
+image: "appimages/images/image-placeholder.png"
 categories: ["Development"]
 author: "Sumbit Labs Limited"
 tags: ["official"]

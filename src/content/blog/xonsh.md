@@ -3,7 +3,7 @@ title: "xonsh"
 meta_title: ""
 description: "Python-powered, cross-platform, Unix-gazing shell language and command prompt."
 date: 2023-12-05T18:56:00Z
-image: "images/image-placeholder.png"
+image: "/images/image-placeholder.png"
 categories: ["System"]
 author: "Xonsh Authors"
 tags: ["official"]

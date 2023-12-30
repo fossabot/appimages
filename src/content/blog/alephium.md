@@ -3,7 +3,7 @@ title: "Alephium"
 meta_title: ""
 description: "The official Alephium desktop wallet."
 date: 2023-12-23T15:14:00Z
-image: "images/image-placeholder.png"
+image: "/images/image-placeholder.png"
 categories: ["Utilities"]
 author: "Alephium Team"
 tags: ["official"]

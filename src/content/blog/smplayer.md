@@ -3,7 +3,7 @@ title: "SMPlayer"
 meta_title: ""
 description: "Free Media Player with built-in codecs"
 date: 2023-12-26T16:09:00Z
-image: "images/image-placeholder.png"
+image: "/images/image-placeholder.png"
 categories: ["AudioVideo"]
 author: "Ricardo Villalba"
 tags: ["official"]
