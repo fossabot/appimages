@@ -3,7 +3,7 @@ title: "Butterfly"
 meta_title: ""
 description: "Powerful, minimalistic, cross-platform, opensource note-taking app"
 date: 2023-10-16T22:52:00Z
-image: "appimages/images/image-placeholder.png"
+image: "images/image-placeholder.png"
 categories: ["Productivity"]
 author: "LinwoodDev"
 tags: ["official"]

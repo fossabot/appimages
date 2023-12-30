@@ -3,7 +3,7 @@ title: "0ad"
 meta_title: ""
 description: "Unofficial 0ad AppImage (built from official sources and data)"
 date: 2023-05-19T18:28:00Z
-image: "appimages/images/image-placeholder.png"
+image: "images/image-placeholder.png"
 categories: ["Games"]
 author: "0ad-matters"
 tags: ["community"]

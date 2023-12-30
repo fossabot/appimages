@@ -3,7 +3,7 @@ title: "Blockstream"
 meta_title: ""
 description: "Non-custodial Bitcoin wallet"
 date: 2023-12-18T22:41:00Z
-image: "appimages/images/image-placeholder.png"
+image: "images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Blockstream Corporation Inc"
 tags: ["official"]

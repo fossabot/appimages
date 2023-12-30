@@ -3,7 +3,7 @@ title: "Sleek"
 meta_title: ""
 description: "Open-source (FOSS) todo manager based on the todo.txt syntax"
 date: 2023-12-11T20:26:00Z
-image: "appimages/images/image-placeholder.png"
+image: "images/image-placeholder.png"
 categories: ["Productivity"]
 author: "Robin Ahle"
 tags: ["official"]

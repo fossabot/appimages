@@ -3,7 +3,7 @@ title: "Caprine"
 meta_title: ""
 description: "Caprine is an unofficial and privacy-focused Facebook Messenger app with many useful features"
 date: 2023-10-11T22:41:00Z
-image: "appimages/images/image-placeholder.png"
+image: "images/image-placeholder.png"
 categories: ["Network"]
 author: "Sindre Sorhus"
 tags: ["official"]

@@ -3,7 +3,7 @@ title: "Axolotl"
 meta_title: ""
 description: "Complete cross-platform Signal client"
 date: 2023-10-27T23:04:00Z
-image: "appimages/images/image-placeholder.png"
+image: "images/image-placeholder.png"
 categories: ["Network"]
 author: "Aaron Kimmig"
 tags: ["official"]
