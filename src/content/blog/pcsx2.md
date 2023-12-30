@@ -2,7 +2,7 @@
 title: "PCSX2"
 meta_title: ""
 description: "Free and open-source PlayStation 2 (PS2) emulator"
-date: 2023-12-e0T16:15:00Z
+date: 2023-12-30T16:15:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 author: "PCSX2 Team"
