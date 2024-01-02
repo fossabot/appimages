@@ -1,13 +1,13 @@
 ---
-title: ""
+title: "AntimicroX"
 meta_title: ""
-description: ""
+description: "Graphical program used to map gamepad keys to keyboard, mouse, scripts and macros"
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "86box Authors"
+author: "AntiMicroX Authors"
 tags: ["official"]
 draft: false
 ---
 
-Download: 
+Download: https://github.com/AntiMicroX/antimicrox/releases/download/3.3.4/antimicrox-3.3.4-Windows-AMD64.exe

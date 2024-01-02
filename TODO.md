@@ -8,3 +8,4 @@ To-do list
 - [ ] Create scrapers from github, package.json, etc for author, link and more used info
 - [ ] Make auto-generaiting author page
 - [ ] Better naming for site
+- [ ] Auto-updating

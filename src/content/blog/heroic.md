@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Heroic Games Launcher"
 meta_title: ""
 description: ""
 date: 2023-10-16T22:52:00Z
@@ -10,4 +10,4 @@ tags: ["official"]
 draft: false
 ---
 
-Download: 
+Download: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.11.0/Heroic-2.11.0.AppImage
