@@ -7,8 +7,8 @@ import { FaRegFolder, FaRegUserCircle } from "react-icons/fa/index.js";
 
 const {
   summary_length,
-  BLOG_FOLDER,
-}: { summary_length: number; BLOG_FOLDER: string } = config.settings;
+  blog_folder,
+}: { summary_length: number; blog_folder: string } = config.settings;
 const { data } = Astro.props;
 const { title, image, date, author, categories } = data.data;
 ---
@@ -27,7 +27,7 @@ const { title, image, date, author, categories } = data.data;
     )
   }
   <h4 class="mb-3">
-    <a href={`/${BLOG_FOLDER}/${data.slug}`}>
+    <a href={`/${blog_folder}/${data.slug}`}>
       {title}
     </a>
   </h4>

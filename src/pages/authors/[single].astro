@@ -25,7 +25,7 @@ const { title, social, meta_title, description, image } = author.data;
 const { Content } = await author.render();
 
 // get all posts by author
-const BLOG_FOLDER = "apps";
+const BLOG_FOLDER = "blog";
 const posts = await getSinglePage(BLOG_FOLDER);
 const postFilterByAuthor = posts.filter(
   (post) => slugify(post.data.author) === slugify(title),
@@ -68,7 +68,7 @@ const postFilterByAuthor = posts.filter(
         {
           postFilterByAuthor.map((post) => (
             <div class="mb-12 md:col-6 lg:col-4">
-              <appsCard data={post} />
+              <AppsCard data={post} />
             </div>
           ))
         }

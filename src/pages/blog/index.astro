@@ -1,5 +1,5 @@
 ---
-import appsCard from "@/components/AppsCard.astro";
+import AppsCard from "@/components/AppsCard.astro";
 import Pagination from "@/components/Pagination.astro";
 import config from "@/config/config.json";
 import Base from "@/layouts/Base.astro";
@@ -10,36 +10,16 @@ import PageHeader from "@/partials/PageHeader.astro";
 import PostSidebar from "@/partials/PostSidebar.astro";
 import { getEntry } from "astro:content";
 
-const BLOG_FOLDER = "apps";
+const BLOG_FOLDER = "blog";
 
-const { slug } = Astro.params;
 const postIndex = await getEntry(BLOG_FOLDER, "-index");
 const posts = await getSinglePage(BLOG_FOLDER);
 const allCategories = await getAllTaxonomy(BLOG_FOLDER, "categories");
 const categories = await getTaxonomy(BLOG_FOLDER, "categories");
 const tags = await getTaxonomy(BLOG_FOLDER, "tags");
 const sortedPosts = sortByDate(posts);
-const totalPages = Math.ceil(posts.length / config.settings.pagination);
-const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
-const indexOfLastPost = currentPage * config.settings.pagination;
-const indexOfFirstPost = indexOfLastPost - config.settings.pagination;
-const currentPosts = sortedPosts.slice(indexOfFirstPost, indexOfLastPost);
-
-export async function getStaticPaths() {
-  const BLOG_FOLDER = "apps";
-  const posts = await getSinglePage(BLOG_FOLDER);
-  const totalPages = Math.ceil(posts.length / config.settings.pagination);
-  const paths = [];
-
-  for (let i = 1; i < totalPages; i++) {
-    paths.push({
-      params: {
-        slug: (i + 1).toString(),
-      },
-    });
-  }
-  return paths;
-}
+const totalPages: number = Math.ceil(posts.length / config.settings.pagination);
+const currentPosts = sortedPosts.slice(0, config.settings.pagination);
 ---
 
 <Base
@@ -58,14 +38,14 @@ export async function getStaticPaths() {
             {
               currentPosts.map((post) => (
                 <div class="mb-14 md:col-6">
-                  <appsCard data={post} />
+                  <AppsCard data={post} />
                 </div>
               ))
             }
           </div>
           <Pagination
             section={BLOG_FOLDER}
-            currentPage={currentPage}
+            currentPage={1}
             totalPages={totalPages}
           />
         </div>

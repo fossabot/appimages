@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 const { tag } = Astro.params;
 
 // get posts by tag
-const BLOG_FOLDER = "apps";
+const BLOG_FOLDER = "blog";
 const posts = await getSinglePage(BLOG_FOLDER);
 const filterByTags = taxonomyFilter(posts, "tags", tag!);
 ---
@@ -33,7 +33,7 @@ const filterByTags = taxonomyFilter(posts, "tags", tag!);
         {
           filterByTags.map((post) => (
             <div class="mb-14 md:col-6 lg:col-4">
-              <appsCard data={post} />
+              <AppsCard data={post} />
             </div>
           ))
         }
