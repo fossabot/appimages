@@ -9,5 +9,12 @@ author: "Open Chemistry"
 tags: ["official"]
 draft: false
 ---
+License:
 
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/OpenChemistry/avogadrolibs/releases/download/1.98.1/Avogadro2-x86_64.AppImage

@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download:https://github.com/wez/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-20230712-072601-f4abf8fd-Ubuntu20.04.AppImage

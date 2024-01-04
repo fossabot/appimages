@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors-x86_64.AppImage

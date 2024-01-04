@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download:https://github.com/nbebaw/boostchanger/releases/download/v5.0.3/boostchanger-5.0.3.AppImage

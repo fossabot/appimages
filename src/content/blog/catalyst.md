@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/CatalystDevOrg/Catalyst/releases/download/v4.0.0-beta.3/catalyst-4.0.0-beta.3.AppImagex

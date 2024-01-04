@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/diasurgical/devilutionX/releases/download/1.5.1/devilutionx-linux-x86_64.appimage

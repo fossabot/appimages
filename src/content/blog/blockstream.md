@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/Blockstream/green_qt/releases/download/release_1.2.9/BlockstreamGreen-x86_64.AppImage

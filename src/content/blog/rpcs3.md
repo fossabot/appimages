@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-e707ff530d882475351ae1d4b555676e3e8ac8bd/rpcs3-v0.0.30-15909-e707ff53_linux64.AppImage

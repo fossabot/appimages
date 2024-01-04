@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download:https://github.com/ransome1/sleek/releases/download/v2.0.3/sleek-2.0.3.AppImage

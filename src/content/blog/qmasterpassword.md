@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/bkueng/qMasterPassword/releases/download/v2.0/qMasterPassword-x86_64-qt6.AppImage

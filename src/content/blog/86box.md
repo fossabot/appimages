@@ -10,4 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/86Box/86Box/releases/download/v4.0.1/86Box-Linux-x86_64-b5111.AppImage

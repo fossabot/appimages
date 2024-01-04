@@ -9,5 +9,12 @@ author: "Lőrik Levente"
 tags: ["official"]
 draft: false
 ---
+License:
 
-https://github.com/Levminer/authme/releases/download/4.2.1/authme-4.2.1-linux-x64.appimage
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
+Download: https://github.com/Levminer/authme/releases/download/4.2.1/authme-4.2.1-linux-x64.appimage

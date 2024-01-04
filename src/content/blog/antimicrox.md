@@ -10,4 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/AntiMicroX/antimicrox/releases/download/3.3.4/antimicrox-3.3.4-Windows-AMD64.exe

@@ -10,4 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/altair-graphql/altair/releases/download/v6.1.0/altair_6.1.0_x86_64_linux.AppImage

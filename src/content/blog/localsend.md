@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/localsend/localsend/releases/download/v1.13.1/Localsend-1.13.1-linux-x86-64.AppImage

@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download:https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage

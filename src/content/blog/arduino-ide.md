@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download:https://github.com/arduino/arduino-ide/releases/download/2.2.1/arduino-ide_2.2.1_Linux_64bit.AppImage

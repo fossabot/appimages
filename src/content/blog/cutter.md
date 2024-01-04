@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/rizinorg/cutter/releases/download/v2.3.2/Cutter-v2.3.2-Linux-x86_64.AppImage

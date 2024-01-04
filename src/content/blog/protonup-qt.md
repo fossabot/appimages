@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.8.2/ProtonUp-Qt-2.8.2-x86_64.AppImage

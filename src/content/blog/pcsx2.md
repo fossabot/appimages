@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/PCSX2/pcsx2/releases/download/v1.7.5370/pcsx2-v1.7.5370-linux-appimage-x64-Qt.AppImage

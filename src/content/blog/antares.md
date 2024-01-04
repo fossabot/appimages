@@ -10,4 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/antares-sql/antares/releases/download/v0.7.20/Antares-0.7.20-linux_x86_64.AppImage

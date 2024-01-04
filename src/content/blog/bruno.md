@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/usebruno/bruno/releases/download/v1.5.1/bruno_1.5.1_x86_64_linux.AppImage

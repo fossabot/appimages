@@ -10,4 +10,13 @@ tags: ["official"]
 draft: false
 ---
 
+
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: github.com/Chatterino/Chatterino2/releases/download/nightly-build/Chatterino-x86_64.AppImage

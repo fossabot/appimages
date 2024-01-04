@@ -10,4 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
 Download: https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.2.0/Alephium-2.2.0.AppImage
