@@ -54,7 +54,7 @@ const { title, image, date, author, categories } = data.data;
   <p class="mb-6">{plainify(data.body?.slice(0, Number(summary_length)))}</p>
   <a
     class="btn btn-outline-primary btn-sm"
-    href={`/${BLOG_FOLDER}/${data.slug}`}
+    href={`/${blog_folder}/${data.slug}`}
   >
     Download
   </a>
