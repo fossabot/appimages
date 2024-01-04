@@ -1,5 +1,10 @@
 ---
-title: "Authors"
-meta_title: ""
-description: "this is meta description"
+title:
+description:
+
+social:
+  - name: github
+    icon: FaGithub
+    link: https://github.com/
+
 ---
