@@ -1,5 +1,5 @@
 ---
-import appsCard from "@/components/appsCard.astro";
+import AppsCard from "@/components/AppsCard.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similarItems from "@/lib/utils/similarItems";
@@ -94,7 +94,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
         {
           similarPosts.map((post) => (
             <div class="lg:col-4">
-              <appsCard data={post} />
+              <AppsCard data={post} />
             </div>
           ))
         }
