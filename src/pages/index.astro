@@ -10,13 +10,13 @@ import PageHeader from "@/partials/PageHeader.astro";
 import PostSidebar from "@/partials/PostSidebar.astro";
 import { getEntry } from "astro:content";
 
-const apps_FOLDER = "apps";
+const BLOG_FOLDER = "apps";
 
-const postIndex = await getEntry(apps_FOLDER, "-index");
-const posts = await getSinglePage(apps_FOLDER);
-const allCategories = await getAllTaxonomy(apps_FOLDER, "categories");
-const categories = await getTaxonomy(apps_FOLDER, "categories");
-const tags = await getTaxonomy(apps_FOLDER, "tags");
+const postIndex = await getEntry(BLOG_FOLDER, "-index");
+const posts = await getSinglePage(BLOG_FOLDER);
+const allCategories = await getAllTaxonomy(BLOG_FOLDER, "categories");
+const categories = await getTaxonomy(BLOG_FOLDER, "categories");
+const tags = await getTaxonomy(BLOG_FOLDER, "tags");
 const sortedPosts = sortByDate(posts);
 const totalPages: number = Math.ceil(posts.length / config.settings.pagination);
 const currentPosts = sortedPosts.slice(0, config.settings.pagination);
@@ -44,7 +44,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
             }
           </div>
           <Pagination
-            section={apps_FOLDER}
+            section={BLOG_FOLDER}
             currentPage={1}
             totalPages={totalPages}
           />

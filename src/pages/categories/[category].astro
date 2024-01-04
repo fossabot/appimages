@@ -8,8 +8,8 @@ import PageHeader from "@/partials/PageHeader.astro";
 
 // get static paths for all categories
 export async function getStaticPaths() {
-  const apps_FOLDER = "apps";
-  const categories = await getTaxonomy(apps_FOLDER, "categories");
+  const BLOG_FOLDER = "apps";
+  const categories = await getTaxonomy(BLOG_FOLDER, "categories");
 
   return categories.map((category) => {
     return {
@@ -21,8 +21,8 @@ export async function getStaticPaths() {
 const { category } = Astro.params;
 
 // get posts by category
-const apps_FOLDER = "apps";
-const posts = await getSinglePage(apps_FOLDER);
+const BLOG_FOLDER = "apps";
+const posts = await getSinglePage(BLOG_FOLDER);
 const filterByCategories = taxonomyFilter(posts, "categories", category!);
 ---
 
