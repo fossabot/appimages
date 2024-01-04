@@ -1,5 +1,5 @@
 ---
-import BlogCard from "@/components/BlogCard.astro";
+import appsCard from "@/components/appsCard.astro";
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import { getTaxonomy } from "@/lib/taxonomyParser.astro";
@@ -8,8 +8,8 @@ import PageHeader from "@/partials/PageHeader.astro";
 
 // get static paths for all categories
 export async function getStaticPaths() {
-  const BLOG_FOLDER = "blog";
-  const categories = await getTaxonomy(BLOG_FOLDER, "categories");
+  const apps_FOLDER = "apps";
+  const categories = await getTaxonomy(apps_FOLDER, "categories");
 
   return categories.map((category) => {
     return {
@@ -21,8 +21,8 @@ export async function getStaticPaths() {
 const { category } = Astro.params;
 
 // get posts by category
-const BLOG_FOLDER = "blog";
-const posts = await getSinglePage(BLOG_FOLDER);
+const apps_FOLDER = "apps";
+const posts = await getSinglePage(apps_FOLDER);
 const filterByCategories = taxonomyFilter(posts, "categories", category!);
 ---
 
@@ -34,7 +34,7 @@ const filterByCategories = taxonomyFilter(posts, "categories", category!);
         {
           filterByCategories.map((post) => (
             <div class="mb-14 md:col-6 lg:col-4">
-              <BlogCard data={post} />
+              <appsCard data={post} />
             </div>
           ))
         }

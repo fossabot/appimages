@@ -1,5 +1,5 @@
 ---
-import BlogCard from "@/components/BlogCard.astro";
+import appsCard from "@/components/appsCard.astro";
 import Social from "@/components/Social.astro";
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
@@ -25,8 +25,8 @@ const { title, social, meta_title, description, image } = author.data;
 const { Content } = await author.render();
 
 // get all posts by author
-const BLOG_FOLDER = "blog";
-const posts = await getSinglePage(BLOG_FOLDER);
+const apps_FOLDER = "apps";
+const posts = await getSinglePage(apps_FOLDER);
 const postFilterByAuthor = posts.filter(
   (post) => slugify(post.data.author) === slugify(title),
 );
@@ -68,7 +68,7 @@ const postFilterByAuthor = posts.filter(
         {
           postFilterByAuthor.map((post) => (
             <div class="mb-12 md:col-6 lg:col-4">
-              <BlogCard data={post} />
+              <appsCard data={post} />
             </div>
           ))
         }

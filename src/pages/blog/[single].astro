@@ -4,8 +4,8 @@ import PostSingle from "@/layouts/PostSingle.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 
 export async function getStaticPaths() {
-  const BLOG_FOLDER = "blog";
-  const posts = await getSinglePage(BLOG_FOLDER);
+  const apps_FOLDER = "apps";
+  const posts = await getSinglePage(apps_FOLDER);
 
   const paths = posts.map((post) => ({
     params: {
