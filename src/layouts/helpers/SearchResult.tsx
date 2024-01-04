@@ -42,7 +42,7 @@ const SearchResult = ({
     const joinDataByGroup: ISearchGroup[] = searchResult.reduce(
       (groupItems: ISearchGroup[], item: ISearchItem) => {
         const groupIndex = groupItems.findIndex(
-          (group) => group.group === item.group,
+          (group) => group.group === item.group
         );
         if (groupIndex === -1) {
           groupItems.push({
@@ -65,7 +65,7 @@ const SearchResult = ({
 
         return groupItems;
       },
-      [],
+      []
     );
     return joinDataByGroup;
   };
@@ -79,7 +79,7 @@ const SearchResult = ({
         <mark key={index}>{part}</mark>
       ) : (
         part
-      ),
+      )
     );
   };
 
@@ -93,7 +93,7 @@ const SearchResult = ({
         </span>
       ) : (
         part
-      ),
+      )
     );
   };
 
@@ -112,11 +112,11 @@ const SearchResult = ({
 
     const matches = plainContent.substring(
       wordStart,
-      substring.length + position,
+      substring.length + position
     );
     const matchesAfter = plainContent.substring(
       substring.length + position,
-      substring.length + position + 80,
+      substring.length + position + 80
     );
     return (
       <>
@@ -162,7 +162,7 @@ const SearchResult = ({
                         <p className="search-result-item-description">
                           {matchUnderline(
                             item.frontmatter.description,
-                            searchString,
+                            searchString
                           )}
                         </p>
                       )}
@@ -191,7 +191,7 @@ const SearchResult = ({
                                       item.frontmatter.categories.length -
                                         1 && <>, </>}
                                 </span>
-                              ),
+                              )
                             )}
                           </div>
                         )}
