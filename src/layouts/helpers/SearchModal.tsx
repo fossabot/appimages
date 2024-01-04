@@ -52,7 +52,7 @@ const SearchModal = () => {
     const searchModalOverlay = document.getElementById("searchModalOverlay");
     const searchResultItems = document.querySelectorAll("#searchItem");
     const searchModalTriggers = document.querySelectorAll(
-      "[data-search-trigger]"
+      "[data-search-trigger]",
     );
 
     // search modal open
@@ -111,7 +111,7 @@ const SearchModal = () => {
         selectedIndex++;
       } else if (event.key === "Enter") {
         const activeLink = document.querySelector(
-          ".search-result-item-active a"
+          ".search-result-item-active a",
         ) as HTMLAnchorElement;
         if (activeLink) {
           activeLink?.click();
