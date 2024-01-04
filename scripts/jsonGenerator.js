@@ -4,7 +4,7 @@ const matter = require("gray-matter");
 
 const CONTENT_DEPTH = 2;
 const JSON_FOLDER = "./.json";
-const apps_FOLDER = "src/content/apps";
+const BLOG_FOLDER = "src/content/apps";
 
 // get data from markdown
 const getData = (folder, groupDepth) => {
