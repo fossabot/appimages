@@ -13,7 +13,7 @@ draft: false
 License:
 
 Web page: URL
-Source: URL
+Source: https://github.com/AlduinApp/alduin
 
 Donate: URL
 Translate: URL

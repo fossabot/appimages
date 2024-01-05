@@ -13,7 +13,7 @@ draft: false
 License:
 
 Web page: URL
-Source: URL
+Source: https://github.com/86Box/86Box
 
 Donate: URL
 Translate: URL

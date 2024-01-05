@@ -1,0 +1,11 @@
+This site was starter was built by Georgii Bogdanov!
+
+GitHub: https://github.com/drsheppard01
+Twitter: https://twitter.com/gamer_sheppard
+
+/* THANKS */
+
+Name: Zeon.studio
+URL: https://zeon.studio/
+
+Checkout the https://humanstxt.org/ protocol to see how you should format your humans.txt file!

@@ -9,18 +9,6 @@ author: "0ad-matters"
 tags: ["community"]
 draft: false
 ---
-
-
-License:
-
-Web page: URL
-Source: URL
-
-Donate: URL
-Translate: URL
-Report the bug: URL
-
-
 License:
 
 Web page: URL

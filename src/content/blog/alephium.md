@@ -13,7 +13,7 @@ draft: false
 License:
 
 Web page: URL
-Source: URL
+Source: https://github.com/alephium/alephium-frontend
 
 Donate: URL
 Translate: URL

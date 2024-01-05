@@ -10,4 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-https://github.com/buttercup/buttercup-desktop/releases/download/v2.24.4/Buttercup-linux-x86_64.AppImage
+License:
+
+Web page: URL
+Source: URL
+
+Donate: URL
+Translate: URL
+Report the bug: URL
+Download: https://github.com/buttercup/buttercup-desktop/releases/download/v2.24.4/Buttercup-linux-x86_64.AppImage
