@@ -12,9 +12,7 @@ draft: false
 
 License: EULA
 
-Web page: URL
+Web page: https://acreom.com/
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://github.com/Acreom/releases/issues/new/
 Download: https://github.com/Acreom/releases/releases/download/v1.15.2/acreom-1.15.2.AppImage

@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: MIT
 
-Web page: URL
-Source: URL
+Web page: https://chatterino.com/
+Source: https://github.com/Chatterino/Chatterino2/
 
-Donate: URL
-Translate: URL
-Report the bug: URL
-Download: github.com/Chatterino/Chatterino2/releases/download/nightly-build/Chatterino-x86_64.AppImage
+Donate: https://streamelements.com/fourtf/tip
+Report the bug: https://github.com/Chatterino/Chatterino2/issues/new/
+Download: https://github.com/Chatterino/Chatterino2/releases/download/nightly-build/Chatterino-x86_64.AppImage

@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: AGPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://www.arduino.cc/en/software
+Source: https://github.com/arduino/arduino-ide
 
-Donate: URL
-Translate: URL
-Report the bug: URL
-Download:https://github.com/arduino/arduino-ide/releases/download/2.2.1/arduino-ide_2.2.1_Linux_64bit.AppImage
+Donate: https://www.arduino.cc/en/donate/
+Translate: https://explore.transifex.com/arduino-1/ide2/
+Report the bug: https://github.com/arduino/arduino-ide/issues/new/choose
+Download: https://github.com/arduino/arduino-ide/releases/download/2.2.1/arduino-ide_2.2.1_Linux_64bit.AppImage

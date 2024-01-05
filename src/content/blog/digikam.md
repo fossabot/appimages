@@ -12,10 +12,10 @@ draft: false
 
 License:
 
-Web page: URL
+Web page: https://www.digikam.org/
 Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://download.kde.org/stable/digikam/8.2.0/digikam-8.2.0-x86-64.appimage

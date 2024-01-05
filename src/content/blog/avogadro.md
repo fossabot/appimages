@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: BSD-3-Clause
 
-Web page: URL
-Source: URL
+Web page: https://two.avogadro.cc/
+Source: https://github.com/openchemistry/avogadrolibs
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Donate: https://opencollective.com/open-chemistry
+Translate: https://hosted.weblate.org/engage/avogadro/
+Report the bug: https://github.com/openchemistry/avogadrolibs/issues/new/
 Download: https://github.com/OpenChemistry/avogadrolibs/releases/download/1.98.1/Avogadro2-x86_64.AppImage

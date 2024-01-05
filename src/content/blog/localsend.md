@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/localsend/localsend/releases/download/v1.13.1/Localsend-1.13.1-linux-x86-64.AppImage

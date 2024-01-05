@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: AGPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://gdm-settings.github.io/
+Source: https://github.com/gdm-settings/gdm-settings
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Donate: https://buymeacoffee.com/mazharhussain
+Translate: https://hosted.weblate.org/engage/gdm-settings/
+Report the bug: https://github.com/gdm-settings/gdm-settings/issues/new/
 Download: https://github.com/gdm-settings/gdm-settings/releases/download/v4.1/GDM_Settings.AppImage

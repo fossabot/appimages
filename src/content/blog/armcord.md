@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: OSL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://armcord.app/
+Source: https://github.com/ArmCord/ArmCord
 
-Donate: URL
-Translate: URL
-Report the bug: URL
-Download: https://github.com/Acreom/releases/releases/download/v1.15.2/acreom-1.15.2.AppImage
+Donate: https://github.com/sponsors/smartfrigde
+Translate: https://hosted.weblate.org/projects/armcord/armcord/
+Report the bug: https://github.com/ArmCord/ArmCord/issues/new/choose
+Download: https://github.com/ArmCord/ArmCord/releases/download/v3.2.5/ArmCord-3.2.5.AppImage

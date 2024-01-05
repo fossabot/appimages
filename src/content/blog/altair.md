@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: MIT
 
-Web page: URL
-Source: URL
+Web page: https://altairgraphql.dev/
+Source: https://github.com/altair-graphql/altair
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Donate: https://opencollective.com/altair
+Translate: https://crwd.in/altair-gql
+Report the bug: https://github.com/altair-graphql/altair/issues/new/choose
 Download: https://github.com/altair-graphql/altair/releases/download/v6.1.0/altair_6.1.0_x86_64_linux.AppImage

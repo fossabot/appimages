@@ -10,12 +10,10 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-2.0
 
-Web page: URL
-Source: URL
+Source: https://github.com/flyinghead/flycast
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Donate: https://www.paypal.com/paypalme/FlycastEmu
+Report the bug: https://github.com/flyinghead/flycast/issues/new/
 Download: https://github.com/flyinghead/flycast/releases/download/v2.2/flycast-x86_64.AppImage

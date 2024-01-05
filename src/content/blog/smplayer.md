@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/smplayer-dev/smplayer/releases/download/v23.12.0/SMPlayer-23.12.0-x86_64.AppImage

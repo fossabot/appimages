@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-2.0
 
-Web page: URL
-Source: URL
+Web page: https://www.freecad.org/
+Source: : https://github.com/FreeCAD/FreeCAD
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Donate: https://www.freecad.org/sponsor.php
+Translate: https://crowdin.com/project/freecad
+Report the bug: : https://github.com/FreeCAD/FreeCAD/issues/new/
 Download: https://github.com/FreeCAD/FreeCAD/releases/download/0.21.1/FreeCAD_0.21.1-Linux-x86_64.AppImage

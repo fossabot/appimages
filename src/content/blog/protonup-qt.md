@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.8.2/ProtonUp-Qt-2.8.2-x86_64.AppImage

@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: AGPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://docs.butterfly.linwood.dev/
+Source: https://github.com/LinwoodDev/Butterfly
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Translate: https://translate.linwood.dev/butterfly
+Report the bug: https://github.com/LinwoodDev/Butterfly/issues/new/
 Download: https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0/linwood-butterfly-linux.AppImage

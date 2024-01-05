@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian-1.5.3.AppImage

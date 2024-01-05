@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage

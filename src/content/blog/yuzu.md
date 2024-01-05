@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1667/yuzu-mainline-20231230-1f0fa1503.AppImage

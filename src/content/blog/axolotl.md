@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Source: https://github.com/nanu-c/axolotl
 
-Donate: URL
-Translate: URL
-Report the bug: URL
-Download:https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage
+Donate: https://patreon.com/nanuc
+Translate: https://github.com/nanu-c/axolotl/blob/main/docs/TRANSLATE.md
+Report the bug: https://github.com/nanu-c/axolotl/issues/new/
+Download: https://github.com/nanu-c/axolotl/releases/download/v1.6.0/Axolotl-x86_64.AppImage

@@ -10,12 +10,10 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://www.duckstation.org/
+Source: https://github.com/stenzek/duckstation
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://github.com/stenzek/duckstation/issues/new/
 Download: https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage

@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/vifm/vifm/releases/download/v0.13/vifm-v0.13-x86_64.AppImage

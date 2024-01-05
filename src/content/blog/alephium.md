@@ -10,12 +10,10 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: LGPLv3
 
-Web page: URL
+Web page: https://alephium.org/
 Source: https://github.com/alephium/alephium-frontend
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://github.com/alephium/alephium-frontend/issues/new/choose
 Download: https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.2.0/Alephium-2.2.0.AppImage

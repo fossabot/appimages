@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://www.beekeeperstudio.io/
+Source: https://github.com/beekeeper-studio/beekeeper-studio
 
-Donate: URL
-Translate: URL
-Report the bug: URL
-Download:https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.0.3/Beekeeper-Studio-4.0.3.AppImage
+Donate: https://github.com/sponsors/beekeeper-studio
+Report the bug: https://github.com/beekeeper-studio/beekeeper-studio/issues/new/
+Download: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.0.3/Beekeeper-Studio-4.0.3.AppImage

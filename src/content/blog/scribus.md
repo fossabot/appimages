@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://sourceforge.net/projects/Scribus/files/scribus/1.6.0/scribus-1.6.0-linux-x86_64.AppImage

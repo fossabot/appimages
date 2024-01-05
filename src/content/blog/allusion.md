@@ -10,12 +10,10 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://allusion-app.github.io/
+Source: https://github.com/allusion-app/Allusion
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://github.com/allusion-app/Allusion/issues/new/choose
 Download: https://github.com/allusion-app/Allusion/releases/download/v1.0.0-rc.10/Allusion-1.0.0-rc.10.AppImage

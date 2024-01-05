@@ -10,12 +10,10 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: MIT
 
-Web page: URL
-Source: URL
+Web page: https://getcatalyst.eu.org/
+Source: https://github.com/CatalystDevOrg/Catalyst
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://github.com/CatalystDevOrg/Catalyst/issues/new/
 Download: https://github.com/CatalystDevOrg/Catalyst/releases/download/v4.0.0-beta.3/catalyst-4.0.0-beta.3.AppImagex

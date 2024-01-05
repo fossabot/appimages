@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/RareDevs/Rare/releases/download/1.10.11/Rare-1.10.11.AppImage

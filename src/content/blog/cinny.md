@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License:  AGPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://cinny.in/
+Source: https://github.com/cinnyapp/cinny-desktop
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Donate: https://opencollective.com/cinny
+Report the bug: https://github.com/cinnyapp/cinny-desktop/issues/new/
 Download: https://github.com/cinnyapp/cinny-desktop/releases/download/v3.2.1/Cinny_desktop-x86_64.AppImage

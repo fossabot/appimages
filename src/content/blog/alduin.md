@@ -10,12 +10,10 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: MIT
 
-Web page: URL
+Web page: https://alduin.stouder.io/
 Source: https://github.com/AlduinApp/alduin
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://github.com/AlduinApp/alduin/issues/new
 Download: https://github.com/AlduinApp/alduin/releases/download/v3.2.0/alduin_3.2.0_amd64.AppImage

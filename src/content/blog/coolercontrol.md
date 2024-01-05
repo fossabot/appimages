@@ -10,12 +10,9 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Source: https://gitlab.com/coolercontrol/coolercontrol
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://gitlab.com/coolercontrol/coolercontrol/-/issues/new
 Download: https://gitlab.com/coolercontrol/coolercontrol/-/releases/0.17.3/downloads/packages/CoolerControl-x86_64.AppImage

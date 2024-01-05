@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://antimicrox.github.io/
+Source: https://github.com/AntiMicroX/antimicrox
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Translate: https://hosted.weblate.org/engage/antimicrox
+Report the bug: https://github.com/AntiMicroX/antimicrox/issues/new/choose
 Download: https://github.com/AntiMicroX/antimicrox/releases/download/3.3.4/antimicrox-3.3.4-Windows-AMD64.exe

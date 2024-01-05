@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/xemu-project/xemu/releases/download/v0.7.118/xemu-v0.7.118-x86_64.AppImage

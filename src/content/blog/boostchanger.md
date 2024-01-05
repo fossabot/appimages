@@ -10,12 +10,9 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: MIT
 
-Web page: URL
-Source: URL
+Source: https://github.com/nbebaw/boostchanger
 
-Donate: URL
-Translate: URL
-Report the bug: URL
-Download:https://github.com/nbebaw/boostchanger/releases/download/v5.0.3/boostchanger-5.0.3.AppImage
+Report the bug: https://github.com/nbebaw/boostchanger/issues/new/
+Download: https://github.com/nbebaw/boostchanger/releases/download/v5.0.3/boostchanger-5.0.3.AppImage

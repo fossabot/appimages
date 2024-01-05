@@ -10,12 +10,10 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-2.0
 
-Web page: URL
-Source: URL
+Web page: https://avidemux.sourceforge.net/index.html
+Source: https://github.com/mean00/avidemux2
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://sourceforge.net/p/avidemux/bugs/
 Download: https://github.com/mean00/avidemux2/releases/download/2.8.1/avidemux_2.8.1.appImage

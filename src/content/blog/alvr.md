@@ -12,10 +12,9 @@ draft: false
 
 License:
 
-Web page: URL
-Source: URL
+Web page: MIT
+Source: https://github.com/alvr-org/ALVR
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Donate: https://opencollective.com/alvr
+Report the bug: https://github.com/alvr-org/ALVR/issues/new/choose
 Download: https://github.com/alvr-org/ALVR/releases/download/v20.5.0/ALVR-x86_64.AppImage

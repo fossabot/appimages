@@ -10,12 +10,9 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: MIT
 
-Web page: URL
 Source: https://github.com/mgord9518/aisap
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Report the bug: https://github.com/mgord9518/aisap/issues/new/choose
 Download: https://github.com/mgord9518/aisap/releases/download/continuous/aisap-0.9.8-alpha-x86_64.AppImage

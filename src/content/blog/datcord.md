@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
 Web page: URL
-Source: URL
+Source: https://github.com/gamingdoom/datcord
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: https://github.com/gamingdoom/datcord/issues/new/
 Download: https://github.com/gamingdoom/datcord/releases/download/0.4.1/Datcord-x86_64.AppImage

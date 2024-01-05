@@ -17,5 +17,5 @@ Source: URL
 
 Donate: URL
 Translate: URL
-Report the bug: URL
+Report the bug: issues/new/
 Download: https://github.com/xonsh/xonsh/releases/download/0.14.3/xonsh-x86_64.AppImage

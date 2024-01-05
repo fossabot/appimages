@@ -10,12 +10,10 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: Sustainable Use License
 
-Web page: URL
-Source: URL
+Source: https://github.com/diasurgical/devilutionX
 
-Donate: URL
-Translate: URL
-Report the bug: URL
+Translate: https://github.com/diasurgical/devilutionX/wiki/Translation-Guide
+Report the bug: https://github.com/diasurgical/devilutionX/issues/new/
 Download: https://github.com/diasurgical/devilutionX/releases/download/1.5.1/devilutionx-linux-x86_64.appimage
