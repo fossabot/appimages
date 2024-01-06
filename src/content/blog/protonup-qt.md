@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://davidotek.github.io/protonup-qt/
+Source: https://github.com/DavidoTek/ProtonUp-Qt
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Donate: https://ko-fi.com/davidotek
+Translate: https://hosted.weblate.org/projects/protonup-qt/
+Report the bug: https://github.com/DavidoTek/ProtonUp-Qt/issues/new/
 Download: https://github.com/DavidoTek/ProtonUp-Qt/releases/download/v2.8.2/ProtonUp-Qt-2.8.2-x86_64.AppImage

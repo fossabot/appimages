@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License:  GPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://yuzu-emu.org/
+Source: https://github.com/yuzu-emu/yuzu
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
-Download: https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1667/yuzu-mainline-20231230-1f0fa1503.AppImage
+Donate: https://www.patreon.com/yuzuteam
+Report the bug: https://github.com/yuzu-emu/yuzu/issues/new/
+Download: https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1674/yuzu-mainline-20240106-5b2b2e556.AppImage

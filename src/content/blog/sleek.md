@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: MIT
 
-Web page: URL
-Source: URL
+Source: https://github.com/ransome1/sleek
 
-Donate: URL
+Donate: https://github.com/sponsors/ransome1
 Translate: URL
-Report the bug: issues/new/
-Download:https://github.com/ransome1/sleek/releases/download/v2.0.3/sleek-2.0.3.AppImage
+Report the bug: https://github.com/ransome1/sleek/issues/new/
+Download: https://github.com/ransome1/sleek/releases/download/v2.0.3/sleek-2.0.3.AppImage

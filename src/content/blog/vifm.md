@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-2.0
 
-Web page: URL
-Source: URL
+Web page: https://vifm.info/
+Source: https://github.com/vifm/vifm
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Donate: https://github.com/sponsors/vifm
+Report the bug: https://github.com/vifm/vifm/issues/new
 Download: https://github.com/vifm/vifm/releases/download/v0.13/vifm-v0.13-x86_64.AppImage

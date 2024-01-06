@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://notesnook.com/
+Source: https://github.com/streetwriters/notesnook
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
-Download: https://github.com/streetwriters/notesnook/releases/download/v2.6.13/notesnook_linux_x86_64.AppImage
+Donate: https://opencollective.com/notesnook
+Report the bug: https://github.com/streetwriters/notesnook/issues/new/
+Download: https://github.com/streetwriters/notesnook/releases/download/v2.6.14/notesnook_linux_x86_64.AppImage

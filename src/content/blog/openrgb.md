@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-2.0
 
-Web page: URL
-Source: URL
+Web page: https://openrgb.org
+Source: https://gitlab.com/CalcProgrammer1/OpenRGB
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Donate: https://patreon.com/CalcProgrammer1
+Report the bug: https://gitlab.com/CalcProgrammer1/OpenRGB/-/issues/new
 Download: https://openrgb.org/releases/release_0.9/OpenRGB_0.9_x86_64_b5f46e3.AppImage

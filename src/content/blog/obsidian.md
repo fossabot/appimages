@@ -10,12 +10,9 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: EULA
 
-Web page: URL
-Source: URL
+Web page: https://obsidian.md/
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Translate: https://github.com/obsidianmd/obsidian-translations
 Download: https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian-1.5.3.AppImage

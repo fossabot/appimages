@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: AGPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://www.onlyoffice.com/
+Source: https://github.com/ONLYOFFICE/DesktopEditorss
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Translate: https://helpcenter.onlyoffice.com/guides/become-translator.aspx
+Report the bug: https://github.com/ONLYOFFICE/DesktopEditors/issues/new/
 Download: https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v7.5.1/DesktopEditors-x86_64.AppImage

@@ -10,12 +10,9 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Source: https://github.com/bkueng/qMasterPassword
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Report the bug: https://github.com/bkueng/qMasterPassword/issues/new/
 Download: https://github.com/bkueng/qMasterPassword/releases/download/v2.0/qMasterPassword-x86_64-qt6.AppImage

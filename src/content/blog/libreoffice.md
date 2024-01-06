@@ -12,10 +12,10 @@ draft: false
 
 License:
 
-Web page: URL
-Source: URL
+Web page: https://www.libreoffice.org/
+Source: https://github.com/LibreOffice/core
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Donate: https://www.libreoffice.org/donate/
+Translate: https://wiki.documentfoundation.org/Language
+Report the bug: https://bugs.documentfoundation.org/
 Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage

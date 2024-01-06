@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-2.0
 
-Web page: URL
-Source: URL
+Web page: https://www.scribus.net/
+Source: https://sourceforge.net/projects/Scribus
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Translate: https://explore.transifex.com/scribus/scribus/
+Report the bug: http://bugs.scribus.net/
 Download: https://sourceforge.net/projects/Scribus/files/scribus/1.6.0/scribus-1.6.0-linux-x86_64.AppImage

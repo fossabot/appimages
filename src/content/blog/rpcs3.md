@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-2.0
 
-Web page: URL
-Source: URL
+Web page: https://rpcs3.net/
+Source: https://github.com/RPCS3/rpcs3
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
-Download: https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-e707ff530d882475351ae1d4b555676e3e8ac8bd/rpcs3-v0.0.30-15909-e707ff53_linux64.AppImage
+Donate: https://www.patreon.com/Nekotekina
+Report the bug: https://github.com/RPCS3/rpcs3/issues/new/
+Download: https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-80b7fd5f3f300b2afcb8cf483c7f7ba8a91c2c99/rpcs3-v0.0.30-15916-80b7fd5f_linux64.AppImage

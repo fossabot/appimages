@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License:  GPL-2.0
 
-Web page: URL
-Source: URL
+Web page: https://smplayer.info/
+Source: https://github.com/smplayer-dev/smplayer
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Donate: https://www.smplayer.info/en/contribute
+Report the bug: https://github.com/smplayer-dev/smplayer/issues/new/
 Download: https://github.com/smplayer-dev/smplayer/releases/download/v23.12.0/SMPlayer-23.12.0-x86_64.AppImage

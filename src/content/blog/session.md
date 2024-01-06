@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: GPL-3.0
 
-Web page: URL
-Source: URL
+Web page: https://getsession.org/
+Source: https://github.com/oxen-io/session-desktop
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
+Donate: https://donorbox.org/optf-donation
+Report the bug: https://github.com/oxen-io/session-desktop/issues/new/
 Download: https://github.com/oxen-io/session-desktop/releases/download/v1.11.5/session-desktop-linux-x86_64-1.11.5.AppImage

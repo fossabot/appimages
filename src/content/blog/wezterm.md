@@ -10,12 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+License: MIT
 
-Web page: URL
-Source: URL
+Web page: https://wezfurlong.org/wezterm/
+Source: https://github.com/wez/wezterm
 
-Donate: URL
-Translate: URL
-Report the bug: issues/new/
-Download:https://github.com/wez/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-20230712-072601-f4abf8fd-Ubuntu20.04.AppImage
+Donate: https://patreon.com/WezFurlong
+Report the bug: https://github.com/wez/wezterm/issues/new/
+Download: https://github.com/wez/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-20230712-072601-f4abf8fd-Ubuntu20.04.AppImage
