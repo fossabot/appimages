@@ -51,11 +51,13 @@ const { title, meta_title, description, image, noindex, canonical } =
     <!-- google font css -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
+   <link
       href={`https://fonts.googleapis.com/css2?family=${pf}${
         sf ? "&family=" + sf : ""
       }&display=swap`}
-      rel="stylesheet"
+      rel="preload"
+      as="style"
+      onload="this.rel='stylesheet'"
     />
 
     <!-- responsive meta -->
