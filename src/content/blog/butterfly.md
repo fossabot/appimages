@@ -16,5 +16,5 @@ Web page: https://docs.butterfly.linwood.dev/
 Source: https://github.com/LinwoodDev/Butterfly
 
 Translate: https://translate.linwood.dev/butterfly
-Report the bug: https://github.com/LinwoodDev/Butterfly/issues/new/
+Report the bug: https://github.com/LinwoodDev/Butterfly/issues/new/  
 Download: https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0/linwood-butterfly-linux.AppImage

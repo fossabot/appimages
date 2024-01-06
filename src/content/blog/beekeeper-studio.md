@@ -16,5 +16,5 @@ Web page: https://www.beekeeperstudio.io/
 Source: https://github.com/beekeeper-studio/beekeeper-studio
 
 Donate: https://github.com/sponsors/beekeeper-studio
-Report the bug: https://github.com/beekeeper-studio/beekeeper-studio/issues/new/
+Report the bug: https://github.com/beekeeper-studio/beekeeper-studio/issues/new/  
 Download: https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v4.0.3/Beekeeper-Studio-4.0.3.AppImage

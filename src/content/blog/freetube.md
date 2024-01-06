@@ -12,10 +12,10 @@ draft: false
 
 License: AGPL-3.0
 
-Web page: https://freetubeapp.io/
+Web page: https://freetubeapp.io/  
 Source: https://github.com/FreeTubeApp/FreeTube
 
-Donate: https://liberapay.com/FreeTube
-Translate: https://hosted.weblate.org/engage/free-tube/
-Report the bug: https://github.com/FreeTubeApp/FreeTube/issues/new/
+Donate: https://liberapay.com/FreeTube  
+Translate: https://hosted.weblate.org/engage/free-tube/  
+Report the bug: https://github.com/FreeTubeApp/FreeTube/issues/new/   
 Download: https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.1-beta/freetube_0.19.1_amd64.AppImage

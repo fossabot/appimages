@@ -17,5 +17,5 @@ Source: https://github.com/PCSX2/pcsx2
 
 Donate: https://github.com/sponsors/PCSX2
 Translate: https://crowdin.com/project/pcsx2-emulator
-Report the bug: https://github.com/PCSX2/pcsx2/issues/new/
+Report the bug: https://github.com/PCSX2/pcsx2/issues/new/  
 Download: https://github.com/PCSX2/pcsx2/releases/download/v1.7.5405/pcsx2-v1.7.5405-linux-appimage-x64-Qt.AppImage

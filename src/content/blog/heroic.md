@@ -12,10 +12,10 @@ draft: false
 
 License: GPL-3.0
 
-Web page: https://heroicgameslauncher.com/
+Web page: https://heroicgameslauncher.com/  
 Source: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 
-Donate: https://patreon.com/heroicgameslauncher
-Translate: https://hosted.weblate.org/projects/heroic-games-launcher/
-Report the bug: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new/
+Donate: https://patreon.com/heroicgameslauncher  
+Translate: https://hosted.weblate.org/projects/heroic-games-launcher/  
+Report the bug: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new/  
 Download: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.11.0/Heroic-2.11.0.AppImage

@@ -16,5 +16,5 @@ Web page: https://cinny.in/
 Source: https://github.com/cinnyapp/cinny-desktop
 
 Donate: https://opencollective.com/cinny
-Report the bug: https://github.com/cinnyapp/cinny-desktop/issues/new/
+Report the bug: https://github.com/cinnyapp/cinny-desktop/issues/new/  
 Download: https://github.com/cinnyapp/cinny-desktop/releases/download/v3.2.1/Cinny_desktop-x86_64.AppImage

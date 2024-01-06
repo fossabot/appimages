@@ -16,5 +16,5 @@ Web page: https://www.audacityteam.org/
 Source: https://github.com/audacity/audacity
 
 Translate: https://explore.transifex.com/klyok/audacity/
-Report the bug: https://github.com/audacity/audacity/issues/new/
+Report the bug: https://github.com/audacity/audacity/issues/new/  
 Download: https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-linux-3.4.2-x64.AppImage

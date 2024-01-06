@@ -17,5 +17,5 @@ Source: https://github.com/buttercup/buttercup-desktop
 
 Donate: https://opencollective.com/buttercup
 Translate: https://github.com/buttercup/buttercup-desktop?tab=readme-ov-file#translations
-Report the bug: https://github.com/buttercup/buttercup-desktop/issues/new/
+Report the bug: https://github.com/buttercup/buttercup-desktop/issues/new/  
 Download: https://github.com/buttercup/buttercup-desktop/releases/download/v2.24.4/Buttercup-linux-x86_64.AppImage

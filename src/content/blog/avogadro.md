@@ -17,5 +17,5 @@ Source: https://github.com/openchemistry/avogadrolibs
 
 Donate: https://opencollective.com/open-chemistry
 Translate: https://hosted.weblate.org/engage/avogadro/
-Report the bug: https://github.com/openchemistry/avogadrolibs/issues/new/
+Report the bug: https://github.com/openchemistry/avogadrolibs/issues/new/  
 Download: https://github.com/OpenChemistry/avogadrolibs/releases/download/1.98.1/Avogadro2-x86_64.AppImage

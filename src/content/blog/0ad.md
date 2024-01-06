@@ -11,10 +11,10 @@ draft: false
 ---
 License: MIT
 
-Web page: https://play0ad.com/
+Web page: https://play0ad.com/  
 Source: https://github.com/0ad/0ad
 
-Donate: https://play0ad.com/community/donate/
-Translate: https://www.transifex.com/projects/p/0ad/
-Report the bug: issues/new/
+Donate: https://play0ad.com/community/donate/    
+Translate: https://www.transifex.com/projects/p/0ad/  
+Report the bug: https://github.com/0ad/0ad/issues/new/    
 Download: https://github.com/0ad-matters/0ad-appimage/releases/download/v0.0.27-rc1-27645-alpha/0ad-0.0.27-rc1-27645-alpha-2306180725-focal-x86_64.AppImage

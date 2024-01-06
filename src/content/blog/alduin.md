@@ -12,8 +12,8 @@ draft: false
 
 License: MIT
 
-Web page: https://alduin.stouder.io/
+Web page: https://alduin.stouder.io/  
 Source: https://github.com/AlduinApp/alduin
 
-Report the bug: https://github.com/AlduinApp/alduin/issues/new
+Report the bug: https://github.com/AlduinApp/alduin/issues/new  
 Download: https://github.com/AlduinApp/alduin/releases/download/v3.2.0/alduin_3.2.0_amd64.AppImage

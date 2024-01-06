@@ -15,5 +15,5 @@ License: GPL-3.0
 Web page: https://allusion-app.github.io/
 Source: https://github.com/allusion-app/Allusion
 
-Report the bug: https://github.com/allusion-app/Allusion/issues/new/choose
+Report the bug: https://github.com/allusion-app/Allusion/issues/new/  
 Download: https://github.com/allusion-app/Allusion/releases/download/v1.0.0-rc.10/Allusion-1.0.0-rc.10.AppImage

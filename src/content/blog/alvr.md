@@ -16,5 +16,5 @@ Web page: MIT
 Source: https://github.com/alvr-org/ALVR
 
 Donate: https://opencollective.com/alvr
-Report the bug: https://github.com/alvr-org/ALVR/issues/new/choose
+Report the bug: https://github.com/alvr-org/ALVR/issues/new/  choose
 Download: https://github.com/alvr-org/ALVR/releases/download/v20.5.0/ALVR-x86_64.AppImage

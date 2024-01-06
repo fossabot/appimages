@@ -12,10 +12,10 @@ draft: false
 
 License: GPL-3.0
 
-Web page: https://krita.org/
+Web page: https://krita.org/  
 Source: https://invent.kde.org/graphics/krita
 
-Donate: https://krita.org/en/support-us/donations/
-Translate: https://l10n.kde.org/
-Report the bug: https://bugs.kde.org/enter_bug.cgi
+Donate: https://krita.org/en/support-us/donations/  
+Translate: https://l10n.kde.org/  
+Report the bug: https://bugs.kde.org/enter_bug.cgi  
 Download: https://download.kde.org/stable/krita/5.2.2/krita-5.2.2-x86_64.appimage

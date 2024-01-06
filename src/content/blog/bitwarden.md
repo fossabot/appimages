@@ -16,5 +16,5 @@ Web page: https://bitwarden.com/
 Source: https://github.com/bitwarden/clients
 
 Translate: https://crowdin.com/project/bitwarden-desktop
-Report the bug: https://github.com/bitwarden/clients/issues/new/
+Report the bug: https://github.com/bitwarden/clients/issues/new/  
 Download: https://github.com/bitwarden/clients/releases/download/desktop-v2023.12.1/Bitwarden-2023.12.1-x86_64.AppImage
