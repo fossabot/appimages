@@ -12,9 +12,9 @@ draft: false
 
 License: AGPL-3.0
 
-Web page: https://docs.butterfly.linwood.dev/
+Web page: https://docs.butterfly.linwood.dev/  
 Source: https://github.com/LinwoodDev/Butterfly
 
-Translate: https://translate.linwood.dev/butterfly
+Translate: https://translate.linwood.dev/butterfly  
 Report the bug: https://github.com/LinwoodDev/Butterfly/issues/new/  
 Download: https://github.com/LinwoodDev/Butterfly/releases/download/v2.0.0/linwood-butterfly-linux.AppImage

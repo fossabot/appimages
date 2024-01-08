@@ -12,9 +12,9 @@ draft: false
 
 License: GPL-2.0
 
-Web page: https://vifm.info/
+Web page: https://vifm.info/  
 Source: https://github.com/vifm/vifm
 
-Donate: https://github.com/sponsors/vifm
-Report the bug: https://github.com/vifm/vifm/issues/new
+Donate: https://github.com/sponsors/vifm  
+Report the bug: https://github.com/vifm/vifm/issues/new  
 Download: https://github.com/vifm/vifm/releases/download/v0.13/vifm-v0.13-x86_64.AppImage

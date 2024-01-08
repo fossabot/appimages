@@ -12,7 +12,7 @@ draft: false
 
 License: MIT
 
-Web page: https://getcatalyst.eu.org/
+Web page: https://getcatalyst.eu.org/  
 Source: https://github.com/CatalystDevOrg/Catalyst
 
 Report the bug: https://github.com/CatalystDevOrg/Catalyst/issues/new/  

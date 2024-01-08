@@ -12,7 +12,7 @@ draft: false
 
 License: GPL-3.0
 
-Source: https://github.com/gamingdoom/datcord
+Source: https://github.com/gamingdoom/datcord  
 
 Report the bug: https://github.com/gamingdoom/datcord/issues/new/  
 Download: https://github.com/gamingdoom/datcord/releases/download/0.4.1/Datcord-x86_64.AppImage

@@ -12,7 +12,7 @@ draft: false
 
 License:  GPL-2.0
 
-Web page: https://smplayer.info/
+Web page: https://smplayer.info/  
 Source: https://github.com/smplayer-dev/smplayer
 
 Donate: https://www.smplayer.info/en/contribute  

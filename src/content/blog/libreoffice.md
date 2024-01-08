@@ -16,6 +16,6 @@ Web page: https://www.libreoffice.org/
 Source: https://github.com/LibreOffice/core
 
 Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language
-Report the bug: https://bugs.documentfoundation.org/
+Translate: https://wiki.documentfoundation.org/Language  
+Report the bug: https://bugs.documentfoundation.org/  
 Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage

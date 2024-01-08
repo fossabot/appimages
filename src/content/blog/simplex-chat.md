@@ -12,10 +12,10 @@ draft: false
 
 License: AGPL-3.0
 
-Web page: https://simplex.chat/
+Web page: https://simplex.chat/  
 Source: https://github.com/simplex-chat/simplex-chat
 
-Donate: https://github.com/sponsors/simplex-chat
-Translate: https://hosted.weblate.org/engage/simplex-chat/
-Report the bug: https://github.com/simplex-chat/simplex-chat/issues/new/
+Donate: https://github.com/sponsors/simplex-chat  
+Translate: https://hosted.weblate.org/engage/simplex-chat/  
+Report the bug: https://github.com/simplex-chat/simplex-chat/issues/new/  
 Download: https://github.com/simplex-chat/simplex-chat/releases/download/v5.5.0-beta.0/simplex-desktop-x86_64.AppImage

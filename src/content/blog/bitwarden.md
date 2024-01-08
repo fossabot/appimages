@@ -10,11 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License: GPL-3.0 
+License: GPL-3.0
 
-Web page: https://bitwarden.com/
+Web page: https://bitwarden.com/  
 Source: https://github.com/bitwarden/clients
 
-Translate: https://crowdin.com/project/bitwarden-desktop
+Translate: https://crowdin.com/project/bitwarden-desktop  
 Report the bug: https://github.com/bitwarden/clients/issues/new/  
 Download: https://github.com/bitwarden/clients/releases/download/desktop-v2023.12.1/Bitwarden-2023.12.1-x86_64.AppImage

@@ -12,7 +12,7 @@ draft: false
 
 License: GPL-3.0
 
-Web page: https://allusion-app.github.io/
+Web page: https://allusion-app.github.io/  
 Source: https://github.com/allusion-app/Allusion
 
 Report the bug: https://github.com/allusion-app/Allusion/issues/new/  

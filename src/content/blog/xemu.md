@@ -12,9 +12,9 @@ draft: false
 
 License:
 
-Web page: https://xemu.app/
+Web page: https://xemu.app/  
 Source: https://github.com/xemu-project/xemu
 
-Donate: https://www.patreon.com/mborgerson
+Donate: https://www.patreon.com/mborgerson  
 Report the bug: https://github.com/xemu-project/xemu/issues/new/  
 Download: https://github.com/xemu-project/xemu/releases/download/v0.7.118/xemu-v0.7.118-x86_64.AppImage

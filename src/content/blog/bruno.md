@@ -12,9 +12,9 @@ draft: false
 
 License: MIT
 
-Web page: https://www.usebruno.com/
+Web page: https://www.usebruno.com/  
 Source: https://github.com/usebruno/bruno
 
-Donate: https://github.com/sponsors/helloanoop
+Donate: https://github.com/sponsors/helloanoop  
 Report the bug: https://github.com/usebruno/bruno/issues/new/  
 Download: https://github.com/usebruno/bruno/releases/download/v1.5.1/bruno_1.5.1_x86_64_linux.AppImage

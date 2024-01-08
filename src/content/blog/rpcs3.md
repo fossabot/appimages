@@ -12,7 +12,7 @@ draft: false
 
 License: GPL-2.0
 
-Web page: https://rpcs3.net/
+Web page: https://rpcs3.net/  
 Source: https://github.com/RPCS3/rpcs3
 
 Donate: https://www.patreon.com/Nekotekina  

@@ -12,9 +12,9 @@ draft: false
 
 License: MIT
 
-Web page: https://sindresorhus.com/caprine/
+Web page: https://sindresorhus.com/caprine/  
 Source: https://github.com/sindresorhus/caprine
 
-Donate: https://opencollective.com/sindresorhus
+Donate: https://opencollective.com/sindresorhus  
 Report the bug: https://github.com/sindresorhus/caprine/issues/new/  
 Download: https://github.com/sindresorhus/caprine/releases/download/v2.59.1/Caprine-2.59.1.AppImage

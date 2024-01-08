@@ -12,9 +12,9 @@ draft: false
 
 License: MIT
 
-Web page: https://wezfurlong.org/wezterm/
+Web page: https://wezfurlong.org/wezterm/  
 Source: https://github.com/wez/wezterm
 
-Donate: https://patreon.com/WezFurlong
+Donate: https://patreon.com/WezFurlong  
 Report the bug: https://github.com/wez/wezterm/issues/new/  
 Download: https://github.com/wez/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-20230712-072601-f4abf8fd-Ubuntu20.04.AppImage

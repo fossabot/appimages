@@ -13,9 +13,9 @@ draft: false
 License: GPL-2.0
 
 Web page: https://www.digikam.org/  
-Source: https://invent.kde.org/graphics/digikam
+Source: https://invent.kde.org/graphics/digikam  
 
-Donate: https://www.digikam.org/donate/
-Translate: https://l10n.kde.org/
-Report the bug: https://bugs.kde.org/buglist.cgi?product=digikam&resolution=
+Donate: https://www.digikam.org/donate/  
+Translate: https://l10n.kde.org/  
+Report the bug: https://bugs.kde.org/buglist.cgi?product=digikam&resolution=  
 Download: https://download.kde.org/stable/digikam/8.2.0/digikam-8.2.0-x86-64.appimage

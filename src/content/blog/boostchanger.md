@@ -12,7 +12,7 @@ draft: false
 
 License: MIT
 
-Source: https://github.com/nbebaw/boostchanger
+Source: https://github.com/nbebaw/boostchanger  
 
 Report the bug: https://github.com/nbebaw/boostchanger/issues/new/  
 Download: https://github.com/nbebaw/boostchanger/releases/download/v5.0.3/boostchanger-5.0.3.AppImage

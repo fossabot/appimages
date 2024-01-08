@@ -12,7 +12,7 @@ draft: false
 
 License: GPL-3.0
 
-Web page: https://getsession.org/
+Web page: https://getsession.org/  
 Source: https://github.com/oxen-io/session-desktop
 
 Donate: https://donorbox.org/optf-donation  

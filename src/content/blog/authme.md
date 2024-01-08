@@ -12,9 +12,9 @@ draft: false
 
 License: GPL-3.0
 
-Web page: https://authme.levminer.com/
+Web page: https://authme.levminer.com/  
 Source: https://github.com/Levminer
 
-Donate: https://paypal.me/levminer
+Donate: https://paypal.me/levminer  
 Report the bug: https://github.com/Levminer/authme/issues/new/  
 Download: https://github.com/Levminer/authme/releases/download/4.2.1/authme-4.2.1-linux-x64.appimage
