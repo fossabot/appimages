@@ -5,4 +5,7 @@
   <img src="https://img.shields.io/github/languages/code-size/Drsheppard01/appimages" alt="code size">
 
 
-This project used https://github.com/zeon-studio/astroplate
+This project used 
+* @zeon-studio/astroplate
+* @withastro/astro
+* @tailwindlabs/tailwindcss
