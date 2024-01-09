@@ -6,6 +6,6 @@
 
 
 This project used 
-github.com/zeon-studio/astroplate
-github.com/withastro/astro
-github.com/tailwindlabs/tailwindcss
+https://github.com/zeon-studio/astroplate
+https://github.com/withastro/astro
+https://github.com/tailwindlabs/tailwindcss
