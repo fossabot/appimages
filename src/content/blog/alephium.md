@@ -4,13 +4,13 @@ meta_title: ""
 description: "The official Alephium desktop wallet."
 date: 2023-12-23T15:14:00Z
 image: "/images/image-placeholder.png"
-categories: ["Utilities"]
+categories: ["Productivity"]
 author: "Alephium Team"
 tags: ["official"]
 draft: false
 ---
 
-License: LGPLv3
+License: LGPL-3.0
 
 Web page: https://alephium.org/  
 Source: https://github.com/alephium/alephium-frontend

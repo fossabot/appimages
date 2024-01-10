@@ -9,6 +9,7 @@ author: "Ultimaker"
 tags: ["official"]
 draft: false
 ---
+
 License: LGPL-3.0
 
 Web page: https://ultimaker.com/software/ultimaker-cura/  

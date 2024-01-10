@@ -10,7 +10,7 @@ tags: ["official"]
 draft: false
 ---
 
-License:  GPL-2.0 license
+License: GPL-2.0
 
 Web page: https://86box.net/  
 Source: https://github.com/86Box/86Box  
