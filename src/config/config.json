@@ -2,7 +2,7 @@
   "site": {
     "title": "appimages",
     "base_url": "https://drsheppard01.github.io",
-    "base_path": "appimages",
+    "base_path": "/appimages/",
     "trailing_slash": false,
     "favicon": "/appimages/images/favicon.png",
     "logo": "/appimages/images/logo.png",
