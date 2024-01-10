@@ -1,0 +1,21 @@
+---
+title: "Cryptomator"
+meta_title: ""
+description: "Multi-platform transparent client-side encryption of your files in the cloud"
+date: 2023-12-31T12:10:00Z
+image: "/images/image-placeholder.png"
+categories: ["System"]
+author: "Skymatic GmbH"
+tags: ["official"]
+draft: false
+---
+
+License: GPL-3.0
+
+Web page: https://cryptomator.org/  
+Source: https://github.com/cryptomator/cryptomator
+
+Donate: https://github.com/sponsors/cryptomator  
+Translate: https://translate.cryptomator.org/  
+Report the bug: https://github.com/cryptomator/cryptomator/issues/new/  
+Download: https://github.com/cryptomator/cryptomator/releases/download/1.11.1/cryptomator-1.11.1-x86_64.AppImage
