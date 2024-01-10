@@ -1,10 +1,10 @@
 ---
 title: "Tuta"
 meta_title: ""
-description: "email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
+description: "Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices."
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Graphics"]
+categories: ["Productivity"]
 author: "Tutao GmbH."
 tags: ["official"]
 draft: false
