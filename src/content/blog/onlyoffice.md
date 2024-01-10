@@ -12,7 +12,7 @@ draft: false
 
 License: AGPL-3.0
 
-Web page: https://www.onlyoffice.com/
+Web page: https://www.onlyoffice.com/  
 Source: https://github.com/ONLYOFFICE/DesktopEditorss
 
 Translate: https://helpcenter.onlyoffice.com/guides/become-translator.aspx

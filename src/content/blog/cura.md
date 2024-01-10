@@ -11,7 +11,7 @@ draft: false
 ---
 License: LGPL-3.0
 
-Web page: https://ultimaker.com/software/ultimaker-cura/
+Web page: https://ultimaker.com/software/ultimaker-cura/  
 Source: https://github.com/Ultimaker/Cura
 
 Donate: https://github.com/sponsors/Ultimaker    

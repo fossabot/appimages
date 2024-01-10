@@ -12,7 +12,7 @@ draft: false
 
 License: GPL-3.0
 
-Web page: https://notesnook.com/
+Web page: https://notesnook.com/  
 Source: https://github.com/streetwriters/notesnook
 
 Donate: https://opencollective.com/notesnook

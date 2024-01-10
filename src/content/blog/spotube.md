@@ -16,5 +16,5 @@ Web page: https://spotube.netlify.app/
 Source: https://github.com/KRTirtho/spotube
 
 Donate:https://opencollective.com/spotube  
-Report the bug: https://github.com/KRTirtho/spotube/issues/new/
+Report the bug: https://github.com/KRTirtho/spotube/issues/new/  
 Download: https://github.com/KRTirtho/spotube/releases/latest/download/Spotube-linux-x86_64.AppImage

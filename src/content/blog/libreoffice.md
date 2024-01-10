@@ -12,7 +12,7 @@ draft: false
 
 License:
 
-Web page: https://www.libreoffice.org/
+Web page: https://www.libreoffice.org/  
 Source: https://github.com/LibreOffice/core
 
 Donate: https://www.libreoffice.org/donate/  

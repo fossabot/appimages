@@ -12,7 +12,7 @@ draft: false
 
 License: GPL-3.0
 
-Web page: https://pcsx2.net/
+Web page: https://pcsx2.net/  
 Source: https://github.com/PCSX2/pcsx2
 
 Donate: https://github.com/sponsors/PCSX2  
