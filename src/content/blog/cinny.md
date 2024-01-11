@@ -10,7 +10,7 @@ tags: ["official"]
 draft: false
 ---
 
-License:  AGPL-3.0
+License: AGPL-3.0
 
 Web page: https://cinny.in/  
 Source: https://github.com/cinnyapp/cinny-desktop
