@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Open source, minimalistic and hardcore music production tool
+
 License: GPL-3.0
 
 Web page: https://www.giadamusic.com/  

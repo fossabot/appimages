@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Password manager based on Qt
+
 License: GPL-3.0
 
 Source: https://github.com/bkueng/qMasterPassword

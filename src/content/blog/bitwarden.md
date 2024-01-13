@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Open source password management solutions for individuals, teams, and business organizations
+
 License: GPL-3.0
 
 Web page: https://bitwarden.com/  

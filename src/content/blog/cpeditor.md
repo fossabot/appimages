@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+The IDE for competitive programming
+
 License: GPL-3.0
 
 Web page: https://cpeditor.org/  

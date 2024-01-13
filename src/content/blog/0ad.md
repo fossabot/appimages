@@ -10,6 +10,8 @@ tags: ["community"]
 draft: false
 ---
 
+Unofficial 0ad AppImage (built from official sources and data)
+
 License: MIT
 
 Web page: https://play0ad.com/  

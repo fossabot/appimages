@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Multi-platform transparent client-side encryption of your files in the cloud
+
 License: GPL-3.0
 
 Web page: https://cryptomator.org/  

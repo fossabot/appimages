@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Self-hosted game stream host for Moonlight
+
 License: GPL-3.0
 
 Web page: https://app.lizardbyte.dev/Sunshine  

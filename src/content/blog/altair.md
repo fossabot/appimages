@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A beautiful feature-rich GraphQL Client
+
 License: MIT
 
 Web page: https://altairgraphql.dev/  

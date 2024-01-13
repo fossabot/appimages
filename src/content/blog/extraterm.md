@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+The swiss army chainsaw of terminal emulators
+
 License: MIT
 
 Web page: https://extraterm.org/  

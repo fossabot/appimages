@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+GPU-accelerated cross-platform terminal emulator and multiplexer
+
 License: MIT
 
 Web page: https://wezfurlong.org/wezterm/  

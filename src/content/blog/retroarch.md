@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+RetroArch is the reference frontend for the libretro API
+
 License: GPL-3.0
 
 Web page: https://www.retroarch.com/  

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+acreom is a powerful knowledge base integrated with time management running on local markdown files
+
 License: EULA
 
 Web page: https://acreom.com/

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+With this app you can control CPU turbo boost and the settings of the cpu speed in order to consuming less battery voltage
+
 License: MIT
 
 Source: https://github.com/nbebaw/boostchanger  

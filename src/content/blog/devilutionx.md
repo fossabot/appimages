@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Port of Diablo and Hellfire that strives to make it simple to run the game while providing engine improvements, bugfixes, and some optional quality of life features
+
 License: Sustainable Use License
 
 Source: https://github.com/diasurgical/devilutionX

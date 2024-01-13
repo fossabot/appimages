@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Simple cross-platform two-factor (2FA) authenticator app for desktop
+
 License: GPL-3.0
 
 Web page: https://authme.levminer.com/  

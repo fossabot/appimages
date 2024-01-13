@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A Native GOG, Amazon and Epic Games Launcher
+
 License: GPL-3.0
 
 Web page: https://heroicgameslauncher.com/  

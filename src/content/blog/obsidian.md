@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files
+
 License: EULA
 
 Web page: https://obsidian.md/

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Simple, well-designed, free desktop accounting software for freelancers and small businesses
+
 License: AGPL-3.0
 
 Web page: https://frappebooks.com/  

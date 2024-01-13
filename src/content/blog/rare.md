@@ -1,7 +1,7 @@
 ---
 title: "Rare"
 meta_title: ""
-description: "A frontend for legendary, the open source Epic Games Launcher alternative"
+description: "Frontend for legendary, the open source Epic Games Launcher alternative"
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
@@ -9,6 +9,8 @@ author: "Rare Devs"
 tags: ["official"]
 draft: false
 ---
+
+Frontend for legendary, the open source Epic Games Launcher alternative
 
 License: GPL-3.0
 

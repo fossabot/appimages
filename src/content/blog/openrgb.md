@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Open source RGB lighting control that doesn't depend on manufacturer software
+
 License: GPL-2.0
 
 Web page: https://openrgb.org  

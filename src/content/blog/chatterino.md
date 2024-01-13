@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Chat client for Twitch.tv
+
 License: MIT
 
 Web page: https://chatterino.com/  

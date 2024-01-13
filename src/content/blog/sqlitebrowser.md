@@ -5,10 +5,12 @@ description: "High quality, visual, open source tool to create, design, and edit
 date: 2023-12-27T14:14:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Jan Prochazka"
+author: "DB Browser for SQLite Team"
 tags: ["official"]
 draft: false
 ---
+
+High quality, visual, open source tool to create, design, and edit database files compatible with SQLite
 
 License: GPL-3.0
 

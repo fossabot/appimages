@@ -1,7 +1,7 @@
 ---
 title: "Datcord"
 meta_title: ""
-description: "Datcord is a specialized version of Firefox"
+description: "An open-source Discord client using Firefox"
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
@@ -9,6 +9,8 @@ author: "Pranay Sanghai"
 tags: ["official"]
 draft: false
 ---
+
+An open-source Discord client using Firefox
 
 License: GPL-3.0
 

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A simplified touch optimized interface for QGIS in the field
+
 License: GPL-2.0
 
 Web page: http://www.qfield.org/  

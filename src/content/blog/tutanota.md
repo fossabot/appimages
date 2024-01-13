@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices
+
 License: GPL-3.0
 
 Web page: https://tuta.com/  

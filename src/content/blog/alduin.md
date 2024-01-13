@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Alduin is a free and open source RSS, Atom and JSON feed reader
+
 License: MIT
 
 Web page: https://alduin.stouder.io/  

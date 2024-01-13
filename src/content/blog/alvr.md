@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Stream VR games from your PC to your headset via Wi-Fi
+
 License: MIT
 
 Source: https://github.com/alvr-org/ALVR

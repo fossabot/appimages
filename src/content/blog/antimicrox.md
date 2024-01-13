@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Graphical program used to map gamepad keys to keyboard, mouse, scripts and macros
+
 License: GPL-3.0
 
 Web page: https://antimicrox.github.io/  

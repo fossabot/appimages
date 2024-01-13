@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Chromium fork for linux, includes Widevine, All Codecs, Chrome Plugins, as well as thinLTO, CFlag, LDFlag, LLVM Loop, and PGO compiler optimizations
+
 License:  BSD-3-Clause
 
 Web page: https://thorium.rocks/  

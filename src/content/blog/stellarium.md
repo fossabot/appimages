@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Stellarium is a free open source planetarium for your computer
+
 License: GPL-2.0
 
 Web page: https://www.retroarch.com/  

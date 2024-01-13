@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight
+
 License: OSL-3.0
 
 Web page: https://armcord.app/  

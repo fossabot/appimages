@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+yuzu is the world's most popular, open-source, Nintendo Switch emulator
+
 License: GPL-3.0
 
 Web page: https://yuzu-emu.org/  

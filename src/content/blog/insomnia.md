@@ -10,9 +10,11 @@ tags: ["official"]
 draft: false
 ---
 
-License: Apache-2.0
+The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC
 
-Web page: https://antares-sql.app/  
+License: MIT
+
+Web page: https://insomnia.rest/  
 Source: https://github.com/Kong/insomnia
 
 Report the bug: https://github.com/Kong/insomnia/issues  

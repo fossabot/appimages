@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Matrix client focusing primarly on simple, elegant and secure interface
+
 License: AGPL-3.0
 
 Web page: https://cinny.in/  

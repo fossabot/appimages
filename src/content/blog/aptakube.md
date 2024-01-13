@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Modern, lightweight and multi-cluster Kubernetes GUI
+
 License: EULA
 
 Web page: https://aptakube.com/

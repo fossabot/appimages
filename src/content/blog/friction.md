@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Powerful and versatile free and open-source motion graphics application
+
 License: GPL-3.0
 
 Web page: https://friction.graphics/  

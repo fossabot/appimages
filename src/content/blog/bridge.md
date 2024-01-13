@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Quixel Bridge is a software that lets you browse, download, and export 3D assets from Megascans and MetaHumans libraries with one click
+
 License: EULA
 
 Web page: https://quixel.com/bridge

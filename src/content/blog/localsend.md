@@ -1,7 +1,7 @@
 ---
 title: "Localsend"
 meta_title: ""
-description: " An open source cross-platform alternative to AirDrop"
+description: "Open source cross-platform alternative to AirDrop"
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
@@ -9,6 +9,8 @@ author: "Tien Do Nam"
 tags: ["official"]
 draft: false
 ---
+
+Open source cross-platform alternative to AirDrop
 
 License: MIT
 

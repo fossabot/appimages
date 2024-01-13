@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A post-modern modal text editor
+
 License: MPL-2.0
 
 Web page: https://helix-editor.com/

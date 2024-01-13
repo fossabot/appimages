@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+3D printer / slicing GUI built on top of the Uranium framework
+
 License: LGPL-3.0
 
 Web page: https://ultimaker.com/software/ultimaker-cura/  

@@ -1,7 +1,7 @@
 ---
 title: "Notesnook"
 meta_title: ""
-description: "An end-to-end encrypted note taking alternative to Evernote."
+description: "End-to-end encrypted note taking alternative to Evernote."
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
@@ -9,6 +9,8 @@ author: "Notesnook Authors"
 tags: ["official"]
 draft: false
 ---
+
+End-to-end encrypted note taking alternative to Evernote
 
 License: GPL-3.0
 

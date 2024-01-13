@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Free and Open Source Reverse Engineering platform powered by Rizin
+
 License: GPL-3.0
 
 Web page: https://cutter.re/  

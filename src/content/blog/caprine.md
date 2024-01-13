@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Caprine is an unofficial and privacy-focused Facebook Messenger app with many useful features
+
 License: MIT
 
 Web page: https://sindresorhus.com/caprine/  

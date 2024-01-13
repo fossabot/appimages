@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A free and open source desktop application for managing your visual library
+
 License: GPL-3.0
 
 Web page: https://allusion-app.github.io/  

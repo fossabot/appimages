@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Powerful, minimalistic, cross-platform, opensource note-taking app
+
 License: AGPL-3.0
 
 Web page: https://docs.butterfly.linwood.dev/  

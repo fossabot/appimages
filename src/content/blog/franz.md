@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more
+
 License: Apache-2.0
 
 Web page: https://meetfranz.com/  

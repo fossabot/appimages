@@ -1,7 +1,7 @@
 ---
 title: "Spotube"
 meta_title: ""
-description: "Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!"
+description: "Open source Spotify client"
 date: 2023-12-06T13:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["AudioVideo"]
@@ -9,6 +9,8 @@ author: "The Spotube team"
 tags: ["official"]
 draft: false
 ---
+
+Open source Spotify client
 
 License: BSD-4-Clause
 

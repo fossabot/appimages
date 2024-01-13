@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Free and Open-source PlayStation 3 emulator/debugger
+
 License: GPL-2.0
 
 Web page: https://rpcs3.net/  

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Flash OS images to SD cards & USB drives, safely and easily
+
 License: Apache-2.0
 
 Web page: https://etcher.balena.io/  

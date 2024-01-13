@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Tool to make sandboxing AppImages easy
+
 License: MIT
 
 Source: https://github.com/mgord9518/aisap

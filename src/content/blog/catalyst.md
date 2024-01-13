@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A lightweight and user-focused web browser powered by Electron
+
 License: MIT
 
 Web page: https://getcatalyst.eu.org/  

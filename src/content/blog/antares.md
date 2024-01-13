@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A modern, fast and productivity driven SQL client with a focus in UX
+
 License: MIT
 
 Web page: https://antares-sql.app/  

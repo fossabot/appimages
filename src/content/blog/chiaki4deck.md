@@ -5,10 +5,12 @@ description: "Fork of Chiaki with Enhancements for Steam Deck and Documentation 
 date: 2023-08-20T13:04:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
-author: "Florian Märkl"
+author: "Street Pea"
 tags: ["official"]
 draft: false
 ---
+
+Fork of Chiaki with Enhancements for Steam Deck and Documentation around how to use
 
 License: AGPL-3.0
 

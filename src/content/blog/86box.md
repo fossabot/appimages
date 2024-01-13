@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Emulator of x86-based machines based on PCem
+
 License: GPL-2.0
 
 Web page: https://86box.net/  

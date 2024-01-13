@@ -10,7 +10,9 @@ tags: ["official"]
 draft: false
 ---
 
-License:
+Free and open-source original Xbox game console emulation
+
+License: GPL-2.0
 
 Web page: https://xemu.app/  
 Source: https://github.com/xemu-project/xemu

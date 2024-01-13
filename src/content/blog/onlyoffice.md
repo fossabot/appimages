@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Free office suite that combines text, spreadsheet and presentation editors
+
 License: AGPL-3.0
 
 Web page: https://www.onlyoffice.com/  

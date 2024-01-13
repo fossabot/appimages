@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Krita is a professional free and open source painting program
+
 License: GPL-3.0
 
 Web page: https://krita.org/  

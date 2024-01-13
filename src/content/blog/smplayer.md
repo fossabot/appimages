@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Free Media Player with built-in codecs
+
 License:  GPL-2.0
 
 Web page: https://smplayer.info/  

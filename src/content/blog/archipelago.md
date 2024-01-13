@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Archipelago provides a generic framework for developing multiworld capability for game randomizers
+
 License: GPL-3.0
 
 Web page: https://archipelago.gg/  

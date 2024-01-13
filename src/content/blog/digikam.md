@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Professional Photo Management with Power of Open Source
+
 License: GPL-2.0
 
 Web page: https://www.digikam.org/  

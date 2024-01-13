@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Linux perf GUI for performance analysis
+
 License: GPL-2.0
 
 Source: https://github.com/KDAB/hotspot

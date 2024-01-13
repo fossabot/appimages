@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas
+
 License: BSD-3-Clause
 
 Web page: https://two.avogadro.cc/  

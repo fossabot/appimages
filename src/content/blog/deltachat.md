@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Email-based instant messaging for Desktop
+
 License: GPL-3.0
 
 Web page: https://delta.chat/  

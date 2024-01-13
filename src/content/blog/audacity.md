@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Easy-to-use, multi-track audio editor and recorder
+
 License: GPL-3.0
 
 Web page: https://www.audacityteam.org/  

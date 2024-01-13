@@ -1,7 +1,7 @@
 ---
 title: "CPU-X"
 meta_title: ""
-description: "Self-hosted game stream host for Moonlight."
+description: "Free software that gathers information on CPU, motherboard and more."
 date: 2023-12-31T12:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
@@ -9,6 +9,8 @@ author: "The Tumultuous Unicorn Of Darkness"
 tags: ["official"]
 draft: false
 ---
+
+Free software that gathers information on CPU, motherboard and more
 
 License: GPL-3.0
 

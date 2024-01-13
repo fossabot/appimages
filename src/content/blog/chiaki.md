@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Chiaki is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play
+
 License: AGPL-3.0
 
 Source: https://git.sr.ht/~thestr4ng3r/chiaki

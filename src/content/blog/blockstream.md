@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Non-custodial Bitcoin wallet
+
 License: GPL-3.0
 
 Web page: https://blockstream.com/green/  

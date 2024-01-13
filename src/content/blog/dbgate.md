@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others
+
 License: MIT
 
 Web page: https://dbgate.org/  

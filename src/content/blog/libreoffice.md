@@ -10,7 +10,9 @@ tags: ["Community"]
 draft: false
 ---
 
-License:
+Free open source office suite
+
+License: GPL-3.0
 
 Web page: https://www.libreoffice.org/  
 Source: https://github.com/LibreOffice/core

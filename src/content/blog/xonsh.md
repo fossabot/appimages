@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Python-powered, cross-platform, Unix-gazing shell language and command prompt
+
 License: BSD-2-Clause
 
 Web page: https://xon.sh/  

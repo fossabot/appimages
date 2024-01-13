@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A Community-led Hyper-Hackable Text Editor
+
 License: MIT
 
 Web page: https://pulsar-edit.dev/  

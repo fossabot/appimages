@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Free and open-source PlayStation 2 (PS2) emulator
+
 License: GPL-3.0
 
 Web page: https://pcsx2.net/  

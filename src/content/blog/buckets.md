@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Make your budget quick, simple and private
+
 License: EULA
 
 Web page: https://www.budgetwithbuckets.com/  

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks
+
 License: GPL-2.0
 
 Web page: https://avidemux.sourceforge.net/index.html  

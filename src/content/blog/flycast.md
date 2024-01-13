@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast
+
 License: GPL-2.0
 
 Source: https://github.com/flyinghead/flycast

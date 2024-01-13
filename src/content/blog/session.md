@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Session integrates directly with Oxen Service Nodes, which are a set of distributed, decentralized and Sybil resistant nodes
+
 License: GPL-3.0
 
 Web page: https://getsession.org/  

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A modern desktop RSS reader
+
 License: BSD-3-Clause
 
 Web page: https://hyliu.me/fluent-reader/  

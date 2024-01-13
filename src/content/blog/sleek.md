@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Open-source (FOSS) todo manager based on the todo.txt syntax
+
 License: MIT
 
 Source: https://github.com/ransome1/sleek

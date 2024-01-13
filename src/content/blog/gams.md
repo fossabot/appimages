@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Official development environment of the General Algebraic Modeling System
+
 License: GPL-3.0
 
 Web page: https://www.gams.com/  

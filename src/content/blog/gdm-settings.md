@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A settings app for GNOME's Login Manager, GDM
+
 License: AGPL-3.0
 
 Web page: https://gdm-settings.github.io/  

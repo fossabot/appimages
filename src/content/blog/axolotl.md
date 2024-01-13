@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Complete cross-platform Signal client
+
 License: GPL-3.0
 
 Source: https://github.com/nanu-c/axolotl  

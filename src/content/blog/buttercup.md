@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Buttercup is a free, open-source and cross-platform password manager
+
 License: GPL-3.0
 
 Web page: https://buttercup.pw/  

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Go-to libre desltop publishing application
+
 License: GPL-2.0
 
 Web page: https://www.scribus.net/  

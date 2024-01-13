@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Monitor and control your cooling and other devices
+
 License: GPL-3.0
 
 Source: https://gitlab.com/coolercontrol/coolercontrol

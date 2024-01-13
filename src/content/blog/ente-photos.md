@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+End-to-end encryption for photos and more
+
 License: GPL-3.0
 
 Web page: https://ente.io/  

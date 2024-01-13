@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+First messaging platform that has no user identifiers of any kind
+
 License: AGPL-3.0
 
 Web page: https://simplex.chat/  

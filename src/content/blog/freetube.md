@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+FreeTube is an open source desktop YouTube player built with privacy in mind
+
 License: AGPL-3.0
 
 Web page: https://freetubeapp.io/  

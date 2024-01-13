@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+Full-featured, no-code, open-source game development software
+
 License: MIT
 
 Web page: https://gdevelop.io/  

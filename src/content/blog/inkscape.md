@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+A Free and open source vector graphics editor
+
 License: GPL-2.0
 
 Web page: https://inkscape.org  

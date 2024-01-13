@@ -1,7 +1,7 @@
 ---
 title: "Moonlight"
 meta_title: ""
-description: "Self-hosted game stream host for Moonlight."
+description: "Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine."
 date: 2023-12-31T12:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
@@ -9,6 +9,8 @@ author: "Moonlight Game Streaming Project"
 tags: ["official"]
 draft: false
 ---
+
+Moonlight PC is an open source PC client for NVIDIA GameStream and Sunshine
 
 License: GPL-3.0
 

@@ -10,6 +10,8 @@ tags: ["official"]
 draft: false
 ---
 
+The official Alephium desktop wallet
+
 License: LGPL-3.0
 
 Web page: https://alephium.org/  
