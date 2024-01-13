@@ -3,7 +3,7 @@
     "title": "appimages",
     "base_url": "https://drsheppard01.github.io",
     "base_path": "/appimages/",
-    "trailing_slash": "always",
+    "trailing_slash": "never",
     "favicon": "/appimages/images/favicon.png",
     "logo": "/appimages/images/logo.png",
     "logo_darkmode": "/appimages/images/logo-darkmode.png",
