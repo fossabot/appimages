@@ -20,4 +20,4 @@ Source: https://github.com/0ad/0ad
 Donate: https://play0ad.com/community/donate/    
 Translate: https://www.transifex.com/projects/p/0ad/  
 Report the bug: https://github.com/0ad/0ad/issues/new/    
-Download: https://github.com/cosmo0/arcade-manager/releases/download/v7.1/ArcadeManager-7.1-linux-x64.AppImage
+Download: https://github.com/0ad-matters/0ad-appimage/releases/download/v0.0.27-rc1-27645-alpha/0ad-0.0.27-rc1-27645-alpha-2306180726-jammy-x86_64.AppImaged
