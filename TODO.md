@@ -9,6 +9,6 @@
 - [ ] Fix all path like as drsheppard01.github.io/appimages
 - [ ] Transfer all content to apps/ instead blog
 - [ ] Create scrapers from github, package.json, etc for author, link and more used info
-- [ ] Make auto-generaiting author page
+- [ ] Make auto-generating author page
 - [ ] Better naming for site
 - [ ] Auto-updating
