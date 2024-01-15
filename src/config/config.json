@@ -1,0 +1,41 @@
+{
+  "site": {
+    "title": "appimages",
+    "base_url": "https://drsheppard01.github.io",
+    "base_path": "/appimages/",
+    "trailing_slash": "never",
+    "favicon": "/appimages/images/favicon.png",
+    "logo": "/appimages/images/logo.png",
+    "logo_darkmode": "/appimages/images/logo-darkmode.png",
+    "logo_width": "150",
+    "logo_height": "30",
+    "logo_text": "Appimages"
+  },
+
+  "settings": {
+    "search": true,
+    "sticky_header": false,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 9,
+    "summary_length": 200,
+    "blog_folder": "appimages/blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Dr.Sheppard"
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "https://github.com/drsheppard01/appimages"
+  },
+
+  "metadata": {
+    "meta_author": "drsheppard01",
+    "meta_image": "appimages/images/og-image.png",
+    "meta_description": "App which store Appimage applications for Linux"
+  }
+}

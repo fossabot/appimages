@@ -6,6 +6,7 @@ import AutoImport from "astro-auto-import";
 import { defineConfig, squooshImageService } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
+import config from "./src/config/config.json"
 
 // https://astro.build/config
 export default defineConfig({
