@@ -1,5 +1,7 @@
 # Common
 
+There is no such thing as a small contribution. Every contribution makes a difference. We look forward to your help
+
 1. Check [TODO.md](/TODO.md) and try to complete one of stage
 2. If you make content contiribution read this guide carefully
 
@@ -11,5 +13,3 @@
 4. The Donate line in the file should contain only one link
 5. Tokens are forbidden
 6. The "Translate" link should contain either a translation guide or a link to the project's translation platform (e.g. Transifex or Crowdin).
-
-There is no such thing as a small contribution. We look forward to your help 
