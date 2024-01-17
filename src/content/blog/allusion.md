@@ -5,7 +5,7 @@ description: "A free and open source desktop application for managing your visua
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Allusion Team"
+author: "allusion-app"
 tags: ["official"]
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: the 86Box developers
-description: 
+description:
 
 social:
   - name: github
