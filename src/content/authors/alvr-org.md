@@ -1,13 +1,10 @@
 ---
-title: Samuel Imolorhe
-description: Problem Solver. Frontend Developer. Made Altair GraphQL Client.
+title: alvr-org
+description: We are building an application for streaming VR games
 
 social:
   - name: github
     icon: FaGithub
     link: https://github.com/imolorhe
-  - name: twitter
-    icon: FaTwitter
-    link: https://twitter.com/imolorhe
 
 ---
