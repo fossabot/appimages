@@ -1,6 +1,6 @@
 ---
 title: acreom team
-description: Unofficial @0ad organization; projects and forks for mods and maps
+description: Team which develop acreom
 
 social:
   - name: web

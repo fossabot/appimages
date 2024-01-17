@@ -1,6 +1,6 @@
 ---
 title: Mathew R Gordon
-description:
+description: Just a hobbyist attempting to make some useful projects
 
 social:
   - name: github

@@ -1,6 +1,6 @@
 ---
 title: Xavier Stouder
-description:
+description: IT Student working with @nodejs. Self-proclaimed cool dude.
 
 social:
   - name: web

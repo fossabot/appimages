@@ -1,6 +1,6 @@
 ---
-title: the 86Box developers
-description:
+title: the-86Box-developers
+description: author of 86box
 
 social:
   - name: github
