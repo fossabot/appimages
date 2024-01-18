@@ -1,5 +1,5 @@
 ---
-title: the-86Box-developers
+title: 86box
 description: author of 86box
 
 social:
