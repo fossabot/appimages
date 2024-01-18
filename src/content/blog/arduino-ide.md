@@ -5,7 +5,7 @@ description: "The open-source Arduino Software (IDE) makes it easy to write code
 date: 2023-08-31T17:49:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "Arduino SA"
+author: "Arduino"
 tags: ["official"]
 draft: false
 ---

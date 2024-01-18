@@ -2,7 +2,7 @@
 title: "Archipelago"
 meta_title: ""
 description: "Archipelago provides a generic framework for developing multiworld capability for game randomizers"
-date: 2023-10-16T22:52:00Z
+date: 2024-01-03T16:39:00Z
 image: "/images/image-placeholder.png"
 categories: ["Games"]
 author: "Archipelago"
