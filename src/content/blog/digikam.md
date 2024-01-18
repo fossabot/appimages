@@ -5,7 +5,7 @@ description: "Professional Photo Management with Power of Open Source"
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
-author: "KDE E.V."
+author: "digiKam Team"
 tags: ["official"]
 draft: false
 ---

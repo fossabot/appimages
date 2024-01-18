@@ -5,7 +5,7 @@ description: "Multi-platform transparent client-side encryption of your files in
 date: 2023-12-31T12:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "Skymatic GmbH"
+author: "Skymatic"
 tags: ["official"]
 draft: false
 ---
