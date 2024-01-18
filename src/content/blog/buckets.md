@@ -5,7 +5,7 @@ description: "Make your budget quick, simple and private"
 date: 2023-12-17T19:02:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "One Part Rain, LLC"
+author: "One Part Rain"
 tags: ["official"]
 draft: false
 ---
