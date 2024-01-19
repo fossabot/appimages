@@ -1,5 +1,5 @@
 ---
-title: acreom team
+title: acreom
 description: Team which develop acreom
 
 social:
