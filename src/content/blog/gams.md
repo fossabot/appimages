@@ -5,7 +5,7 @@ description: "Official development environment of the General Algebraic Modeling
 date: 2023-12-21T13:42:00Z
 image: "/images/image-placeholder.png"
 categories: ["Development"]
-author: "GAMS Development Corp."
+author: "GAMS Development"
 tags: ["official"]
 draft: false
 ---
