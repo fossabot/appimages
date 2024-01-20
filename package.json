@@ -32,7 +32,8 @@
     "react-lite-youtube-embed": "^2.4.0",
     "remark-collapse": "^0.1.2",
     "remark-toc": "^9.0.0",
-    "sharp": "^0.33.2"
+    "sharp": "^0.33.2",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
@@ -52,7 +53,7 @@
     "tailwind-bootstrap-grid": "^5.1.0",
     "typescript": "5.3.3"
   },
-    "trustedDependencies": [
-       "sharp"
-    ]
+  "trustedDependencies": [
+    "sharp"
+  ]
 }
