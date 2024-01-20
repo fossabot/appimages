@@ -9,6 +9,7 @@ social:
   - name: github
     icon: FaGithub
     link: https://github.com/KDE/krita
+  - name: mastodon
     icon: FaMastodon
     link: https://mastodon.art/@krita
   - name: twitter
