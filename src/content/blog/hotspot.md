@@ -5,7 +5,7 @@ description: "Linux perf GUI for performance analysis."
 date: 2023-12-21T06:13:00Z
 image: "/images/image-placeholder.png"
 categories: ["System"]
-author: "Klarälvdalens Datakonsult AB"
+author: "Klarälvdalens Datakonsult"
 tags: ["official"]
 draft: false
 ---

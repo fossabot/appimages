@@ -10,7 +10,7 @@ social:
     icon: FaGithub
     link: https://github.com/bitwarden
   - name: mastodon
-    icon: FasMastodon
+    icon: FaMastodon
     link: https://fosstodon.org/@bitwarden
   - name: twitter
     icon: FaTwitter

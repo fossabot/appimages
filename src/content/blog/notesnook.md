@@ -5,7 +5,7 @@ description: "End-to-end encrypted note taking alternative to Evernote."
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Notesnook Authors"
+author: "Streetwriters"
 tags: ["official"]
 draft: false
 ---

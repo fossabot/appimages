@@ -1,15 +1,15 @@
 ---
-title: Bruno Authors
-description: We are on a journey to re-invent the api client.
+title: Quixel
+description: We capture the World
 
 social:
   - name: Web
     icon: FaGlobe
-    link: https://www.usebruno.com/about
+    link: https://quixel.com/about
   - name: github
     icon: FaGithub
-    link: https://github.com/usebruno/
+    link: https://github.com/quixel
   - name: twitter
     icon: FaTwitter
-    link: https://twitter.com/use_bruno
+    link: https://twitter.com/quixeltools
 ---
