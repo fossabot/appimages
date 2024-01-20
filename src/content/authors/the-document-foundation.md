@@ -8,8 +8,8 @@ social:
     link: https://www.libreoffice.org/about-us/who-are-we/
   - name: github
     icon: FaGithub
-  - name: mastodon
     link: https://github.com/LibreOffice
+  - name: mastodon
     icon: FaMastodon
     link: https://fosstodon.org/@libreoffice
   - name: twitter
