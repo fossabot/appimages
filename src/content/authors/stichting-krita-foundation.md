@@ -1,6 +1,6 @@
 ---
-title: ArchGPT
-description: Architecture for Reasoning and Computing over Hypergraph and the Yoneda perspective
+title: Stichting Krita Foundation
+description: The Krita project was started by the KDE community in 1998. Krita is still part of the KDE community all Krita contributors are KDE community members
 
 social:
   - name: Web
