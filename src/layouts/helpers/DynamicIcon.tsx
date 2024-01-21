@@ -1,6 +1,6 @@
 import React, { type FC } from "react";
 import type { IconType } from "react-icons";
-import * as FaIcons from "react-icons/fa6/index.js";
+import * as FaIcons from "react-icons/fa6";
 
 type IconMap = Record<string, IconType>;
 
