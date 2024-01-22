@@ -1,6 +1,6 @@
 ---
 title: the xonsh developers
-description: 
+description: Xonsh developers is author of Xon.sh 
 
 social:
   - name: github
