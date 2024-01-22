@@ -18,4 +18,4 @@ Source: https://github.com/ransome1/sleek
 
 Donate: https://github.com/sponsors/ransome1  
 Report the bug: https://github.com/ransome1/sleek/issues/new/  
-Download: https://github.com/ransome1/sleek/releases/download/v2.0.3/sleek-2.0.3.AppImage
+Download: https://github.com/ransome1/sleek/releases/download/v2.0.8/sleek-2.0.8.AppImage

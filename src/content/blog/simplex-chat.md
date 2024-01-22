@@ -5,7 +5,7 @@ description: "First messaging platform that has no user identifiers of any kind"
 date: 2023-12-31T12:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "SimpleX Chat Ltd."
+author: "SimpleX Chat"
 tags: ["official"]
 draft: false
 ---

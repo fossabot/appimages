@@ -5,7 +5,7 @@ description: "Email service with a strong focus on security and privacy that let
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Tutao GmbH."
+author: "Tutao"
 tags: ["official"]
 draft: false
 ---

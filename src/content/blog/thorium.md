@@ -5,7 +5,7 @@ description: "Chromium fork for linux, includes Widevine, All Codecs, Chrome Plu
 date: 2023-10-09T03:10:00Z
 image: "/images/image-placeholder.png"
 categories: ["Network"]
-author: "The Thorium Authors"
+author: "Alexander Frick"
 tags: ["official"]
 draft: false
 ---

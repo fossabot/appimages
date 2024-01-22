@@ -5,7 +5,7 @@ description: "Open source Spotify client"
 date: 2023-12-06T13:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["AudioVideo"]
-author: "The Spotube team"
+author: "Kingkor Roy Tirtho"
 tags: ["official"]
 draft: false
 ---

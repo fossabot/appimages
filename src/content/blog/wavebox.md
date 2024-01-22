@@ -5,7 +5,7 @@ description: "Wavebox, the revolutionary and feature-rich Chromium browser that'
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Tutao GmbH."
+author: "Wavebox"
 tags: ["official"]
 draft: false
 ---
