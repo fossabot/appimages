@@ -1,10 +1,10 @@
 ---
 title: "Wavebox"
 meta_title: ""
-description: "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done."
+description: "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, and every other web app you use to get work done."
 date: 2023-10-16T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
+categories: ["Network"]
 author: "Wavebox"
 tags: ["official"]
 draft: false

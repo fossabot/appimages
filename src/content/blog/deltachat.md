@@ -4,7 +4,7 @@ meta_title: ""
 description: "Email-based instant messaging for Desktop."
 date: 2023-12-17T19:02:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
+categories: ["Network"]
 author: "Delta Chat contributors"
 tags: ["official"]
 draft: false
