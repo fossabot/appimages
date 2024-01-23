@@ -1,6 +1,5 @@
 # To-do list
 
-- [ ] Add content
 - [ ] Fix pagination
 - [ ] Fix button "Download" link in main page
 - [ ] Fix card on main page
@@ -12,3 +11,97 @@
 - [ ] Make auto-generating author page
 - [ ] Better naming for site
 - [ ] Auto-updating
+
+# Add content list
+- [x] Ferdium + Author https://github.com/ferdium/ferdium-app/
+- [x] https://github.com/manuelernestog/weektodo/releases/download/v2.1.0/WeekToDo-2.1.0.AppImage
+- [x] Cider
+- [x] Cinelerra-GG
+- [x] Conky https://github.com/brndnmtthws/conky/releases/
+- [x] Converseen https://sourceforge.net/projects/converseen/files/Converseen/
+- [x] Cozy-drive ttps://github.com/cozy-labs/cozy-desktop/
+- [x] Czkawka https://github.com/qarmin/czkawka/releases/download/6.0.0/linux_czkawka_gui.AppImage
+- [x] Deckboard https://github.com/rivafarabi/deckboard/releases/
+- [ ] deezer-desktop https://github.com/aunetx/deezer-linux/releases/
+- [ ] https://github.com/elk-zone/elk-native
+- [ ] https://github.com/jlambert360/FPM-AppImage/
+- [ ] https://featherwallet.org/files/releases/linux-appimage/feather-2.4.9.AppImage
+- [ ] https://github.com/jeffvli/feishin/
+- [ ] Filen.io
+- [ ] https://github.com/flacon/flacon/
+- [ ] https://github.com/flareteam/flare-game/
+- [ ] https://github.com/fontforge/fontforge/releases/
+- [ ] https://github.com/enzo1982/freac/releases/
+- [ ] https://github.com/tkashkin/GameHub/releases/
+- [ ] https://github.com/gorilla-devs/GDLauncher/releases/
+- [ ] https://github.com/shiftkey/desktop/releases/
+- [ ] https://github.com/srevinsaju/guiscrcpy/releases/
+- [ ] https://github.com/gyroflow/gyroflow/releases/
+- [ ] https://github.com/vercel/hyper/releases/
+- [ ] hypertrader.app/
+- [ ] https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/
+- [ ] https://github.com/WerWolv/ImHex/releases/
+- [ ] https://github.com/jitsi/jitsi-meet-electron/releases/
+- [ ] https://github.com/laurent22/joplin/releases/
+- [ ] Kdenlive
+- [ ] Kate
+- [ ] https://github.com/keepassxreboot/keepassxc/releases/
+- [ ] https://github.com/kopia/kopia/releases/
+- [ ] https://github.com/koreader/koreader/releases/
+- [ ] https://github.com/ksnip/ksnip/releases/
+- [ ] https://github.com/davidsmorais/kuro/releases
+- [ ] https://github.com/lbryio/lbry-desktop/releases/
+- [ ] https://github.com/leozide/leocad
+- [ ] https://github.com/LibreCAD/LibreCAD/
+- [ ] https://github.com/lostdesign/linked/releases/
+- [ ] https://linphone.org/
+- [ ] https://github.com/LMMS/lmms/
+- [ ] https://github.com/mifi/lossless-cut/
+- [ ] https://github.com/trevorsandy/lpub3d/releases/
+- [ ] https://lunatask.app/
+- [ ] https://github.com/myst6re/makoureactor/
+- [ ] https://github.com/marktext/marktext/releases/
+- [ ] https://github.com/rolandbernard/marvin/releases/
+- [ ] https://mendeley.com
+- [ ] https://github.com/ThaUnknown/miru/releases/
+- [ ] https://mochi.cards
+- [ ] https://github.com/coslyk/moonplayer/releases
+- [ ] https://github.com/Moosync/Moosync/releases/
+- [ ] https://github.com/agalwood/Motrix/releases/
+- [ ] https://github.com/emqx/MQTTX/
+- [ ] https://github.com/muse-sequencer/muse/
+- [ ] https://github.com/martpie/museeks/releases/
+- [ ] https://github.com/musescore/MuseScore/
+- [ ] https://github.com/mypaint/mypaint/releases/
+- [ ] https://github.com/naev/naev/releases/
+- [ ] https://github.com/neovim/neovim/releases/
+- [ ] https://github.com/codelerity/netbeans-installers/releases/
+- [ ] https://github.com/nextcloud-releases/desktop/
+- [ ] https://github.com/Nheko-Reborn/nheko/releases/
+- [ ] https://github.com/Lunarequest/NightPDF/releases/
+- [ ] https://github.com/Sandakan/Nora/releases/
+- [ ] Notable.app
+- [ ] https://github.com/nuttyartist/notes/releases/
+- [ ] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
+- [ ] https://github.com/nukeop/nuclear/releases/
+- [ ] https://github.com/Syllo/nvtop/
+- [ ] https://github.com/obsidianmd/obsidian-releases/releases/
+- [ ] https://github.com/OneKeePass/desktop/releases/
+- [ ] Onekey.app
+- [ ] openscad.org/
+- [ ] https://github.com/OpenShot/openshot-qt/releases/
+- [ ] https://github.com/ppy/osu/
+- [ ] https://github.com/ow-mods/ow-mod-man/releases/
+- [ ] owncloud.com/
+- [ ] https://github.com/padloc/padloc/releases/
+- [ ] https://github.com/Rabbit-Company/Passky-Desktop/releases/
+- [ ] https://github.com/GlitterWare/Passy/releases/
+- [ ] https://github.com/pencil2d/pencil/releases/
+- [ ] https://sudovanilla.com/distribute/applications/penpot-desktop/v0.2.4/Penpot%20Desktop-0.2.4.AppImage
+- [ ] https://photoqt.org/
+- [ ] https://github.com/HACKERALERT/Picocrypt/releases/
+- [ ] https://purei.org/downloads/play/stable/0.62/Play!-97d971cb-x86_64.AppImage
+- [ ] https://github.com/Barre/privaxy/releases/
+- [ ] https://github.com/prateekmedia/pstube/releases/
+- [ ] https://github.com/pydt/client
+- [ ] https://github.com/pyfa-org/Pyfa/
