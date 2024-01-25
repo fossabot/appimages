@@ -2,7 +2,7 @@
   "main": [
     {
       "name": "Home",
-      "url": "appimages"
+      "url": "/appimages/"
     },
     {
       "name": "Categories",
@@ -10,43 +10,43 @@
       "children": [
         {
           "name": "Audio & Video",
-          "url": "categories/audiovideo"
+          "url": "/categories/audiovideo/"
         },
         {
           "name": "Development",
-          "url": "categories/development"
+          "url": "/categories/development/"
         },
         {
           "name": "Education",
-          "url": "categories/education"
+          "url": "/categories/education"
         },
         {
           "name": "Games",
-          "url": "categories/games"
+          "url": "/categories/games/"
         },
         {
           "name": "Graphics",
-          "url": "categories/graphics"
+          "url": "/categories/graphics/"
         },
         {
           "name": "Network",
-          "url": "categories/network"
+          "url": "/categories/network/"
         },
         {
           "name": "Productivity",
-          "url": "categories/productivity"
+          "url": "/categories/productivity/"
         },
         {
           "name": "Science",
-          "url": "categories/science"
+          "url": "/categories/science/"
         },
         {
           "name": "System",
-          "url": "categories/system"
+          "url": "/categories/system/"
         },
         {
           "name": "Utilities",
-          "url": "categories/utilities"
+          "url": "/categories/utilities/"
         }
       ]
     }
