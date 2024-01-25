@@ -22,27 +22,24 @@
 - [x] Cozy-drive ttps://github.com/cozy-labs/cozy-desktop/
 - [x] Czkawka https://github.com/qarmin/czkawka/releases/download/6.0.0/linux_czkawka_gui.AppImage
 - [x] Deckboard https://github.com/rivafarabi/deckboard/releases/
-- [ ] deezer-desktop https://github.com/aunetx/deezer-linux/releases/
-- [ ] https://github.com/elk-zone/elk-native
-- [ ] https://github.com/jlambert360/FPM-AppImage/
-- [ ] https://featherwallet.org/files/releases/linux-appimage/feather-2.4.9.AppImage
-- [ ] https://github.com/jeffvli/feishin/
-- [ ] Filen.io
-- [ ] https://github.com/flacon/flacon/
-- [ ] https://github.com/flareteam/flare-game/
-- [ ] https://github.com/fontforge/fontforge/releases/
-- [ ] https://github.com/enzo1982/freac/releases/
-- [ ] https://github.com/tkashkin/GameHub/releases/
-- [ ] https://github.com/gorilla-devs/GDLauncher/releases/
-- [ ] https://github.com/shiftkey/desktop/releases/
-- [ ] https://github.com/srevinsaju/guiscrcpy/releases/
-- [ ] https://github.com/gyroflow/gyroflow/releases/
-- [ ] https://github.com/vercel/hyper/releases/
-- [ ] hypertrader.app/
-- [ ] https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/
-- [ ] https://github.com/WerWolv/ImHex/releases/
-- [ ] https://github.com/jitsi/jitsi-meet-electron/releases/
-- [ ] https://github.com/laurent22/joplin/releases/
+- [x] deezer-desktop https://github.com/aunetx/deezer-linux/releases/
+- [x] https://github.com/jlambert360/FPM-AppImage/
+- [x] https://featherwallet.org/files/releases/linux-appimage/feather-2.4.9.AppImage
+- [x] https://github.com/jeffvli/feishin/
+- [x] Filen.io
+- [x] https://github.com/flacon/flacon/
+- [x] https://github.com/flareteam/flare-game/
+- [x] https://github.com/fontforge/fontforge/releases/
+- [x] https://github.com/enzo1982/freac/releases/
+- [x] https://github.com/tkashkin/GameHub/releases/
+- [x] https://github.com/gorilla-devs/GDLauncher/releases/
+- [x] https://github.com/shiftkey/desktop/releases/
+- [x] https://github.com/gyroflow/gyroflow/releases/
+- [x] https://github.com/vercel/hyper/releases/
+- [x] https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/
+- [x] https://github.com/WerWolv/ImHex/releases/
+- [x] https://github.com/jitsi/jitsi-meet-electron/releases/
+- [x] https://github.com/laurent22/joplin/releases/
 - [ ] Kdenlive
 - [ ] Kate
 - [ ] https://github.com/keepassxreboot/keepassxc/releases/
@@ -60,7 +57,6 @@
 - [ ] https://github.com/trevorsandy/lpub3d/releases/
 - [ ] https://lunatask.app/
 - [ ] https://github.com/myst6re/makoureactor/
-- [ ] https://github.com/marktext/marktext/releases/
 - [ ] https://github.com/rolandbernard/marvin/releases/
 - [ ] https://mendeley.com
 - [ ] https://github.com/ThaUnknown/miru/releases/
@@ -80,13 +76,10 @@
 - [ ] https://github.com/Nheko-Reborn/nheko/releases/
 - [ ] https://github.com/Lunarequest/NightPDF/releases/
 - [ ] https://github.com/Sandakan/Nora/releases/
-- [ ] Notable.app
 - [ ] https://github.com/nuttyartist/notes/releases/
 - [ ] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
 - [ ] https://github.com/nukeop/nuclear/releases/
 - [ ] https://github.com/Syllo/nvtop/
-- [ ] https://github.com/obsidianmd/obsidian-releases/releases/
-- [ ] https://github.com/OneKeePass/desktop/releases/
 - [ ] Onekey.app
 - [ ] openscad.org/
 - [ ] https://github.com/OpenShot/openshot-qt/releases/
@@ -105,3 +98,14 @@
 - [ ] https://github.com/prateekmedia/pstube/releases/
 - [ ] https://github.com/pydt/client
 - [ ] https://github.com/pyfa-org/Pyfa/
+- [ ] https://github.com/httpie/desktop
+- [ ] https://github.com/story-apps/starc/releases/download/v0.6.4/starc-setup.AppImage
+- [ ] https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-x86_64.AppImage
+- [ ] https://codeberg.org/Reckoner/app/releases/download/v1.0.5/reckoner-1.0.5-x86_64.AppImage
+- [ ] https://github.com/bambulab/BambuStudio/releases/download/v01.08.04.51/BambuStudio_linux_fedora_v01.08.04.51_20240117.AppImage
+- [ ] https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.7.1/PrusaSlicer-2.7.1+linux-x64-GTK3-202312121425.AppImage
+- [ ] https://github.com/siyuan-note/siyuan/releases/download/v2.12.5/siyuan-2.12.5-linux.AppImage
+- [ ] https://github.com/upscayl/upscayl/releases/download/v2.9.8/upscayl-2.9.8-linux.AppImage
+- [ ] https://github.com/staniel359/muffon/releases/download/v2.0.1/muffon-2.0.1-linux-x86_64.AppImage
+- [ ] https://github.com/unruhschuh/MrWriter/releases/download/v0.0.7/MrWriter-0.0.7-x86_64.AppImage
+- [ ] https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.4.3/AppFlowy-0.4.3-linux-x86_64.AppImage

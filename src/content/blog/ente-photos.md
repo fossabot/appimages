@@ -4,7 +4,7 @@ meta_title: ""
 description: "End-to-end encryption for photos and more."
 date: 2023-10-16T08:30:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
+categories: ["Network"]
 author: "Ente"
 tags: ["official"]
 draft: false

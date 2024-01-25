@@ -4,7 +4,7 @@ meta_title: ""
 description: "A post-modern modal text editor."
 date: 2023-10-25T20:20:00Z
 image: "/images/image-placeholder.png"
-categories: ["System"]
+categories: ["Development"]
 author: "Blaž Hrastnik"
 tags: ["official"]
 draft: false
@@ -14,7 +14,7 @@ A post-modern modal text editor
 
 License: MPL-2.0
 
-Web page: https://helix-editor.com/
+Web page: https://helix-editor.com/  
 Source: https://github.com/helix-editor/helix
 
 Donate: https://opencollective.com/helix-editor
