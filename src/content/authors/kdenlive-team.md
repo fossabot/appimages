@@ -9,8 +9,8 @@ social:
   - name: github
     icon: FaGithub
     link: https://github.com/kde
-    name: mastodon
-  - icon: FaMastodon
+  - name: mastodon
+    icon: FaMastodon
     link: https://floss.social/web/@kdenlive
   - name: twitter
     icon: FaTwitter
