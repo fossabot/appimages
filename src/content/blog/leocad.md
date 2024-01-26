@@ -1,21 +1,21 @@
 ---
-title: "OneKeePass"
+title: "LeoCAD"
 meta_title: ""
-description: "OneKeePass is a cross-platform, open source and secure password manager"
+description: "A CAD application for creating virtual LEGO models"
 date: 2023-12-18T08:17:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "jeyasankar"
+author: "Leonardo Zide"
 tags: ["official"]
 draft: false
 ---
 
-OneKeePass is a cross-platform, open source and secure password manager
+A CAD application for creating virtual LEGO models
 
-License: GPL-3.0
+License: GPL-2.0
 
-Web page: https://onekeepass.github.io/  
-Source: https://github.com/OneKeePass/desktop
+Web page: https://www.leocad.org/  
+Source: https://github.com/leozide/leocad
 
-Report the bug: https://github.com/OneKeePass/desktop/issues/new/  
-Download: https://github.com/OneKeePass/desktop/releases/download/v0.10.0/OneKeePass_0.10.0_linux_x86_64.AppImage
+Report the bug: https://github.com/leozide/leocad/issues/new/  
+Download: https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage

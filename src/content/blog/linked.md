@@ -1,12 +1,12 @@
 ---
-title: "LibreOffice"
+title: "linked"
 meta_title: ""
-description: "Free open source office suite"
+description: "Daily journaling without distraction"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+author: "André Weller"
+tags: ["official"]
 draft: false
 ---
 
@@ -14,10 +14,9 @@ Free open source office suite
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source: https://github.com/LibreOffice/core
+Web page: https://uselinked.com/  
+Source: https://github.com/lostdesign/linked
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://uselinked.com/sponsor  
+Report the bug: https://github.com/lostdesign/linked/issues/new  
+Download: https://github.com/lostdesign/linked/releases/download/v1.5.2/linked-1.5.2.AppImage

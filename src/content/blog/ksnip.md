@@ -1,21 +1,22 @@
 ---
-title: "OneKeePass"
+title: "ksnip"
 meta_title: ""
-description: "OneKeePass is a cross-platform, open source and secure password manager"
+description: "ksnip the cross-platform screenshot and annotation tool"
 date: 2023-12-18T08:17:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "jeyasankar"
+author: "Damir Porobić"
 tags: ["official"]
 draft: false
 ---
 
-OneKeePass is a cross-platform, open source and secure password manager
+ksnip the cross-platform screenshot and annotation tool
 
 License: GPL-3.0
 
-Web page: https://onekeepass.github.io/  
-Source: https://github.com/OneKeePass/desktop
+Source: https://github.com/ksnip/ksnip
 
-Report the bug: https://github.com/OneKeePass/desktop/issues/new/  
-Download: https://github.com/OneKeePass/desktop/releases/download/v0.10.0/OneKeePass_0.10.0_linux_x86_64.AppImage
+Donate: https://github.com/sponsors/DamirPorobic
+Translate: https://hosted.weblate.org/engage/ksnip/
+Report the bug: https://github.com/ksnip/ksnip/issues/new/  
+Download: https://github.com/ksnip/ksnip/releases/download/v1.10.1/ksnip-1.10.1-x86_64.AppImage

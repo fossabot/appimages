@@ -40,16 +40,14 @@
 - [x] https://github.com/WerWolv/ImHex/releases/
 - [x] https://github.com/jitsi/jitsi-meet-electron/releases/
 - [x] https://github.com/laurent22/joplin/releases/
-- [ ] Kdenlive
-- [ ] Kate
-- [ ] https://github.com/keepassxreboot/keepassxc/releases/
-- [ ] https://github.com/kopia/kopia/releases/
-- [ ] https://github.com/koreader/koreader/releases/
-- [ ] https://github.com/ksnip/ksnip/releases/
-- [ ] https://github.com/davidsmorais/kuro/releases
-- [ ] https://github.com/lbryio/lbry-desktop/releases/
-- [ ] https://github.com/leozide/leocad
-- [ ] https://github.com/LibreCAD/LibreCAD/
+- [x] Kdenlive
+- [x] https://github.com/keepassxreboot/keepassxc/releases/
+- [x] https://github.com/kopia/kopia/releases/
+- [x] https://github.com/koreader/koreader/releases/
+- [x] https://github.com/ksnip/ksnip/releases/
+- [x] https://github.com/davidsmorais/kuro/releases
+- [x] https://github.com/leozide/leocad
+- [x] https://github.com/LibreCAD/LibreCAD/
 - [ ] https://github.com/lostdesign/linked/releases/
 - [ ] https://linphone.org/
 - [ ] https://github.com/LMMS/lmms/
