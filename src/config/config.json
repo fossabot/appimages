@@ -4,9 +4,9 @@
     "base_url": "https://drsheppard01.github.io",
     "base_path": "/appimages",
     "trailing_slash": "always",
-    "favicon": "$(import.meta.env.BASE_URL)/images/favicon.png",
-    "logo": "$(import.meta.env.BASE_URL)/images/logo.png",
-    "logo_darkmode": "$(import.meta.env.BASE_URL)/images/logo-darkmode.png",
+    "favicon": "/$(import.meta.env.BASE_URL)/images/favicon.png",
+    "logo": "/$(import.meta.env.BASE_URL)/images/logo.png",
+    "logo_darkmode": "/$(import.meta.env.BASE_URL)/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
     "logo_text": "Appimages"
