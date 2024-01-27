@@ -2,7 +2,7 @@
 title: "Hey, I am John Doe!"
 meta_title: "About"
 description: "this is meta description"
-image: "/appimages/images/avatar.png"
+image: "$(import.meta.env.BASE_URL)/images/avatar.png"
 draft: false
 ---
 

@@ -27,8 +27,8 @@ for (let i = 1; i <= totalPages; i++) {
         <a
           href={
             indexPageLink
-              ? `${section ? "/appimages/" + section : "/"}`
-              : `${section ? "/appimages/" + section : "/"}/page/${currentPage - 1}`
+              ? `${section ? "/$(import.meta.env.BASE_URL)//" + section : "/"}`
+              : `${section ? "/$(import.meta.env.BASE_URL)/" + section : "/"}/page/${currentPage - 1}`
           }
           class="rounded px-2 py-1.5 text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light"
         >
