@@ -15,7 +15,7 @@ Video stabilization using gyroscope data
 License: GPL-3.0
 
 Web page: https://gyroflow.xyz  
-Source: https://github.com/gyroflow/gyroflow/
+Source code: https://github.com/gyroflow/gyroflow/
 
 Donate: https://gyroflow.xyz/donate  
 Translate: https://crowdin.com/project/gyroflow  

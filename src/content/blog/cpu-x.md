@@ -15,7 +15,7 @@ Free software that gathers information on CPU, motherboard and more
 License: GPL-3.0
 
 Web page: https://thetumultuousunicornofdarkness.github.io/CPU-X  
-Source: https://github.com/TheTumultuousUnicornOfDarkness/CPU-X
+Source code: https://github.com/TheTumultuousUnicornOfDarkness/CPU-X
 
 Translate: https://hosted.weblate.org/engage/cpu-x/?utm_source=widget
 Report the bug: https://github.com/TheTumultuousUnicornOfDarkness/CPU-X/issues/new/  

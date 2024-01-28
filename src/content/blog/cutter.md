@@ -15,7 +15,7 @@ Free and Open Source Reverse Engineering platform powered by Rizin
 License: GPL-3.0
 
 Web page: https://cutter.re/  
-Source: https://github.com/rizinorg/cutter
+Source code: https://github.com/rizinorg/cutter
 
 Donate: https://github.com/sponsors/rizinorg  
 Translate: https://crowdin.com/project/cutter  

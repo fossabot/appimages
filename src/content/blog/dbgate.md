@@ -15,7 +15,7 @@ Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others
 License: MIT
 
 Web page: https://dbgate.org/  
-Source: https://github.com/dbgate/dbgate
+Source code: https://github.com/dbgate/dbgate
 
 Donate: https://github.com/sponsors/dbgate  
 Report the bug: https://github.com/dbgate/dbgate/issues/new/  

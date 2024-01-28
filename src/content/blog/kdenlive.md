@@ -15,7 +15,7 @@ Free and Open Source Video Editor
 License: GPL-3.0
 
 Web page: https://kdenlive.org/  
-Source: https://invent.kde.org/multimedia/kdenlive
+Source code: https://invent.kde.org/multimedia/kdenlive
 
 Donate: https://kdenlive.org/en/fund/  
 Translate: https://l10n.kde.org/  

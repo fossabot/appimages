@@ -15,7 +15,7 @@ Free and open-source original Xbox game console emulation
 License: GPL-2.0
 
 Web page: https://xemu.app/  
-Source: https://github.com/xemu-project/xemu
+Source code: https://github.com/xemu-project/xemu
 
 Donate: https://www.patreon.com/mborgerson  
 Report the bug: https://github.com/xemu-project/xemu/issues/new/  

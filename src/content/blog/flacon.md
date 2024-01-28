@@ -15,7 +15,7 @@ Extracts audio tracks from an audio CD image to separate tracks.
 License: LGPL-2.1
 
 Web page: https://flacon.github.io/  
-Source: https://github.com/flacon/flacon/
+Source code: https://github.com/flacon/flacon/
 
 Donate: https://flacon.github.io/donate/
 Translate: https://www.transifex.com/projects/p/flacon

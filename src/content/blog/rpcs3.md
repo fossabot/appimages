@@ -15,7 +15,7 @@ Free and Open-source PlayStation 3 emulator/debugger
 License: GPL-2.0
 
 Web page: https://rpcs3.net/  
-Source: https://github.com/RPCS3/rpcs3
+Source code: https://github.com/RPCS3/rpcs3
 
 Donate: https://www.patreon.com/Nekotekina  
 Report the bug: https://github.com/RPCS3/rpcs3/issues/new/  

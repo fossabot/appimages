@@ -15,7 +15,7 @@ Stellarium is a free open source planetarium for your computer
 License: GPL-2.0
 
 Web page: https://www.retroarch.com/  
-Source: https://github.com/Stellarium/stellarium
+Source code: https://github.com/Stellarium/stellarium
 
 Donate: https://opencollective.com/stellarium  
 Translate: https://www.transifex.com/stellarium/stellarium/  

@@ -15,7 +15,7 @@ Open source Spotify client
 License: BSD-4-Clause
 
 Web page: https://spotube.netlify.app/  
-Source: https://github.com/KRTirtho/spotube
+Source code: https://github.com/KRTirtho/spotube
 
 Donate:https://opencollective.com/spotube  
 Report the bug: https://github.com/KRTirtho/spotube/issues/new/  

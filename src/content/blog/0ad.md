@@ -15,7 +15,7 @@ Unofficial 0ad AppImage (built from official sources and data)
 License: MIT
 
 Web page: https://play0ad.com/  
-Source: https://github.com/0ad/0ad
+Source code: https://github.com/0ad/0ad
 
 Donate: https://play0ad.com/community/donate/    
 Translate: https://www.transifex.com/projects/p/0ad/  

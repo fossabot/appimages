@@ -15,7 +15,7 @@ Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many mor
 License: Apache-2.0
 
 Web page: https://meetfranz.com/  
-Source: https://github.com/meetfranz/franz
+Source code: https://github.com/meetfranz/franz
 
 Translate: https://i18n.meetfranz.com/  
 Report the bug: https://github.com/meetfranz/franz/issues/new/   

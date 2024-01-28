@@ -15,7 +15,7 @@ Open source password management solutions for individuals, teams, and business o
 License: GPL-3.0
 
 Web page: https://bitwarden.com/  
-Source: https://github.com/bitwarden/clients
+Source code: https://github.com/bitwarden/clients
 
 Translate: https://crowdin.com/project/bitwarden-desktop  
 Report the bug: https://github.com/bitwarden/clients/issues/new/  

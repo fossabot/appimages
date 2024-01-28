@@ -15,7 +15,7 @@ ArmCord is a custom client designed to enhance your Discord experience while kee
 License: OSL-3.0
 
 Web page: https://armcord.app/  
-Source: https://github.com/ArmCord/ArmCord
+Source code: https://github.com/ArmCord/ArmCord
 
 Donate: https://github.com/sponsors/smartfrigde  
 Translate: https://hosted.weblate.org/projects/armcord/armcord/  

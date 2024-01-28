@@ -15,7 +15,7 @@ Open source RGB lighting control that doesn't depend on manufacturer software
 License: GPL-2.0
 
 Web page: https://openrgb.org  
-Source: https://gitlab.com/CalcProgrammer1/OpenRGB
+Source code: https://gitlab.com/CalcProgrammer1/OpenRGB
 
 Donate: https://patreon.com/CalcProgrammer1  
 Report the bug: https://gitlab.com/CalcProgrammer1/OpenRGB/-/issues/new    

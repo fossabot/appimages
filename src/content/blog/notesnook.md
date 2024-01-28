@@ -15,7 +15,7 @@ End-to-end encrypted note taking alternative to Evernote
 License: GPL-3.0
 
 Web page: https://notesnook.com/  
-Source: https://github.com/streetwriters/notesnook
+Source code: https://github.com/streetwriters/notesnook
 
 Donate: https://opencollective.com/notesnook
 Report the bug: https://github.com/streetwriters/notesnook/issues/new/  

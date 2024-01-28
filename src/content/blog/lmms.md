@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "LMMS"
 meta_title: ""
-description: "Free open source office suite"
+description: "Cross-platform music production software"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["AudioVideo"]
+author: "LMMS"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Cross-platform music production software
 
-License: GPL-3.0
+License: GPL-2.0
 
-Web page: https://www.libreoffice.org/  
-Source: https://github.com/LibreOffice/core
+Web page: https://lmms.io/  
+Source code: https://github.com/LMMS/lmms
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://lmms.io/get-involved/#donate  
+Translate: https://explore.transifex.com/lmms/lmms/
+Report the bug: https://github.com/LMMS/lmms/issues/new/  
+Download: https://github.com/LMMS/lmms/releases/download/v1.3.0-alpha.1/lmms-1.3.0-alpha.1.102+g89fc6c9-linux-x86_64.AppImage

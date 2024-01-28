@@ -15,7 +15,7 @@ First messaging platform that has no user identifiers of any kind
 License: AGPL-3.0
 
 Web page: https://simplex.chat/  
-Source: https://github.com/simplex-chat/simplex-chat
+Source code: https://github.com/simplex-chat/simplex-chat
 
 Donate: https://github.com/sponsors/simplex-chat  
 Translate: https://hosted.weblate.org/engage/simplex-chat/  

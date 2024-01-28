@@ -15,7 +15,7 @@ An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more format
 License: AGPL-3.0
 
 Web page: http://koreader.rocks/  
-Source: https://github.com/koreader/koreader
+Source code: https://github.com/koreader/koreader
 
 Donate: https://liberapay.com/KOReader
 Translate: https://hosted.weblate.org/engage/koreader/?utm_source=widget

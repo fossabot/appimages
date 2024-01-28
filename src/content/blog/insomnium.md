@@ -15,7 +15,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 License: Apache-2.0
 
 Web page: https://archgpt.dev/insomnium
-Source: https://github.com/ArchGPT/insomnium
+Source code: https://github.com/ArchGPT/insomnium
 
 Report the bug: https://github.com/ArchGPT/insomnium/issues  
 Download: https://github.com/ArchGPT/insomnium/releases/download/core%400.2.3-a/Insomnium.Core-0.2.3-a.AppImage

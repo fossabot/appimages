@@ -15,7 +15,7 @@ An outline font editor
 License: GPL-3.0
 
 Web page: http://fontforge.org/
-Source: https://github.com/fontforge/fontforge/
+Source code: https://github.com/fontforge/fontforge/
 
 Donate: https://fontforge.org/en-US/donate/
 Translate: https://crowdin.com/project/fontforge

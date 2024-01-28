@@ -15,7 +15,7 @@ Email-based instant messaging for Desktop
 License: GPL-3.0
 
 Web page: https://delta.chat/  
-Source: https://github.com/deltachat/deltachat-desktop
+Source code: https://github.com/deltachat/deltachat-desktop
 
 Translate: https://www.transifex.com/delta-chat/public/  
 Donate: https://delta.chat/en/donate  

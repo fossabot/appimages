@@ -15,7 +15,7 @@ A client for QQ and more
 License: AGPL-3.0
 
 Web page: https://filen.io/  
-Source: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/
+Source code: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/
 
 Translate: https://github.com/FilenCloudDienste/filen-desktop/tree/master/src/renderer/lib/i18n
 Report the bug: https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/issues/new/   

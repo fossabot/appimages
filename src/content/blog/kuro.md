@@ -14,7 +14,7 @@ Elegant Microsoft To-Do desktop app
 
 License: MIT
 
-Source: https://github.com/davidsmorais/kuro
+Source code: https://github.com/davidsmorais/kuro
 
 Report the bug: https://github.com/davidsmorais/kuro/issues/new/  
 Download: https://github.com/davidsmorais/kuro/releases/download/v9.0.0/Kuro-9.0.0.AppImage

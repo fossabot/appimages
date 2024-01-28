@@ -14,7 +14,7 @@ Ishiiruka fork for Super Smash Bros. Brawl
 
 License: GPL-2.0
 
-Source: https://github.com/jlambert360/FPM-AppImage/
+Source code: https://github.com/jlambert360/FPM-AppImage/
 
 Donate: https://www.patreon.com/FasterPM
 Report the bug: https://github.com/jlambert360/FPM-AppImage/issues/new  

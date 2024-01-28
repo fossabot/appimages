@@ -15,7 +15,7 @@ Emulator of x86-based machines based on PCem
 License: GPL-2.0
 
 Web page: https://86box.net/  
-Source: https://github.com/86Box/86Box  
+Source code: https://github.com/86Box/86Box  
 
 Donate: https://www.paypal.com/paypalme/86Box  
 Report the bug: https://github.com/86Box/86Box/issues/new/  

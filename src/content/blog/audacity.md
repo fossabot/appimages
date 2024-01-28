@@ -15,7 +15,7 @@ Easy-to-use, multi-track audio editor and recorder
 License: GPL-3.0
 
 Web page: https://www.audacityteam.org/  
-Source: https://github.com/audacity/audacity
+Source code: https://github.com/audacity/audacity
 
 Translate: https://explore.transifex.com/klyok/audacity/  
 Report the bug: https://github.com/audacity/audacity/issues/new/  

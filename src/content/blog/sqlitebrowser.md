@@ -15,7 +15,7 @@ High quality, visual, open source tool to create, design, and edit database file
 License: GPL-3.0
 
 Web page: https://sqlitebrowser.org/  
-Source: https://github.com/sqlitebrowser/sqlitebrowser
+Source code: https://github.com/sqlitebrowser/sqlitebrowser
 
 Donate: https://patreon.com/db4s  
 Translate: https://github.com/sqlitebrowser/sqlitebrowser/wiki/Translations

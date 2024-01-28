@@ -15,7 +15,7 @@ Fork of GitHub Desktop to support various Linux distributions
 License: MIT
 
 Web page: https://desktop.github.com/  
-Source: https://github.com/shiftkey/desktop
+Source code: https://github.com/shiftkey/desktop
 
 Report the bug: https://github.com/shiftkey/desktop/issues/new/   
 Download: https://github.com/shiftkey/desktop/releases/download/release-3.3.6-linux3/GitHubDesktop-linux-x86_64-3.3.6-linux3.AppImage

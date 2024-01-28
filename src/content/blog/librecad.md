@@ -6,7 +6,7 @@ date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Graphics"]
 author: "LibreCAD Contributors"
-tags: ["Official"]
+tags: ["official"]
 draft: false
 ---
 
@@ -15,7 +15,7 @@ LibreCAD is a 2D Computer Aided Design (CAD) application for creating plans and 
 License: GPL-3.0
 
 Web page: https://www.librecad.org/  
-Source: https://github.com/LibreCAD/LibreCAD
+Source code: https://github.com/LibreCAD/LibreCAD
 
 Donate: https://github.com/sponsors/LibreCAD  
 Translate: https://translate.librecad.org/  

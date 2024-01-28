@@ -14,7 +14,7 @@ Port of Diablo and Hellfire that strives to make it simple to run the game while
 
 License: Sustainable Use License
 
-Source: https://github.com/diasurgical/devilutionX
+Source code: https://github.com/diasurgical/devilutionX
 
 Translate: https://github.com/diasurgical/devilutionX/wiki/Translation-Guide  
 Report the bug: https://github.com/diasurgical/devilutionX/issues/new/  

@@ -15,7 +15,7 @@ Email service with a strong focus on security and privacy that lets you encrypt 
 License: GPL-3.0
 
 Web page: https://tuta.com/  
-Source: https://github.com/tutao/tutanota
+Source code: https://github.com/tutao/tutanota
 
 Donate: https://tuta.com/community/#donate  
 Translate: https://tuta.com/blog/tutanota-translation-project  

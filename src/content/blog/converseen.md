@@ -15,7 +15,7 @@ Converseen is a batch image converter and resizer
 License: GPL-3.0
 
 Web page: https://converseen.fasterland.net/  
-Source: https://github.com/Faster3ck/Converseen
+Source code: https://github.com/Faster3ck/Converseen
 
 Donate: https://ko-fi.com/faster3ck
 Report the bug: https://github.com/Faster3ck/Converseen/issues/new  

@@ -15,7 +15,7 @@ A beautiful feature-rich GraphQL Client
 License: MIT
 
 Web page: https://altairgraphql.dev/  
-Source: https://github.com/altair-graphql/altair
+Source code: https://github.com/altair-graphql/altair
 
 Donate: https://opencollective.com/altair  
 Translate: https://crwd.in/altair-gql  

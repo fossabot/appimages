@@ -15,7 +15,7 @@ A lightweight and user-focused web browser powered by Electron
 License: MIT
 
 Web page: https://getcatalyst.eu.org/  
-Source: https://github.com/CatalystDevOrg/Catalyst
+Source code: https://github.com/CatalystDevOrg/Catalyst
 
 Report the bug: https://github.com/CatalystDevOrg/Catalyst/issues/new/  
 Download: https://github.com/CatalystDevOrg/Catalyst/releases/download/v4.0.0-beta.3/catalyst-4.0.0-beta.3.AppImagex

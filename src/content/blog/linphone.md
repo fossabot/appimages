@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Linphone"
 meta_title: ""
-description: "Free open source office suite"
+description: "Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Network"]
+author: "Belledonne Communications"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Linphone is an open source SIP phone for voice/video calls, instant messaging and conference calling
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source: https://github.com/LibreOffice/core
+Web page: https://linphone.org/  
+Source code: https://gitlab.linphone.org/BC/public/linphone-desktop
 
 Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Translate: https://weblate.linphone.org/projects/linphone-desktop/  
+Report the bug: https://gitlab.linphone.org/BC/public/linphone-desktop/-/issues/new  
+Download: https://download.linphone.org/releases/linux/app/Linphone-5.2.0.AppImage

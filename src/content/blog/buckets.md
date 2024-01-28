@@ -15,7 +15,7 @@ Make your budget quick, simple and private
 License: EULA
 
 Web page: https://www.budgetwithbuckets.com/  
-Source: https://github.com/buckets/application
+Source code: https://github.com/buckets/application
 
 Translate: https://github.com/buckets/translations  
 Donate: https://www.patreon.com/iffy  

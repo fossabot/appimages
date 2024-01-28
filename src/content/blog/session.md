@@ -15,7 +15,7 @@ Session integrates directly with Oxen Service Nodes, which are a set of distribu
 License: GPL-3.0
 
 Web page: https://getsession.org/  
-Source: https://github.com/oxen-io/session-desktop
+Source code: https://github.com/oxen-io/session-desktop
 
 Donate: https://donorbox.org/optf-donation  
 Report the bug: https://github.com/oxen-io/session-desktop/issues/new/  

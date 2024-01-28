@@ -15,7 +15,7 @@ Beekeeper Studio is a cross-platform SQL editor and database manager
 License: GPL-3.0
 
 Web page: https://www.beekeeperstudio.io/  
-Source: https://github.com/beekeeper-studio/beekeeper-studio  
+Source code: https://github.com/beekeeper-studio/beekeeper-studio  
 
 Donate: https://github.com/sponsors/beekeeper-studio  
 Report the bug: https://github.com/beekeeper-studio/beekeeper-studio/issues/new/  

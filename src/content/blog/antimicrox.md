@@ -15,7 +15,7 @@ Graphical program used to map gamepad keys to keyboard, mouse, scripts and macro
 License: GPL-3.0
 
 Web page: https://antimicrox.github.io/  
-Source: https://github.com/AntiMicroX/antimicrox
+Source code: https://github.com/AntiMicroX/antimicrox
 
 Translate: https://hosted.weblate.org/engage/antimicrox  
 Report the bug: https://github.com/AntiMicroX/antimicrox/issues/new/  

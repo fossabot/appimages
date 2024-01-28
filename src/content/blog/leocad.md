@@ -15,7 +15,7 @@ A CAD application for creating virtual LEGO models
 License: GPL-2.0
 
 Web page: https://www.leocad.org/  
-Source: https://github.com/leozide/leocad
+Source code: https://github.com/leozide/leocad
 
 Report the bug: https://github.com/leozide/leocad/issues/new/  
 Download: https://github.com/leozide/leocad/releases/download/v23.03/LeoCAD-Linux-23.03-x86_64.AppImage

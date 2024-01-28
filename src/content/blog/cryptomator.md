@@ -15,7 +15,7 @@ Multi-platform transparent client-side encryption of your files in the cloud
 License: GPL-3.0
 
 Web page: https://cryptomator.org/  
-Source: https://github.com/cryptomator/cryptomator
+Source code: https://github.com/cryptomator/cryptomator
 
 Donate: https://github.com/sponsors/cryptomator  
 Translate: https://translate.cryptomator.org/  

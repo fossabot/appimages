@@ -15,7 +15,7 @@ A post-modern modal text editor
 License: AGPL-3.0
 
 Web page: https://joplinapp.org/
-Source: https://github.com/laurent22/joplin
+Source code: https://github.com/laurent22/joplin
 
 Donate: https://github.com/sponsors/laurent22  
 Translate: https://joplinapp.org/help/dev/localisation/  

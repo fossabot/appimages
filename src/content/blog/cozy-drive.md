@@ -15,7 +15,7 @@ File Synchronisation for Cozy on Desktop and Laptop
 License: AGPL-3.0
 
 Web page: https://cozy.io/en/  
-Source: https://github.com/cozy-labs/cozy-desktop/
+Source code: https://github.com/cozy-labs/cozy-desktop/
 
 Translate: https://www.transifex.com/cozy/cozy-desktop/
 Report the bug: https://github.com/cozy-labs/cozy-desktop/issues/new  

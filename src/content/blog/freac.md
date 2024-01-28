@@ -15,7 +15,7 @@ Free and open source audio converter
 License: GPL-2.0
 
 Web page: https://www.freac.org/  
-Source: https://github.com/enzo1982/freac/
+Source code: https://github.com/enzo1982/freac/
 
 Donate: https://www.freac.org/donate-to-bonkenc-othermenu-34
 Translate: https://www.freac.org/translation-status-othermenu-26

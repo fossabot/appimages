@@ -14,6 +14,6 @@ Chiaki is a Free and Open Source Software Client for PlayStation 4 and PlayStati
 
 License: AGPL-3.0
 
-Source: https://git.sr.ht/~thestr4ng3r/chiaki
+Source code: https://git.sr.ht/~thestr4ng3r/chiaki
 
 Download: https://git.sr.ht/~thestr4ng3r/chiaki/refs/download/v2.2.0/Chiaki-v2.2.0-Linux-x86_64.AppImage

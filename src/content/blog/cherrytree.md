@@ -15,7 +15,7 @@ A hierarchical note taking application, featuring rich text and syntax highlight
 License: GPL-3.0
 
 Web page: https://www.giuspen.net/cherrytree/  
-Source: https://github.com/giuspen/cherrytree
+Source code: https://github.com/giuspen/cherrytree
 
 Donate: https://www.giuspen.net/cherrytree/  
 Report the bug: https://github.com/giuspen/cherrytree/issues/new/  

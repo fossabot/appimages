@@ -14,7 +14,7 @@ Monitor and control your cooling and other devices
 
 License: GPL-3.0
 
-Source: https://gitlab.com/coolercontrol/coolercontrol
+Source code: https://gitlab.com/coolercontrol/coolercontrol
 
 Report the bug: https://gitlab.com/coolercontrol/coolercontrol/-/issues/new    
 Download: https://gitlab.com/coolercontrol/coolercontrol/-/releases/0.17.3/downloads/packages/CoolerControl-x86_64.AppImage

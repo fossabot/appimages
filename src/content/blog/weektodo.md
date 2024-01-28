@@ -15,7 +15,7 @@ WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App 
 License: GPL-3.0
 
 Web page: https://weektodo.me/  
-Source: https://github.com/manuelernestog/weektodo/
+Source code: https://github.com/manuelernestog/weektodo/
 
 Donate: https://weektodo.me/sponsor-us/
 Report the bug: https://github.com/manuelernestog/weektodo/issues/new  

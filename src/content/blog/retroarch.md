@@ -15,7 +15,7 @@ RetroArch is the reference frontend for the libretro API
 License: GPL-3.0
 
 Web page: https://www.retroarch.com/  
-Source: https://github.com/libretro/RetroArch
+Source code: https://github.com/libretro/RetroArch
 
 Donate: https://github.com/sponsors/libretro  
 Translate: https://crowdin.com/project/retroarch/  

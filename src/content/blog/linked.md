@@ -10,12 +10,12 @@ tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Daily journaling without distraction
 
 License: GPL-3.0
 
 Web page: https://uselinked.com/  
-Source: https://github.com/lostdesign/linked
+Source code: https://github.com/lostdesign/linked
 
 Donate: https://uselinked.com/sponsor  
 Report the bug: https://github.com/lostdesign/linked/issues/new  

@@ -15,7 +15,7 @@ Go-to libre desltop publishing application
 License: GPL-2.0
 
 Web page: https://www.scribus.net/  
-Source: https://sourceforge.net/projects/Scribus
+Source code: https://sourceforge.net/projects/Scribus
 
 Translate: https://explore.transifex.com/scribus/scribus/  
 Report the bug: http://bugs.scribus.net/  

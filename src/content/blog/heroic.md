@@ -15,7 +15,7 @@ A Native GOG, Amazon and Epic Games Launcher
 License: GPL-3.0
 
 Web page: https://heroicgameslauncher.com/  
-Source: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+Source code: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 
 Donate: https://patreon.com/heroicgameslauncher  
 Translate: https://hosted.weblate.org/projects/heroic-games-launcher/  

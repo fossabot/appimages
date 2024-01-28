@@ -15,7 +15,7 @@ FreeTube is an open source desktop YouTube player built with privacy in mind
 License: AGPL-3.0
 
 Web page: https://freetubeapp.io/  
-Source: https://github.com/FreeTubeApp/FreeTube
+Source code: https://github.com/FreeTubeApp/FreeTube
 
 Donate: https://liberapay.com/FreeTube  
 Translate: https://hosted.weblate.org/engage/free-tube/  

@@ -14,7 +14,7 @@ An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB.
 
 License: MIT
 
-Source: https://github.com/aunetx/deezer-linux
+Source code: https://github.com/aunetx/deezer-linux
 
 Donate: https://github.com/sponsors/aunetx
 Report the bug: https://github.com/aunetx/deezer-linux/issues/new  

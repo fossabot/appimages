@@ -15,7 +15,7 @@ Non-custodial Bitcoin wallet
 License: GPL-3.0
 
 Web page: https://blockstream.com/green/  
-Source: https://github.com/Blockstream/green_qt
+Source code: https://github.com/Blockstream/green_qt
 
 Translate: https://www.transifex.com/blockstream/blockstream-green/  
 Report the bug: https://github.com/Blockstream/green_qt/issues/new/  

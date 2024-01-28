@@ -15,7 +15,7 @@ End-to-end encryption for photos and more
 License: GPL-3.0
 
 Web page: https://ente.io/  
-Source: https://github.com/ente-io/photos-desktop
+Source code: https://github.com/ente-io/photos-desktop
 
 Report the bug: https://github.com/ente-io/photos-desktop/issues/new/   
 Download: https://github.com/ente-io/photos-desktop/releases/download/v1.6.60/ente-1.6.60-x86_64.AppImage

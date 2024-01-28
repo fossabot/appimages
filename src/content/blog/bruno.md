@@ -15,7 +15,7 @@ Open-source IDE for exploring and testing APIs
 License: MIT
 
 Web page: https://www.usebruno.com/  
-Source: https://github.com/usebruno/bruno
+Source code: https://github.com/usebruno/bruno
 
 Donate: https://github.com/sponsors/helloanoop  
 Report the bug: https://github.com/usebruno/bruno/issues/new/  

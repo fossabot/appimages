@@ -15,7 +15,7 @@ The IDE for competitive programming
 License: GPL-3.0
 
 Web page: https://cpeditor.org/  
-Source: https://github.com/cpeditor/cpeditor/
+Source code: https://github.com/cpeditor/cpeditor/
 
 Donate: https://github.com/sponsors/cpeditor
 Translate: https://github.com/cpeditor/cpeditor/blob/6.10.3/CONTRIBUTING.md#translations  

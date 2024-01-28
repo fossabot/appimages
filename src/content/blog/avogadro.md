@@ -15,7 +15,7 @@ Advanced molecular editor designed for cross-platform use in computational chemi
 License: BSD-3-Clause
 
 Web page: https://two.avogadro.cc/  
-Source: https://github.com/openchemistry/avogadrolibs
+Source code: https://github.com/openchemistry/avogadrolibs
 
 Donate: https://opencollective.com/open-chemistry  
 Translate: https://hosted.weblate.org/engage/avogadro/  

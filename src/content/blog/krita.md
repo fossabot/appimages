@@ -15,7 +15,7 @@ Krita is a professional free and open source painting program
 License: GPL-3.0
 
 Web page: https://krita.org/  
-Source: https://invent.kde.org/graphics/krita
+Source code: https://invent.kde.org/graphics/krita
 
 Donate: https://krita.org/en/support-us/donations/  
 Translate: https://l10n.kde.org/  

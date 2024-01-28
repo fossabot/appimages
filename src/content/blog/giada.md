@@ -15,7 +15,7 @@ Open source, minimalistic and hardcore music production tool
 License: GPL-3.0
 
 Web page: https://www.giadamusic.com/  
-Source: https://github.com/monocasual/giada
+Source code: https://github.com/monocasual/giada
 
 Report the bug: https://github.com/monocasual/giada/issues/new/  
 Download: https://www.giadamusic.com/data/Giada-0.26.1-x86_64.AppImage

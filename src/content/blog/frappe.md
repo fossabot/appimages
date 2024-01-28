@@ -15,7 +15,7 @@ Simple, well-designed, free desktop accounting software for freelancers and smal
 License: AGPL-3.0
 
 Web page: https://frappebooks.com/  
-Source: https://github.com/frappe/books
+Source code: https://github.com/frappe/books
 
 Translate: https://github.com/frappe/books/wiki/Contributing-Translations  
 Report the bug: https://github.com/frappe/books/issues/new/   

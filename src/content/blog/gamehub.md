@@ -15,7 +15,7 @@ Manage your Steam, GOG and Humble Bundle games in one place
 License: GPL-3.0
 
 Web page: https://tkashkin.github.io/projects/gamehub/  
-Source: https://github.com/tkashkin/GameHub/
+Source code: https://github.com/tkashkin/GameHub/
 
 
 Translate: https://hosted.weblate.org/engage/gamehub

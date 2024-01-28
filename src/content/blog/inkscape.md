@@ -15,7 +15,7 @@ A Free and open source vector graphics editor
 License: GPL-2.0
 
 Web page: https://inkscape.org  
-Source: https://gitlab.com/inkscape/inkscape
+Source code: https://gitlab.com/inkscape/inkscape
 
 Donate: https://inkscape.org/support-us/donate/  
 Translate: https://inkscape.org/contribute/translations/  

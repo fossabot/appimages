@@ -15,7 +15,7 @@ A post-modern modal text editor
 License: MPL-2.0
 
 Web page: https://helix-editor.com/  
-Source: https://github.com/helix-editor/helix
+Source code: https://github.com/helix-editor/helix
 
 Donate: https://opencollective.com/helix-editor
 Report the bug: https://github.com/helix-editor/helix/issues/new/  

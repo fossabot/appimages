@@ -15,7 +15,7 @@ A modern, fast and productivity driven SQL client with a focus in UX
 License: MIT
 
 Web page: https://antares-sql.app/  
-Source: https://github.com/antares-sql/antares
+Source code: https://github.com/antares-sql/antares
 
 Donate: https://www.paypal.com/paypalme/fabiodistasio  
 Translate: https://github.com/antares-sql/antares/wiki/Translate-Antares  

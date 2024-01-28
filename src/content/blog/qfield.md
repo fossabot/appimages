@@ -15,7 +15,7 @@ A simplified touch optimized interface for QGIS in the field
 License: GPL-2.0
 
 Web page: http://www.qfield.org/  
-Source: https://github.com/opengisch/QField
+Source code: https://github.com/opengisch/QField
 
 Donate: https://github.com/sponsors/opengisch  
 Translate: https://www.transifex.com/opengisch/qfield-for-qgis/  

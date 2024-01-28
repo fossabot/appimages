@@ -14,7 +14,7 @@ Open-source (FOSS) todo manager based on the todo.txt syntax
 
 License: MIT
 
-Source: https://github.com/ransome1/sleek
+Source code: https://github.com/ransome1/sleek
 
 Donate: https://github.com/sponsors/ransome1  
 Report the bug: https://github.com/ransome1/sleek/issues/new/  

@@ -15,7 +15,7 @@ ImHex is a feature-rich Hex Editor aimed towards Reverse Engineers working with 
 License: GPL-2.0
 
 Web page: https://imhex.werwolv.net/
-Source: https://github.com/WerWolv/ImHex/
+Source code: https://github.com/WerWolv/ImHex/
 
 
 Donate: https://github.com/sponsors/WerWolv

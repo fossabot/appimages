@@ -15,7 +15,7 @@ Flash OS images to SD cards & USB drives, safely and easily
 License: Apache-2.0
 
 Web page: https://etcher.balena.io/  
-Source: https://github.com/balena-io/etcher
+Source code: https://github.com/balena-io/etcher
 
 Translate: https://github.com/balena-io/etcher/tree/master/lib/gui/app/i18n  
 Report the bug: https://github.com/balena-io/etcher/issues/new/   

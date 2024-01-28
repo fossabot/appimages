@@ -14,7 +14,7 @@ ksnip the cross-platform screenshot and annotation tool
 
 License: GPL-3.0
 
-Source: https://github.com/ksnip/ksnip
+Source code: https://github.com/ksnip/ksnip
 
 Donate: https://github.com/sponsors/DamirPorobic
 Translate: https://hosted.weblate.org/engage/ksnip/

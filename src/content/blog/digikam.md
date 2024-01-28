@@ -15,7 +15,7 @@ Professional Photo Management with Power of Open Source
 License: GPL-2.0
 
 Web page: https://www.digikam.org/  
-Source: https://invent.kde.org/graphics/digikam  
+Source code: https://invent.kde.org/graphics/digikam  
 
 Donate: https://www.digikam.org/donate/  
 Translate: https://l10n.kde.org/  

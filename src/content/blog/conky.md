@@ -15,7 +15,7 @@ Light-weight system monitor for X, Wayland, and other things, too
 License: GPL-3.0
 
 Web page: https://conky.cc/  
-Source: https://github.com/brndnmtthws/conky/
+Source code: https://github.com/brndnmtthws/conky/
 
 Donate: https://github.com/sponsors/brndnmtthws
 Report the bug: https://github.com/brndnmtthws/conky/issues/new  

@@ -15,7 +15,7 @@ Python-powered, cross-platform, Unix-gazing shell language and command prompt
 License: BSD-2-Clause
 
 Web page: https://xon.sh/  
-Source: https://github.com/xonsh/xonsh
+Source code: https://github.com/xonsh/xonsh
 
 Donate: https://github.com/sponsors/xonsh  
 Report the bug: https://github.com/xonsh/xonsh/issues/new/  
