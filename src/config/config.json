@@ -2,8 +2,8 @@
   "site": {
     "title": "appimages",
     "base_url": "https://drsheppard01.github.io",
-    "base_path": "/appimages",
-    "trailing_slash": "never",
+    "base_path": "/appimages/",
+    "trailing_slash": "always",
     "favicon": "/appimages/images/favicon.png",
     "logo": "/appimages/images/logo.png",
     "logo_darkmode": "/appimages/images/logo-darkmode.png",
@@ -19,7 +19,7 @@
     "default_theme": "system",
     "pagination": 9,
     "summary_length": 200,
-    "blog_folder": "/blog/"
+    "blog_folder": "/blog"
   },
 
   "params": {

@@ -14,39 +14,39 @@
         },
         {
           "name": "Development",
-          "url": "/categories/development/"
+          "url": "${import.meta.env.BASE_URL}/categories/development/"
         },
         {
           "name": "Education",
-          "url": "/categories/education"
+          "url": "${import.meta.env.BASE_URL}/categories/education"
         },
         {
           "name": "Games",
-          "url": "/categories/games/"
+          "url": "${import.meta.env.BASE_URL}/categories/games/"
         },
         {
           "name": "Graphics",
-          "url": "/categories/graphics/"
+          "url": "${import.meta.env.BASE_URL}/categories/graphics/"
         },
         {
           "name": "Network",
-          "url": "/categories/network/"
+          "url": "${import.meta.env.BASE_URL}/categories/network/"
         },
         {
           "name": "Productivity",
-          "url": "/categories/productivity/"
+          "url": "${import.meta.env.BASE_URL}/categories/productivity/"
         },
         {
           "name": "Science",
-          "url": "/categories/science/"
+          "url": "${import.meta.env.BASE_URL}/categories/science/"
         },
         {
           "name": "System",
-          "url": "/categories/system/"
+          "url": "${import.meta.env.BASE_URL}/categories/system/"
         },
         {
           "name": "Utilities",
-          "url": "/categories/utilities/"
+          "url": "${import.meta.env.BASE_URL}/categories/utilities/"
         }
       ]
     }
