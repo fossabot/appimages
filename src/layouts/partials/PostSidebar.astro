@@ -19,7 +19,7 @@ const { tags, categories, allCategories } = Astro.props;
               <li>
                 <a
                   class="flex justify-between hover:text-primary dark:hover:text-darkmode-primary"
-                  href={`/$(import.meta.env.BASE_URL)/categories/${category}`}
+                  href={`/${import.meta.env.BASE_URL}/categories/${category}`}
                 >
                   {humanize(category)} <span>({count})</span>
                 </a>
