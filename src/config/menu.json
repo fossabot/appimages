@@ -10,43 +10,43 @@
       "children": [
         {
           "name": "Audio & Video",
-          "url": "${import.meta.env.BASE_URL}/categories/audiovideo/"
+          "url": "/categories/audiovideo/"
         },
         {
           "name": "Development",
-          "url": "${import.meta.env.BASE_URL}/categories/development/"
+          "url": "/categories/development/"
         },
         {
           "name": "Education",
-          "url": "${import.meta.env.BASE_URL}/categories/education"
+          "url": "/categories/education"
         },
         {
           "name": "Games",
-          "url": "${import.meta.env.BASE_URL}/categories/games/"
+          "url": "/categories/games/"
         },
         {
           "name": "Graphics",
-          "url": "${import.meta.env.BASE_URL}/categories/graphics/"
+          "url": "/categories/graphics/"
         },
         {
           "name": "Network",
-          "url": "${import.meta.env.BASE_URL}/categories/network/"
+          "url": "/categories/network/"
         },
         {
           "name": "Productivity",
-          "url": "${import.meta.env.BASE_URL}/categories/productivity/"
+          "url": "/categories/productivity/"
         },
         {
           "name": "Science",
-          "url": "${import.meta.env.BASE_URL}/categories/science/"
+          "url": "/categories/science/"
         },
         {
           "name": "System",
-          "url": "${import.meta.env.BASE_URL}/categories/system/"
+          "url": "/categories/system/"
         },
         {
           "name": "Utilities",
-          "url": "${import.meta.env.BASE_URL}/categories/utilities/"
+          "url": "/categories/utilities/"
         }
       ]
     }
