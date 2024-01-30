@@ -1,23 +1,20 @@
 ---
-title: "LibreOffice"
+title: "NightPDF"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Dark Mode PDF Reader built using Electron and PDF.js"
+date: 2023-11-26T06:12:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+author: "Luna"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Dark Mode PDF Reader built using Electron and PDF.js
 
-License: GPL-3.0
+License: GPL-2.0
 
-Web page: https://www.libreoffice.org/  
 Source code: https://github.com/Lunarequest/NightPDF
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Report the bug: https://github.com/Lunarequest/NightPDF/issues/new  
+Download: https://github.com/Lunarequest/NightPDF/releases/download/v3.0.0-beta2/NightPDF-3.0.0-beta2-x86_64.AppImage

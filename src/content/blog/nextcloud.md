@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "Nextcloud"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform."
+date: 2024-01-30T13:30:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Network"]
+author: "Nextcloud"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Nextcloud is the industry-leading, fully open-source, on-premises content collaboration platform.
 
-License: GPL-3.0
+License: GPL-2.0
 
-Web page: https://www.libreoffice.org/  
+Web page: https://nextcloud.com/  
 Source code: https://github.com/nextcloud-releases/desktop/
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Translate: https://www.transifex.com/nextcloud/nextcloud/  
+Report the bug: https://github.com/nextcloud/desktop/issues/new/  
+Download: https://github.com/nextcloud-releases/desktop/releases/download/v3.11.1/Nextcloud-3.11.1-x86_64.AppImage

@@ -66,15 +66,15 @@
 - [x] https://github.com/muse-sequencer/muse/
 - [x] https://github.com/martpie/museeks
 - [x] https://github.com/musescore/MuseScore/
-- [ ] https://github.com/mypaint/mypaint
-- [ ] https://github.com/naev/naev
-- [ ] https://github.com/neovim/neovim
-- [ ] https://github.com/codelerity/netbeans-installers
-- [ ] https://github.com/nextcloud-releases/desktop/
-- [ ] https://github.com/Nheko-Reborn/nheko
-- [ ] https://github.com/Lunarequest/NightPDF
-- [ ] https://github.com/Sandakan/Nora
-- [ ] https://github.com/nuttyartist/notes
+- [x] https://github.com/mypaint/mypaint
+- [x] https://github.com/naev/naev
+- [x] https://github.com/neovim/neovim
+- [x] https://github.com/codelerity/netbeans-installers
+- [x] https://github.com/nextcloud-releases/desktop/
+- [x] https://github.com/Nheko-Reborn/nheko
+- [x] https://github.com/Lunarequest/NightPDF
+- [x] https://github.com/Sandakan/Nora
+- [x] https://github.com/nuttyartist/notes
 - [ ] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
 - [ ] https://github.com/nukeop/nuclear
 - [ ] https://github.com/Syllo/nvtop/
@@ -107,3 +107,4 @@
 - [ ] https://github.com/unruhschuh/MrWriter
 - [ ] https://github.com/AppFlowy-IO/AppFlowy
 - [ ] https://github.com/s3drive/appimage-applatest/download/S3Drive-x86_64.AppImage
+- [ ] https://github.com/modrinth/knossos
