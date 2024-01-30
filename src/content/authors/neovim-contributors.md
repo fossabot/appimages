@@ -1,6 +1,6 @@
 ---
 title: Neovim contributors
-description: 
+description: Code contributors which develop and maintain Neovim
 
 social:
   - name: github
