@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Neovim"
 meta_title: ""
-description: "Free open source office suite"
+description: "Vim-fork focused on extensibility and usability"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Development"]
+author: "Neovim contributors"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Vim-fork focused on extensibility and usability
 
-License: GPL-3.0
+License: Apache-2.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://neovim.io/  
+Source code: https://github.com/neovim/neovim
 
 Donate: https://www.libreoffice.org/donate/  
 Translate: https://wiki.documentfoundation.org/Language  
 Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Download: https://github.com/neovim/neovim/releases/download/v0.9.5/nvim.appimage

@@ -14,10 +14,10 @@ Free open source office suite
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://github.com/openscad/openscad/  
+Source code: https://github.com/openscad/openscad/
 
-Donate: https://www.libreoffice.org/donate/  
+Donate: https://github.com/sponsors/openscad  
 Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Report the bug: https://github.com/openscad/openscad/issues/new  
+Download: https://files.openscad.org/snapshots/OpenSCAD-2024.01.26.ai18259-x86_64.AppImage

@@ -15,7 +15,7 @@ Free open source office suite
 License: GPL-3.0
 
 Web page: https://www.libreoffice.org/  
-Source code: https://github.com/pyfa-org/Pyfa/
+Source code: https://github.com/unruhschuh/MrWriter
 
 Donate: https://www.libreoffice.org/donate/  
 Translate: https://wiki.documentfoundation.org/Language  

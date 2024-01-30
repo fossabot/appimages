@@ -14,7 +14,7 @@ Free open source office suite
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
+Web page: https://photoqt.org/  
 Source code: https://github.com/LibreOffice/core
 
 Donate: https://www.libreoffice.org/donate/  

@@ -1,23 +1,21 @@
 ---
-title: "LibreOffice"
+title: "LPub3D"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "An LDraw™ editor for LEGO® style digital building instructions"
+date: 2023-09-05T06:05:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Graphics"]
+author: "Trevor Sandy"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+An LDraw™ editor for LEGO® style digital building instructions.
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://trevorsandy.github.io/lpub3d/  
+Source code: https://github.com/trevorsandy/lpub3d
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Report the bug: https://github.com/trevorsandy/lpub3d/issues/new  
+Download: https://github.com/trevorsandy/lpub3d/releases/download/continuous/LPub3D-2.4.7.75.3551_20230905-x86_64.AppImage

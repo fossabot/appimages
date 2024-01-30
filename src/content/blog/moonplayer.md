@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "MoonPlayer"
 meta_title: ""
-description: "Free open source office suite"
+description: "All-in-One video player that can play videos from Youtube, Bilibili etc. as well as local videos."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["AudioVideo"]
+author: "Coslyk"
+tags: ["Official"]
 draft: false
 ---
 
-Free open source office suite
+All-in-One video player that can play videos from Youtube, Bilibili etc. as well as local videos.
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://coslyk.github.io/moonplayer.html  
+Source code: https://github.com/coslyk/moonplayer
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://coslyk.github.io/donate.html  
+Report the bug: https://github.com/coslyk/moonplayer/issues/new  
+Download: https://github.com/coslyk/moonplayer/releases/download/v4.3/MoonPlayer--x86_64.AppImage

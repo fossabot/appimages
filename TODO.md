@@ -14,96 +14,96 @@
 
 # Add content list
 - [x] Ferdium + Author https://github.com/ferdium/ferdium-app/
-- [x] https://github.com/manuelernestog/weektodo/releases/download/v2.1.0/WeekToDo-2.1.0.AppImage
+- [x] https://github.com/manuelernestog/weektododownload/v2.1.0/WeekToDo-2.1.0.AppImage
 - [x] Cider
 - [x] Cinelerra-GG
-- [x] Conky https://github.com/brndnmtthws/conky/releases/
+- [x] Conky https://github.com/brndnmtthws/conky
 - [x] Converseen https://sourceforge.net/projects/converseen/files/Converseen/
 - [x] Cozy-drive ttps://github.com/cozy-labs/cozy-desktop/
-- [x] Czkawka https://github.com/qarmin/czkawka/releases/download/6.0.0/linux_czkawka_gui.AppImage
-- [x] Deckboard https://github.com/rivafarabi/deckboard/releases/
-- [x] deezer-desktop https://github.com/aunetx/deezer-linux/releases/
+- [x] Czkawka https://github.com/qarmin/czkawkadownload/6.0.0/linux_czkawka_gui.AppImage
+- [x] Deckboard https://github.com/rivafarabi/deckboard
+- [x] deezer-desktop https://github.com/aunetx/deezer-linux
 - [x] https://github.com/jlambert360/FPM-AppImage/
-- [x] https://featherwallet.org/files/releases/linux-appimage/feather-2.4.9.AppImage
+- [x] https://featherwallet.org/fileslinux-appimage/feather-2.4.9.AppImage
 - [x] https://github.com/jeffvli/feishin/
 - [x] Filen.io
 - [x] https://github.com/flacon/flacon/
 - [x] https://github.com/flareteam/flare-game/
-- [x] https://github.com/fontforge/fontforge/releases/
-- [x] https://github.com/enzo1982/freac/releases/
-- [x] https://github.com/tkashkin/GameHub/releases/
-- [x] https://github.com/gorilla-devs/GDLauncher/releases/
-- [x] https://github.com/shiftkey/desktop/releases/
-- [x] https://github.com/gyroflow/gyroflow/releases/
-- [x] https://github.com/vercel/hyper/releases/
-- [x] https://github.com/Icalingua-plus-plus/Icalingua-plus-plus/releases/
-- [x] https://github.com/WerWolv/ImHex/releases/
-- [x] https://github.com/jitsi/jitsi-meet-electron/releases/
-- [x] https://github.com/laurent22/joplin/releases/
+- [x] https://github.com/fontforge/fontforge
+- [x] https://github.com/enzo1982/freac
+- [x] https://github.com/tkashkin/GameHub
+- [x] https://github.com/gorilla-devs/GDLauncher
+- [x] https://github.com/shiftkey/desktop
+- [x] https://github.com/gyroflow/gyroflow
+- [x] https://github.com/vercel/hyper
+- [x] https://github.com/Icalingua-plus-plus/Icalingua-plus-plus
+- [x] https://github.com/WerWolv/ImHex
+- [x] https://github.com/jitsi/jitsi-meet-electron
+- [x] https://github.com/laurent22/joplin
 - [x] Kdenlive
-- [x] https://github.com/keepassxreboot/keepassxc/releases/
-- [x] https://github.com/kopia/kopia/releases/
-- [x] https://github.com/koreader/koreader/releases/
-- [x] https://github.com/ksnip/ksnip/releases/
+- [x] https://github.com/keepassxreboot/keepassxc
+- [x] https://github.com/kopia/kopia
+- [x] https://github.com/koreader/koreader
+- [x] https://github.com/ksnip/ksnip
 - [x] https://github.com/davidsmorais/kuro/releases
 - [x] https://github.com/leozide/leocad
 - [x] https://github.com/LibreCAD/LibreCAD/
-- [ ] https://github.com/lostdesign/linked/releases/
-- [ ] https://linphone.org/
-- [ ] https://github.com/LMMS/lmms/
-- [ ] https://github.com/mifi/lossless-cut/
-- [ ] https://github.com/trevorsandy/lpub3d/releases/
-- [ ] https://lunatask.app/
-- [ ] https://github.com/myst6re/makoureactor/
-- [ ] https://github.com/rolandbernard/marvin/releases/
-- [ ] https://mendeley.com
-- [ ] https://github.com/ThaUnknown/miru/releases/
-- [ ] https://mochi.cards
-- [ ] https://github.com/coslyk/moonplayer/releases
-- [ ] https://github.com/Moosync/Moosync/releases/
-- [ ] https://github.com/agalwood/Motrix/releases/
-- [ ] https://github.com/emqx/MQTTX/
-- [ ] https://github.com/muse-sequencer/muse/
-- [ ] https://github.com/martpie/museeks/releases/
-- [ ] https://github.com/musescore/MuseScore/
-- [ ] https://github.com/mypaint/mypaint/releases/
-- [ ] https://github.com/naev/naev/releases/
-- [ ] https://github.com/neovim/neovim/releases/
-- [ ] https://github.com/codelerity/netbeans-installers/releases/
+- [x] https://github.com/lostdesign/linked
+- [x] https://linphone.org/
+- [x] https://github.com/LMMS/lmms/
+- [x] https://github.com/mifi/lossless-cut/
+- [x] https://github.com/trevorsandy/lpub3d
+- [x] https://lunatask.app/
+- [x] https://github.com/myst6re/makoureactor/
+- [x] https://github.com/rolandbernard/marvin
+- [x] https://mendeley.com
+- [x] https://github.com/ThaUnknown/miru
+- [x] https://mochi.cards
+- [x] https://github.com/coslyk/moonplayer/releases
+- [x] https://github.com/Moosync/Moosync
+- [x] https://github.com/agalwood/Motrix
+- [x] https://github.com/emqx/MQTTX/
+- [x] https://github.com/muse-sequencer/muse/
+- [x] https://github.com/martpie/museeks
+- [x] https://github.com/musescore/MuseScore/
+- [ ] https://github.com/mypaint/mypaint
+- [ ] https://github.com/naev/naev
+- [ ] https://github.com/neovim/neovim
+- [ ] https://github.com/codelerity/netbeans-installers
 - [ ] https://github.com/nextcloud-releases/desktop/
-- [ ] https://github.com/Nheko-Reborn/nheko/releases/
-- [ ] https://github.com/Lunarequest/NightPDF/releases/
-- [ ] https://github.com/Sandakan/Nora/releases/
-- [ ] https://github.com/nuttyartist/notes/releases/
+- [ ] https://github.com/Nheko-Reborn/nheko
+- [ ] https://github.com/Lunarequest/NightPDF
+- [ ] https://github.com/Sandakan/Nora
+- [ ] https://github.com/nuttyartist/notes
 - [ ] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
-- [ ] https://github.com/nukeop/nuclear/releases/
+- [ ] https://github.com/nukeop/nuclear
 - [ ] https://github.com/Syllo/nvtop/
 - [ ] Onekey.app
 - [ ] openscad.org/
-- [ ] https://github.com/OpenShot/openshot-qt/releases/
+- [ ] https://github.com/OpenShot/openshot-qt
 - [ ] https://github.com/ppy/osu/
-- [ ] https://github.com/ow-mods/ow-mod-man/releases/
+- [ ] https://github.com/ow-mods/ow-mod-man
 - [ ] owncloud.com/
-- [ ] https://github.com/padloc/padloc/releases/
-- [ ] https://github.com/Rabbit-Company/Passky-Desktop/releases/
-- [ ] https://github.com/GlitterWare/Passy/releases/
-- [ ] https://github.com/pencil2d/pencil/releases/
-- [ ] https://sudovanilla.com/distribute/applications/penpot-desktop/v0.2.4/Penpot%20Desktop-0.2.4.AppImage
+- [ ] https://github.com/padloc/padloc
+- [ ] https://github.com/Rabbit-Company/Passky-Desktop
+- [ ] https://github.com/GlitterWare/Passy
+- [ ] https://github.com/pencil2d/pencil
 - [ ] https://photoqt.org/
-- [ ] https://github.com/HACKERALERT/Picocrypt/releases/
+- [ ] https://github.com/HACKERALERT/Picocrypt
 - [ ] https://purei.org/downloads/play/stable/0.62/Play!-97d971cb-x86_64.AppImage
-- [ ] https://github.com/Barre/privaxy/releases/
-- [ ] https://github.com/prateekmedia/pstube/releases/
+- [ ] https://github.com/Barre/privaxy
+- [ ] https://github.com/prateekmedia/pstube
 - [ ] https://github.com/pydt/client
 - [ ] https://github.com/pyfa-org/Pyfa/
 - [ ] https://github.com/httpie/desktop
 - [ ] https://github.com/story-apps/starc/releases/download/v0.6.4/starc-setup.AppImage
-- [ ] https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-x86_64.AppImage
-- [ ] https://codeberg.org/Reckoner/app/releases/download/v1.0.5/reckoner-1.0.5-x86_64.AppImage
-- [ ] https://github.com/bambulab/BambuStudio/releases/download/v01.08.04.51/BambuStudio_linux_fedora_v01.08.04.51_20240117.AppImage
-- [ ] https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.7.1/PrusaSlicer-2.7.1+linux-x64-GTK3-202312121425.AppImage
-- [ ] https://github.com/siyuan-note/siyuan/releases/download/v2.12.5/siyuan-2.12.5-linux.AppImage
-- [ ] https://github.com/upscayl/upscayl/releases/download/v2.9.8/upscayl-2.9.8-linux.AppImage
-- [ ] https://github.com/staniel359/muffon/releases/download/v2.0.1/muffon-2.0.1-linux-x86_64.AppImage
-- [ ] https://github.com/unruhschuh/MrWriter/releases/download/v0.0.7/MrWriter-0.0.7-x86_64.AppImage
-- [ ] https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.4.3/AppFlowy-0.4.3-linux-x86_64.AppImage
+- [ ] https://github.com/rustdesk/rustdesk/
+- [ ] https://codeberg.org/Reckoner/app/
+- [ ] https://github.com/bambulab/BambuStudio/
+- [ ] https://github.com/prusa3d/PrusaSlicer
+- [ ] https://github.com/siyuan-note/siyuan
+- [ ] https://github.com/upscayl/upscayl
+- [ ] https://github.com/staniel359/muffon
+- [ ] https://github.com/unruhschuh/MrWriter
+- [ ] https://github.com/AppFlowy-IO/AppFlowy
+- [ ] https://github.com/s3drive/appimage-applatest/download/S3Drive-x86_64.AppImage

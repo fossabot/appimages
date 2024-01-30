@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Naev"
 meta_title: ""
-description: "Free open source office suite"
+description: "Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
+categories: ["Games"]
 author: "The Document Foundation"
-tags: ["Community"]
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://naev.org/  
+Source code: https://github.com/naev/naev
 
 Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
+Translate: https://hosted.weblate.org/projects/naev/naev/  
 Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Download: https://github.com/naev/naev/releases/download/v0.11.3/naev-0.11.3-linux-x86-64.AppImage

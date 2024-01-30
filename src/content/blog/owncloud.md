@@ -14,8 +14,8 @@ Free open source office suite
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: owncloud.com/
+Source code: 
 
 Donate: https://www.libreoffice.org/donate/  
 Translate: https://wiki.documentfoundation.org/Language  

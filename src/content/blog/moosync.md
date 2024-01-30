@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Moosync"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Music player capable of playing local audio or from Youtube, Spotify and many more"
+date: 2024-01-24T11:45:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["AudioVideo"]
+author: "Sahil Gupte"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Music player capable of playing local audio or from Youtube, Spotify and many more
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://moosync.app/  
+Source code: https://github.com/Moosync/Moosync
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://github.com/Moosync/Moosync#Donations  
+Translate: https://crowdin.com/project/moosync  
+Report the bug: https://github.com/Moosync/Moosync/issues/new  
+Download: https://github.com/Moosync/Moosync/releases/download/v10.3.0/Moosync-10.3.0-linux-x86_64.AppImage

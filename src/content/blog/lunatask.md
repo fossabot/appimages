@@ -1,23 +1,19 @@
 ---
-title: "LibreOffice"
+title: "Lunatask"
 meta_title: ""
-description: "Free open source office suite"
+description: "All-in-one encrypted to-do list, habit and mood tracker, journaling and notes app"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+author: "Michal Krejci"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+All-in-one encrypted to-do list, habit and mood tracker, journaling and notes app
 
-License: GPL-3.0
+License: EULA
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://lunatask.app/  
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Download: https://github.com/lunatask/lunatask/releases/download/v1.7.9/Lunatask-1.7.9.AppImage

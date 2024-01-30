@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Motrix"
 meta_title: ""
-description: "Free open source office suite"
+description: "Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Network"]
+author: "Dr_rOot"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.
 
-License: GPL-3.0
+License: MIT
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://motrix.app/  
+Source code: https://github.com/agalwood/Motrix
 
 Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Translate: https://github.com/agalwood/Motrix/blob/master/CONTRIBUTING.md#-translation-guide  
+Report the bug: https://github.com/agalwood/Motrix/issues/new  
+Download: https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.AppImage

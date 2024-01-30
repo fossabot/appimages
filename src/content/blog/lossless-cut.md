@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Lossless-cut"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files."
+date: 2023-12-22T16:18:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["AudioVideo"]
+author: "Mikael Finstad"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Simple and ultra fast cross platform tool for lossless trimming/cutting of video and audio files.
 
-License: GPL-3.0
+License: GPL-2.0
 
 Web page: https://mifi.no/losslesscut/  
 Source code: https://github.com/mifi/lossless-cut
 
 Donate: https://github.com/sponsors/mifi  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Translate: https://hosted.weblate.org/projects/losslesscut/losslesscut/  
+Report the bug: https://github.com/mifi/lossless-cut/issues/new/  
+Download: https://github.com/mifi/lossless-cut/releases/download/latest/LosslessCut-linux-x86_64.AppImage

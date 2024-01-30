@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Miru"
 meta_title: ""
-description: "Free open source office suite"
+description: "Stream anime torrents, real-time with no waiting for downloads"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Network"]
+author: "Cas"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Stream anime torrents, real-time with no waiting for downloads
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Web page: https://miru.watch/  
+Source code: https://github.com/ThaUnknown/miru
 
-Donate: https://www.libreoffice.org/donate/  
+Donate: https://github.com/sponsors/ThaUnknown  
 Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Report the bug: https://github.com/ThaUnknown/miru/issues/new  
+Download: https://github.com/ThaUnknown/miru/releases/download/v4.5.10/linux-Miru-4.5.10.AppImage
