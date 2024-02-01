@@ -1,23 +1,20 @@
 ---
-title: "LibreOffice"
+title: "Privaxy"
 meta_title: ""
-description: "Free open source office suite"
+description: "Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Network"]
+author: "Pierre Barre"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic.
 
-License: GPL-3.0
+License: AGPL-3.0
 
-Web page: https://www.libreoffice.org/  
 Source code: https://github.com/Barre/privaxy
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Report the bug: https://github.com/Barre/privaxy/issues/new  
+Download: https://github.com/Barre/privaxy/releases/download/v0.5.2/privaxy_0.5.2_amd64.AppImage

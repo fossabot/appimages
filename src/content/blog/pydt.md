@@ -1,24 +1,22 @@
 ---
-title: "LibreOffice"
+title: "PYDT"
 meta_title: ""
-description: "Free open source office suite"
+description: "Electron client that helps with playing your damn turn."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Games"]
+author: "Michael Rosack"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Electron client that helpsith playing your damn turn.
 
-License: GPL-3.0
+License: MIT
 
-Web page: https://www.libreoffice.org/  
+Web page: https://www.playyourdamnturn.com/  
 Source code: https://github.com/pydt/client
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
-https://github.com/pyfa-org/Pyfa/
+Donate: https://www.patreon.com/pydt  
+Report the bug: https://github.com/pydt/client/issues/new  
+Download: https://github.com/pydt/client/releases/download/v2.1.6/playyourdamnturn-linux-2.1.6-x86_64.AppImage

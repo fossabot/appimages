@@ -75,7 +75,7 @@
 - [x] https://github.com/Lunarequest/NightPDF
 - [x] https://github.com/Sandakan/Nora
 - [x] https://github.com/nuttyartist/notes
-- [ ] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
+- [x] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
 - [x] https://github.com/nukeop/nuclear
 - [x] https://github.com/Syllo/nvtop/
 - [x] Onekey.app
@@ -90,23 +90,22 @@
 - [x] https://github.com/pencil2d/pencil
 - [x] https://photoqt.org/
 - [x] https://github.com/HACKERALERT/Picocrypt
-- [ ] https://purei.org/downloads/play/stable/0.62/Play!-97d971cb-x86_64.AppImage
-- [ ] https://github.com/Barre/privaxy
-- [ ] https://github.com/prateekmedia/pstube
-- [ ] https://github.com/pydt/client
-- [ ] https://github.com/pyfa-org/Pyfa/
-- [ ] https://github.com/httpie/desktop
-- [ ] https://github.com/story-apps/starc/releases/download/v0.6.4/starc-setup.AppImage
-- [ ] https://github.com/rustdesk/rustdesk/
-- [ ] https://codeberg.org/Reckoner/app/
+- [x] https://purei.org/downloads/play/stable/0.62/Play!-97d971cb-x86_64.AppImage
+- [x] https://github.com/Barre/privaxy
+- [x] https://github.com/prateekmedia/pstube
+- [x] https://github.com/pydt/client
+- [x] https://github.com/pyfa-org/Pyfa/
+- [x] https://github.com/httpie/desktop
+- [x] https://github.com/story-apps/starc
+- [x] https://github.com/rustdesk/rustdesk/
+- [x] https://codeberg.org/Reckoner/app/
 - [ ] https://github.com/bambulab/BambuStudio/
 - [ ] https://github.com/prusa3d/PrusaSlicer
-- [ ] https://github.com/siyuan-note/siyuan
-- [ ] https://github.com/upscayl/upscayl
-- [ ] https://github.com/staniel359/muffon
-- [ ] https://github.com/unruhschuh/MrWriter
-- [ ] https://github.com/AppFlowy-IO/AppFlowy
-- [ ] https://github.com/s3drive/appimage-applatest/download/S3Drive-x86_64.AppImage
+- [x] https://github.com/siyuan-note/siyuan
+- [x] https://github.com/upscayl/upscayl
+- [x] https://github.com/staniel359/muffon
+- [x] https://github.com/AppFlowy-IO/AppFlowy
+- [x] https://github.com/s3drive/appimage-app
 - [ ] https://github.com/modrinth/knossos
 - [ ] https://github.com/mltframework/shotcut/releases/download/v24.01.28/shotcut-linux-x86_64-240128.AppImage
 - [ ] https://github.com/jurplel/qView

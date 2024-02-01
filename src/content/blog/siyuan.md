@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "Siyuan"
 meta_title: ""
-description: "Free open source office suite"
+description: "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+author: "Yunnan Liandi Technology"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
-License: GPL-3.0
+License: AGPL-3.0
 
 Web page: https://www.libreoffice.org/  
 Source code: https://github.com/siyuan-note/siyuan
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://ld246.com/sponsor  
+Report the bug: https://github.com/siyuan-note/siyuan/issues/new   
+Download: https://github.com/siyuan-note/siyuan/releases/download/v2.12.6/siyuan-2.12.6-linux.AppImage

@@ -1,23 +1,22 @@
 ---
-title: "Saber"
+title: "Story Architect"
 meta_title: ""
-description: "Cross-platform libre handwritten notes app"
-date: 2023-12-06T13:28:00Z
+description: "All in one screenwriting app"
+date: 2023-12-04T13:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Adil Hanney"
+author: "Story Apps"
 tags: ["official"]
 draft: false
 ---
 
-Cross-platform libre handwritten notes app
+All in one screenwriting app
 
 License: GPL-3.0
 
-Web page: https://saber.adil.hanney.org/  
-Source code:  https://github.com/story-apps/starcdownload
+Web page: https://starc.app/  
+Source code:  https://github.com/story-apps/starc
 
-Donate: https://github.com/sponsors/adil192  
-Translate: https://github.com/saber-notes/saber?tab=readme-ov-file#translating  
+Translate: https://www.transifex.com/story-apps/starc/  
 Report the bug: https://github.com/story-apps/starcdownload/issues/new/  
-Download: https://github.com/story-apps/starcdownload/v0.6.4/starc-setup.AppImage
+Download: https://github.com/story-apps/starc/releases/download/v0.6.4/starc-setup.AppImage

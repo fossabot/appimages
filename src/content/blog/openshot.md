@@ -14,7 +14,7 @@ OpenShot Video Editor is an award-winning free and open-source video editor
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
+Web page: https://www.openshot.org  
 Source code: https://github.com/OpenShot/openshot-qt
 
 Donate: https://www.openshot.org/donate/  

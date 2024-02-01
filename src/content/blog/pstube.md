@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "PsTube"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Youtube video client made using Flutter"
+date: 2022-06-22T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Network"]
+author: "Prateek Sunal"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Youtube video client made using Flutter
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
-Source code: https://github.com/LibreOffice/core
+Source code: https://github.com/prateekmedia/pstube
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://github.com/sponsors/prateekmedia  
+Translate: https://hosted.weblate.org/projects/pstube/  
+Report the bug: https://github.com/prateekmedia/pstube/issues/new  
+Download: https://github.com/prateekmedia/pstube/releases/download/2.6.0/pstube-linux-2.6.0-x86_64.AppImage

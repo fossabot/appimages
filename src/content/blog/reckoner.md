@@ -1,23 +1,21 @@
 ---
-title: "Saber"
+title: "Reckoner"
 meta_title: ""
-description: "Cross-platform libre handwritten notes app"
+description: "Privacy first financial tracking, with radical customizability!"
 date: 2023-12-06T13:28:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "Adil Hanney"
+author: "Victor Velten"
 tags: ["official"]
 draft: false
 ---
 
-Cross-platform libre handwritten notes app
+Privacy first financial tracking, with radical customizability!
 
-License: GPL-3.0
+License: AGPL-3.0
 
-Web page: https://saber.adil.hanney.org/  
+Web page: https://reckoner.finance/  
 Source code: https://codeberg.org/Reckoner/app/
 
-Donate: https://github.com/sponsors/adil192  
-Translate: https://github.com/saber-notes/saber?tab=readme-ov-file#translating  
-Report the bug: https://github.com/rustdesk/rustdesk/issues/new/  
-Download: https://github.com/rustdesk/rustdesk/1.2.3/rustdesk-1.2.3-x86_64.AppImage
+Report the bug: https://codeberg.org/Reckoner/app/issues/new/  
+Download: https://codeberg.org/Reckoner/app/releases/download/v1.0.9/reckoner-1.0.9-x86_64.AppImage
