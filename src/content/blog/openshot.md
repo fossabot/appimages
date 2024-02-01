@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "OpenShot"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "OpenShot Video Editor is an award-winning free and open-source video editor"
+date: 2023-04-21T22:52:00Z
 image: "/images/image-placeholder.png"
 categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+author: "OpenShot Studios"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+OpenShot Video Editor is an award-winning free and open-source video editor
 
 License: GPL-3.0
 
 Web page: https://www.libreoffice.org/  
 Source code: https://github.com/OpenShot/openshot-qt
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://www.openshot.org/donate/  
+Translate: https://translations.launchpad.net/openshot/2.0/+translations  
+Report the bug: https://github.com/OpenShot/openshot-qt/issues/new  
+Download: https://github.com/OpenShot/openshot-qt/releases/download/v3.1.1/OpenShot-v3.1.1-x86_64.AppImage

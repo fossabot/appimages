@@ -1,16 +1,16 @@
 ---
-title: "LibreOffice"
+title: "OpenSCAD"
 meta_title: ""
-description: "Free open source office suite"
+description: "The Programmers Solid 3D CAD Modeller"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Graphics"]
+author: "Marius Kintel"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+The Programmers Solid 3D CAD Modeller
 
 License: GPL-3.0
 

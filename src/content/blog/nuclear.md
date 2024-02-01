@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Nuclear"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Streaming music player that finds free music for you"
+date: 2023-08-09T10:37:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["AudioVideo"]
+author: "nukeop"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Streaming music player that finds free music for you
 
-License: GPL-3.0
+License: AGPL-3.0
 
-Web page: https://www.libreoffice.org/  
+Web page: https://nuclear.js.org/  
 Source code: https://github.com/nukeop/nuclear
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://github.com/sponsors/nukeop  
+Translate: https://crowdin.com/project/nuclear  
+Report the bug: https://github.com/nukeop/nuclear/issues/new  
+Download: https://github.com/nukeop/nuclear/releases/download/v0.6.30/nuclear-v0.6.30.AppImage

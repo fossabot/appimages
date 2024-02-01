@@ -76,7 +76,7 @@
 - [x] https://github.com/Sandakan/Nora
 - [x] https://github.com/nuttyartist/notes
 - [ ] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
-- [ ] https://github.com/nukeop/nuclear
+- [x] https://github.com/nukeop/nuclear
 - [ ] https://github.com/Syllo/nvtop/
 - [ ] Onekey.app
 - [ ] openscad.org/
@@ -108,3 +108,4 @@
 - [ ] https://github.com/AppFlowy-IO/AppFlowy
 - [ ] https://github.com/s3drive/appimage-applatest/download/S3Drive-x86_64.AppImage
 - [ ] https://github.com/modrinth/knossos
+- [ ] https://github.com/mltframework/shotcut/releases/download/v24.01.28/shotcut-linux-x86_64-240128.AppImage
