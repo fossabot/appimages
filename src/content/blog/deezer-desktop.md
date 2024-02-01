@@ -4,7 +4,7 @@ meta_title: ""
 description: "An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB."
 date: 2023-10-15T11:24:00Z
 image: "/images/image-placeholder.png"
-categories: ["System"]
+categories: ["AudioVideo"]
 author: "Aurélien Hamy"
 tags: ["official"]
 draft: false

@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "Outer Wilds Mod Manager"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "The mod manager for the Outer Wilds Mod Loader"
+date: 2024-01-02T22:45:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Games"]
+author: "Outer Wilds Mods"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+The mod manager for the Outer Wilds Mod Loader
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
+Web page: https://outerwildsmods.com/mod-manager/
 Source code: https://github.com/ow-mods/ow-mod-man
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Translate: https://github.com/ow-mods/ow-mod-man/blob/main/owmods_gui/TRANSLATIONS.md  
+Report the bug: https://github.com/ow-mods/ow-mod-man/issues/new  
+Download: https://github.com/ow-mods/ow-mod-man/releases/download/gui_v0.12.0/outer-wilds-mod-manager_0.12.0_amd64.AppImage

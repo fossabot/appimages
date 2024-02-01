@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "PhotoQt"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "PhotoQt is a simple yet powerful and good looking image viewer, based on Qt/QML, published as open-source and completely free"
+date: 2024-01-24T21:05:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Utilities"]
+author: "Lukas Spies"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+PhotoQt is a simple yet powerful and good looking image viewer, based on Qt/QML, published as open-source and completely free
 
-License: GPL-3.0
+License: GPL-2.0
 
 Web page: https://photoqt.org/  
-Source code: https://github.com/LibreOffice/core
+Source code: https://gitlab.com/lspies/photoqt
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://go.luspi.de/ukraine  
+Translate: https://translate.photoqt.org/  
+Report the bug: https://gitlab.com/lspies/photoqt/-/issues/new  
+Download: https://photoqt.org/downloads/appimages/PhotoQt-4.2.AppImage

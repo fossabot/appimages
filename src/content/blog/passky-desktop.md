@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Passky"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Passky is a simple, modern, lightweight, open source and secure password manager."
+date: 2023-01-28T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Utilities"]
+author: "Rabbit Company"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Passky is a simple, modern, lightweight, open source and secure password manager.
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
+Web page: https://passky.org/  
 Source code: https://github.com/Rabbit-Company/Passky-Desktop
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://passky.org/donation  
+Translate: https://crowdin.com/project/passky  
+Report the bug: https://github.com/Rabbit-Company/Passky-Desktop/issues/new  
+Download: https://github.com/Rabbit-Company/Passky-Desktop/releases/download/v8.1.1/Passky-8.1.1.AppImage

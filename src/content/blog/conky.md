@@ -4,7 +4,7 @@ meta_title: ""
 description: "Light-weight system monitor for X, Wayland, and other things, too"
 date: 2023-10-13T22:58:00Z
 image: "/images/image-placeholder.png"
-categories: ["System"]
+categories: ["Utilities"]
 author: "Brenden Matthews"
 tags: ["official"]
 draft: false

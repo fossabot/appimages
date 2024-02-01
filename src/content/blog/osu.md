@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "osu!"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Free-to-win rhythm game"
+date: 2024-01-31T18:39:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Games"]
+author: "Dean Herbert"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Free-to-win rhythm game
 
-License: GPL-3.0
+License: MIT
 
-Web page: https://www.libreoffice.org/  
+Web page: https://osu.ppy.sh/  
 Source code: https://github.com/ppy/osu/
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://github.com/sponsors/ppy  
+Report the bug: https://github.com/ppy/osu/issues/new  
+Download: https://github.com/ppy/osu/releases/download/2024.131.0/osu.AppImage

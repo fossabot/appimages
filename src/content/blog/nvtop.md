@@ -2,11 +2,11 @@
 title: "nvtop"
 meta_title: ""
 description: "GPUs process monitoring for AMD, Intel and NVIDIA"
-date: 2023-12-07T22:52:00Z
+date: 2023-06-11T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
+categories: ["Utilities"]
 author: "Maxime Schmitt"
-tags: ["Community"]
+tags: ["official"]
 draft: false
 ---
 

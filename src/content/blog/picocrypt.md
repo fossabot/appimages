@@ -1,23 +1,20 @@
 ---
-title: "LibreOffice"
+title: "Picocrypt"
 meta_title: ""
-description: "Free open source office suite"
+description: "Picocrypt is a very small (hence Pico), very simple, yet very secure encryption tool that you can use to protect your files"
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Utilities"]
+author: "Evan Su"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Picocrypt is a very small (hence Pico), very simple, yet very secure encryption tool that you can use to protect your files
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
 Source code: https://github.com/HACKERALERT/Picocrypt
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://opencollective.com/picocrypt/  
+Download: https://github.com/HACKERALERT/Picocrypt/releases/download/1.33/Picocrypt.AppImage

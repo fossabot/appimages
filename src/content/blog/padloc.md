@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "Padloc"
 meta_title: ""
-description: "Free open source office suite"
+description: "A modern, open source password manager for individuals and teams."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Utilities"]
+author: "Martin Kleinschrodt"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+A modern, open source password manager for individuals and teams.
 
-License: GPL-3.0
+License: AGPL-3.0
 
-Web page: https://www.libreoffice.org/  
+Web page: https://padloc.app/  
 Source code: https://github.com/padloc/padloc
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Translate: https://github.com/padloc/padloc/tree/main/packages/locale  
+Report the bug: https://github.com/padloc/padloc/issues/new  
+Download: https://github.com/padloc/padloc/releases/download/v4.3.0/padloc_4.3.0_linux_tauri_amd64.AppImage

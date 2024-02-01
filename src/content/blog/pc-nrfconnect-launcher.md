@@ -1,23 +1,21 @@
 ---
-title: "LibreOffice"
+title: "nRF Connect for Desktop"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "nRF Connect for Desktop is a cross-platform framework for desktop apps for development kits and dongles from Nordic Semiconductor"
+date: 2023-12-07T17:27:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Development"]
+author: "NordicSemiconductor"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+nRF Connect for Desktop is a cross-platform framework for desktop apps for development kits and dongles from Nordic Semiconductor
 
-License: GPL-3.0
+License: Nordic-4-Clause
 
-Web page: https://www.libreoffice.org/  
+Web page: https://www.nordicsemi.com/Products/Development-tools/nrf-connect-for-desktop  
 Source code: https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Report the bug: https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/issues/new  
+Download: https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/releases/download/v4.3.0/nrfconnect-4.3.0-x86_64.AppImage

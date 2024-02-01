@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "ownCloud"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Open-source software for highly secure, borderless collaboration and filesharing on any device"
+date: 2024-01-04T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Network"]
+author: "ownCloud"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Open-source software for highly secure, borderless collaboration and filesharing on any device
 
-License: GPL-3.0
+License: GPL-2.0
 
-Web page: owncloud.com/
-Source code: 
+Web page: https://owncloud.com/desktop-app/  
+Source code: https://github.com/owncloud/client
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Translate: https://www.transifex.com/projects/p/owncloud/  
+Report the bug: https://github.com/owncloud/client/issues/new  
+Download: https://download.owncloud.com/desktop/ownCloud/stable/5.2.1.13040/linux-appimage/ownCloud-5.2.1.13040-x86_64.AppImage

@@ -4,7 +4,7 @@ meta_title: ""
 description: "KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information"
 date: 2023-08-16T02:09:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
+categories: ["Utilities"]
 author: "KeePassXC Team"
 tags: ["official"]
 draft: false

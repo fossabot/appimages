@@ -1,23 +1,23 @@
 ---
-title: "LibreOffice"
+title: "Passy"
 meta_title: ""
-description: "Free open source office suite"
-date: 2023-12-07T22:52:00Z
+description: "Offline password manager with cross-platform synchronization"
+date: 2023-11-28T22:57:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Utilities"]
+author: "GlitterWare"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Offline password manager with cross-platform synchronization
 
 License: GPL-3.0
 
-Web page: https://www.libreoffice.org/  
+Web page: https://glitterware.github.io/Passy/  
 Source code: https://github.com/GlitterWare/Passy
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Donate: https://github.com/sponsors/GlitterWare  
+Translate: https://github.com/GlitterWare/Passy/blob/main/LOCALIZATION.md  
+Report the bug: https://github.com/GlitterWare/Passy/issues/new  
+Download: https://github.com/GlitterWare/Passy/releases/download/v1.7.0/Passy-v1.7.0-Linux-Appimage.zip

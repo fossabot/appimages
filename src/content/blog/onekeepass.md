@@ -4,7 +4,7 @@ meta_title: ""
 description: "OneKeePass is a cross-platform, open source and secure password manager"
 date: 2023-12-18T08:17:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
+categories: ["Utilities"]
 author: "jeyasankar"
 tags: ["official"]
 draft: false

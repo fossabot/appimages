@@ -1,23 +1,22 @@
 ---
-title: "LibreOffice"
+title: "Pencil2D"
 meta_title: ""
-description: "Free open source office suite"
+description: "Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform."
 date: 2023-12-07T22:52:00Z
 image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "The Document Foundation"
-tags: ["Community"]
+categories: ["Graphics"]
+author: "Pencil2D"
+tags: ["official"]
 draft: false
 ---
 
-Free open source office suite
+Pencil2D is an easy, intuitive tool to make 2D hand-drawn animations. Pencil2D is open source and cross-platform.
 
-License: GPL-3.0
+License: GPL-2.0
 
-Web page: https://www.libreoffice.org/  
+Web page: http://pencil2d.org/  
 Source code: https://github.com/pencil2d/pencil
 
-Donate: https://www.libreoffice.org/donate/  
-Translate: https://wiki.documentfoundation.org/Language  
-Report the bug: https://bugs.documentfoundation.org/  
-Download: https://appimages.libreitalia.org/LibreOffice-fresh.standard-x86_64.AppImage
+Translate: https://www.transifex.com/pencil2d/  
+Report the bug: https://github.com/pencil2d/pencil/issues/new  
+Download: https://github.com/pencil2d/pencil/releases/download/v0.6.6/pencil2d-linux-amd64-0.6.6.AppImage

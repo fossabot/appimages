@@ -77,19 +77,19 @@
 - [x] https://github.com/nuttyartist/notes
 - [ ] https://github.com/NordicSemiconductor/pc-nrfconnect-launcher/
 - [x] https://github.com/nukeop/nuclear
-- [ ] https://github.com/Syllo/nvtop/
-- [ ] Onekey.app
-- [ ] openscad.org/
-- [ ] https://github.com/OpenShot/openshot-qt
-- [ ] https://github.com/ppy/osu/
-- [ ] https://github.com/ow-mods/ow-mod-man
-- [ ] owncloud.com/
-- [ ] https://github.com/padloc/padloc
-- [ ] https://github.com/Rabbit-Company/Passky-Desktop
-- [ ] https://github.com/GlitterWare/Passy
-- [ ] https://github.com/pencil2d/pencil
-- [ ] https://photoqt.org/
-- [ ] https://github.com/HACKERALERT/Picocrypt
+- [x] https://github.com/Syllo/nvtop/
+- [x] Onekey.app
+- [x] openscad.org/
+- [x] https://github.com/OpenShot/openshot-qt
+- [x] https://github.com/ppy/osu/
+- [x] https://github.com/ow-mods/ow-mod-man
+- [x] owncloud.com/
+- [x] https://github.com/padloc/padloc
+- [x] https://github.com/Rabbit-Company/Passky-Desktop
+- [x] https://github.com/GlitterWare/Passy
+- [x] https://github.com/pencil2d/pencil
+- [x] https://photoqt.org/
+- [x] https://github.com/HACKERALERT/Picocrypt
 - [ ] https://purei.org/downloads/play/stable/0.62/Play!-97d971cb-x86_64.AppImage
 - [ ] https://github.com/Barre/privaxy
 - [ ] https://github.com/prateekmedia/pstube
@@ -109,3 +109,4 @@
 - [ ] https://github.com/s3drive/appimage-applatest/download/S3Drive-x86_64.AppImage
 - [ ] https://github.com/modrinth/knossos
 - [ ] https://github.com/mltframework/shotcut/releases/download/v24.01.28/shotcut-linux-x86_64-240128.AppImage
+- [ ] https://github.com/jurplel/qView
