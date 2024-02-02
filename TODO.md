@@ -109,3 +109,4 @@
 - [ ] https://github.com/modrinth/knossos
 - [ ] https://github.com/mltframework/shotcut/releases/download/v24.01.28/shotcut-linux-x86_64-240128.AppImage
 - [ ] https://github.com/jurplel/qView
+- [ ] https://github.com/xournalpp/xournalpp/releases/download/v1.2.2/xournalpp-1.2.2-x86_64.AppImage
