@@ -73,6 +73,7 @@ module.exports = {
       fontFamily: {
         primary: ["var(--font-primary)", fontPrimaryType],
         secondary: ["var(--font-secondary)", fontSecondaryType],
+        },
     },
   },
   plugins: [
