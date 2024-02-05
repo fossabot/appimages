@@ -3,12 +3,12 @@
     {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://www.github.com/drsheppard01/${import.meta.env.BASE_URL}/"
+      "link": "https://www.github.com/drsheppard01/appimages/"
     },
     {
       "name": "rss",
       "icon": "FaRss",
-      "link": "/${import.meta.env.BASE_URL}/"
+      "link": "/appimages/"
     }
   ]
 }
